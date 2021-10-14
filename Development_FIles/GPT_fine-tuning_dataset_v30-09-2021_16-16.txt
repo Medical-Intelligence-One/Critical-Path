@@ -1,0 +1,1710 @@
+#####
+
+Text:
+" Lateral epicondylitis is the most common cause of lateral elbow pain. "
+
+Relationships:
+Lateral epicondylitis, causes, elbow pain
+
+#####
+
+Text:
+" This article reviews the pathophysiological factors involved in lateral epicondylitis, as well as the tools available for establishing the diagnosis and ruling out other causes of lateral elbow pain. "
+
+Relationships:
+
+
+#####
+
+Text:
+" Data for the causes of maternal deaths are needed to inform policies to improve maternal health. "
+
+Relationships:
+
+
+#####
+
+Text:
+" From the most recent data the magnitude of visual impairment and its causes in 2010 have been estimated, globally and by WHO region. "
+
+Relationships:
+
+
+#####
+
+Text:
+" Contemporary data for causes of vision impairment and blindness form an important basis of recommendations in public health policies. "
+
+Relationships:
+
+
+#####
+
+Text:
+" Sepsis is a leading cause of death in medical and surgical intensive care units (ICUs). "
+
+Relationships:
+Sepsis, causes, death
+
+#####
+
+Text:
+" Sepsis-associated encephalopathy (SAE) is the most frequent type of encephalopathy in the ICU and is defined as a state of diffuse cerebral dysfunction caused by the inflammatory response of the body to various infections, where the inflammatory process does not affect the central nervous system (CNS) directly and the primary symptom is a disturbed level of consciousness. "
+
+Relationships:
+inflammatory response, causes, encephalopathy
+
+#####
+
+Text:
+" Many causes of vision impairment can be prevented or treated. "
+
+Relationships:
+
+
+#####
+
+Text:
+" We estimated the prevalence and relative contribution of avoidable causes of blindness and vision impairment globally from 1990 to 2020. "
+
+Relationships:
+
+
+#####
+
+Text:
+" Meta-analyses were conducted to determine the frequency (percentages) of seven bacterial types known to cause meningitis: Escherichia coli, Haemophilus influenzae, Neisseria meningitidis, Streptococcus pneumoniae, group B Streptococcus agalactiae, Staphylococcus aureus, and Listeria monocytogenes, with results being stratified by six geographical regions as determined by the World Health Organization, and seven age groups. "
+
+Relationships:
+Escherichia coli, causes, meningitis
+Haemophilus influenzae, causes, meningitis
+Neisseria meningitidis, causes, meningitis
+Streptococcus pneumoniae group B, causes, meningitis
+Streptococcus agalactiae, causes, meningitis
+Staphylococcus aureus, causes, meningitis
+Listeria monocytogenes, causes, meningitis
+
+#####
+
+Text:
+" A clear difference in the weighted frequency of bacterial meningitis cases caused by the different etiological agents was observed between age groups and between geographic regions. "
+
+Relationships:
+
+
+#####
+
+Text:
+" Meta-analyses were conducted to determine the frequency (percentages) of seven bacterial types known to cause meningitis: Escherichia coli, Haemophilus influenzae, Neisseria meningitidis, Streptococcus pneumoniae, group B Streptococcus agalactiae, Staphylococcus aureus, and Listeria monocytogenes, with results being stratified by six geographical regions as determined by the World Health Organization, and seven age groups. "
+
+Relationships:
+Escherichia coli, causes, meningitis
+Haemophilus influenzae, causes, meningitis
+Neisseria meningitidis, causes, meningitis
+Streptococcus pneumoniae group B, causes, meningitis
+Streptococcus agalactiae, causes, meningitis
+Staphylococcus aureus, causes, meningitis
+Listeria monocytogenes, causes, meningitis
+
+#####
+
+Text:
+" Systematic review was performed to locate articles reporting the definition, rate and/or cause of weight regain in patients at least 2 years post-SG. "
+
+Relationships:
+
+
+#####
+
+Text:
+" Proposed causes of weight regain included initial sleeve size, sleeve dilation, increased ghrelin levels, inadequate follow-up support and maladaptive lifestyle behaviours. "
+
+Relationships:
+
+
+#####
+
+Text:
+" Traumatic spinal injury (TSI) results from injury to bony, ligamentous, and/or neurologic structures of the spinal column and can cause significant morbidity and mortality. "
+
+Relationships:
+Traumatic spinal injury (TSI), causes, morbidity
+Traumatic spinal injury (TSI), causes, mortality
+
+#####
+
+Text:
+" Traumatic spinal injury (TSI) results from injury to bony, ligamentous, and/or neurologic structures of the spinal column and can cause significant morbidity and mortality. "
+
+Relationships:
+Traumatic spinal injury (TSI), causes, morbidity
+Traumatic spinal injury (TSI), causes, mortality
+
+#####
+
+Text:
+" Stenotrophomonas maltophilia can cause serious infections in immunocompromised patients. "
+
+Relationships:
+Stenotrophomonas maltophilia, causes, infections
+
+#####
+
+Text:
+"The aim of this systematic review was to establish what invasive infections in humans are caused by S. "
+
+Relationships:
+
+
+#####
+
+Text:
+" maltophilia may cause invasive infections of various tissues in hospitalized patients. "
+
+Relationships:
+maltophilia, causes, infections
+
+#####
+
+Text:
+" Varicella-zoster virus (VZV) is a teratogen that can cross the placenta and cause the congenital varicella syndrome (CVS), which is characterised by multi-system anomalies. "
+
+Relationships:
+Varicella-zoster virus (VZV), causes, congenital varicella syndrome (CVS)
+
+#####
+
+Text:
+" Herpes zoster caused CVS in two cases. "
+
+Relationships:
+Herpes zoster, causes, CVS
+
+#####
+
+Text:
+" The Global Burden of Disease Study 2010 (GBD 2010) documented that ischemic heart disease and stroke collectively caused 1 in 4 deaths worldwide. "
+
+Relationships:
+ischemic heart disease, causes, death
+stroke, causes, death
+
+#####
+
+Text:
+" Worldwide, nutritional rickets continues to be an evolving problem with several causes. "
+
+Relationships:
+
+
+#####
+
+Text:
+" For each region, key information was extracted, including prevalence, cause of rickets specific to the region, methods of confirming the diagnosis and current treatment and preventive measures. "
+
+Relationships:
+
+
+#####
+
+Text:
+"Calcium deficiency continues to be a major cause of rickets in Africa and Asia. "
+
+Relationships:
+Calcium deficiency, causes, rickets
+
+#####
+
+Text:
+" More careful diagnosis of rickets and reporting of 25-OHD concentrations has improved accurate knowledge of rickets prevalence and better delineated the cause. "
+
+Relationships:
+
+
+#####
+
+Text:
+" An unprecedented outbreak of pneumonia caused by a novel coronavirus (CoV), subsequently termed COVID-19 by the World Health Organization, emerged in Wuhan City (China) in December 2019. "
+
+Relationships:
+COVID-19, causes, pneumonia
+
+#####
+
+Text:
+"Despite rigorous containment and quarantine efforts, the incidence of COVID-19 continues to expand, causing explosive outbreaks in more than 160 countries with waves of morbidity and fatality, leading to significant public health problems. "
+
+Relationships:
+
+
+#####
+
+Text:
+"In the past 20 years, two additional epidemics caused by CoVs have occurred: severe acute respiratory syndrome-CoV, which has caused a large-scale epidemic in China and 24 other countries; and respiratory syndrome-CoV of the Middle East in Saudi Arabia, which continues to cause sporadic cases. "
+
+Relationships:
+CoVs, causes, epidemics
+severe acute respiratory syndrome-CoV, causes, epidemic
+
+#####
+
+Text:
+" The literature contains no systematic review that explores alternative causes of a lipase level over three times as high as the ULN. "
+
+Relationships:
+
+
+#####
+
+Text:
+" Mycobacterium tuberculosis is recognised as the primary cause of human tuberculosis worldwide. "
+
+Relationships:
+Mycobacterium tuberculosis, causes, tuberculosis
+
+#####
+
+Text:
+"However, substantial evidence suggests that the burden of Mycobacterium bovis, the cause of bovine tuberculosis, might be underestimated in human beings as the cause of zoonotic tuberculosis. "
+
+Relationships:
+Mycobacterium bovis, causes, bovine tuberculosis
+Mycobacterium bovis, causes, zoonotic tuberculosis
+
+#####
+
+Text:
+" In 2013, results from a systematic review and meta-analysis of global zoonotic tuberculosis showed that the same challenges and concerns expressed 15 years ago remain valid. "
+
+Relationships:
+
+
+#####
+
+Text:
+" Psittacosis is a zoonotic infectious disease caused by the transmission of the bacterium Chlamydia psittaci from birds to humans. "
+
+Relationships:
+Chlamydia psittaci, causes, Psittacosis
+
+#####
+
+Text:
+" psittaci infection as a cause of CAP is therefore unclear. "
+
+Relationships:
+
+
+#####
+
+Text:
+"In this meta-analysis of published CAP-aetiological studies, we estimate the proportion of CAP caused by C. "
+
+Relationships:
+C, causes, CAP
+
+#####
+
+Text:
+" psittaci was the causative pathogen in 1·03% (95% CI 0·79-1·30) of all CAP cases from the included studies combined, with a range between studies from 0 to 6·7%. "
+
+Relationships:
+psittaci, causes, CAP
+
+#####
+
+Text:
+" 2,4-Dinitrophenol (DNP) is reported to cause rapid loss of weight, but unfortunately is associated with an unacceptably high rate of significant adverse effects. "
+
+Relationships:
+2,4-Dinitrophenol (DNP), causes, loss of weight
+
+#####
+
+Text:
+" It causes uncoupling of oxidative phosphorylation; the classic symptom complex associated with toxicity of phenol-based products such as DNP is a combination of hyperthermia, tachycardia, diaphoresis and tachypnoea, eventually leading to death. "
+
+Relationships:
+
+
+#####
+
+Text:
+" Infective endocarditis (IE) incidence remains high with considerable fatality rates; guidelines for prophylaxis against IE are currently under review in some settings which highlights the importance of maintaining up-to-date epidemiological estimates about the most common microbial causes. "
+
+Relationships:
+microbes, causes, Infective endocarditis
+
+#####
+
+Text:
+"The objective of this systematic review, following PRISMA guidelines, was to identify the most common microbial causes of IE in recent years. "
+
+Relationships:
+microbes, causes, IE
+
+#####
+
+Text:
+" Viridans group streptococci (VGS), coagulase-negative staphylococci (CoNS), Enterococcus spp and Streptococcus bovis were among the most common causes. "
+
+Relationships:
+
+
+#####
+
+Text:
+" This review provides an evidence-based map of the most common causative agents of IE, highlighting S. "
+
+Relationships:
+
+
+#####
+
+Text:
+"aureus as the leading cause in the 21st century. "
+
+Relationships:
+
+
+#####
+
+Text:
+" All relevant studies reporting diagnostic results were included. "
+
+Relationships:
+
+
+#####
+
+Text:
+" Dry mouth (xerostomia), is a fairly common, well-researched condition, which is an indirect cause of oral malodour. "
+
+Relationships:
+Dry mouth (xerostomia), causes, oral malodour
+
+#####
+
+Text:
+"This systematic literature review looked into another cause of bad breath: adverse drug reactions in the orofacial region causing halitosis. "
+
+Relationships:
+adverse drug reactions, causes, halitosis
+
+#####
+
+Text:
+" According to these, drug-related halitosis may be caused by nine medications. "
+
+Relationships:
+medications, causes, halitosis
+
+#####
+
+Text:
+" The analysis showed that halitosis can be caused by medication but does not correlate to any specific disease or specific form of drug therapy. "
+
+Relationships:
+medication, causes, halitosis
+
+#####
+
+Text:
+" Pruritus is a common problem among elderly people and, when severe, causes as much discomfort as chronic pain. "
+
+Relationships:
+Pruritus, causes, discomfort
+
+#####
+
+Text:
+" Over the last 25 years, multiple genes have been reported to cause this condition and are routinely tested in patients. "
+
+Relationships:
+
+
+#####
+
+Text:
+" The next steps are aimed at identification of both treatable acquired causes and those genetic causes of myoclonus that require a diagnostic approach other than NGS. "
+
+Relationships:
+
+
+#####
+
+Text:
+"Finally, other genetic diseases that could cause myoclonus can be investigated simultaneously by NGS techniques. "
+
+Relationships:
+
+
+#####
+
+Text:
+" Retinal vein occlusion (RVO) is the second most common cause of visual loss in the Western World. "
+
+Relationships:
+Retinal vein occlusion (RVO), causes, visual loss
+
+#####
+
+Text:
+" The blockage of venous circulation causes an elevation of intraluminal pressure in the capillaries, leading to hemorrhages and leakage of fluid within the retina, increase of interstitial pressure and a consequent reduction of retinal perfusion. "
+
+Relationships:
+
+
+#####
+
+Text:
+"Ischemia may develop resulting in secretion of vascular endothelial growth factor (VEGF) that causes further vascular leakage and retinal oedema. "
+
+Relationships:
+vascular endothelial growth factor (VEGF), causes, vascular leakage
+vascular endothelial growth factor (VEGF), causes, retinal oedema
+
+#####
+
+Text:
+" Ischemia may develop resulting in secretion of vascular endothelial growth factor (VEGF) that causes further vascular leakage and retinal oedema. "
+
+Relationships:
+vascular endothelial growth factor (VEGF), causes, vascular leakage
+vascular endothelial growth factor (VEGF), causes, retinal oedema
+
+#####
+
+Text:
+" From a clinical perspective, there is a need for a reliable and comprehensive list of diseases causing AA amyloidosis. "
+
+Relationships:
+
+
+#####
+
+Text:
+"This list could guide clinicians in the evaluation of patients with AA amyloidosis in whom an obvious cause is lacking. "
+
+Relationships:
+
+
+#####
+
+Text:
+"In this systematic review, a PubMed, Embase and Web of Science literature search were performed on causes of AA amyloidosis published in the last four decades. "
+
+Relationships:
+
+
+#####
+
+Text:
+" Titles were excluded because of non-AA type of amyloidosis, language, no full-text publication or irrelevance. "
+
+Relationships:
+
+
+#####
+
+Text:
+" Most newly described diseases are not really unexpected because they often cause longstanding inflammation. "
+
+Relationships:
+diseases, causes, inflammation
+
+#####
+
+Text:
+" Approximately 50% of pregnancy losses are caused by chromosomal abnormalities, such as aneuploidy. "
+
+Relationships:
+chromosomal abnormalities, causes, pregnancy losses
+aneuploidy, causes, pregnancy losses
+
+#####
+
+Text:
+" Identification of the causes of stillbirth is critical to the primary prevention of stillbirth and to the provision of optimal care in subsequent pregnancies. "
+
+Relationships:
+
+
+#####
+
+Text:
+" Though LBP can be caused by acute injuries, biomechanical discrepancies have also been indicated to cause chronic LBP. "
+
+Relationships:
+acute injuries, causes, LBP
+biomechanical discrepancies, causes, LBP
+
+#####
+
+Text:
+" Specifically, excessive pronation has been shown to cause leg length discrepancies leading to pelvic tilts and LBP. "
+
+Relationships:
+excessive pronation, causes, leg length discrepancies
+leg length discrepancies, causes, pelvic tilts
+leg length discrepancies, causes, LBP
+
+#####
+
+Text:
+"Based on these results, ankle and foot deviations can be considered a potential cause for LBP due to the disruption of the kinetic chain from the foot to the back. "
+
+Relationships:
+ankle deviations, causes, LBP
+foot deviations, causes, LBP
+
+#####
+
+Text:
+" Based on these results, ankle and foot deviations can be considered a potential cause for LBP due to the disruption of the kinetic chain from the foot to the back. "
+
+Relationships:
+ankle deviations, causes, LBP
+foot deviations, causes, LBP
+
+#####
+
+Text:
+" Based on these results, ankle and foot deviations can be considered a potential cause for LBP due to the disruption of the kinetic chain from the foot to the back. "
+
+Relationships:
+ankle deviations, causes, LBP
+foot deviations, causes, LBP
+
+#####
+
+Text:
+" Duchenne muscular dystrophy (DMD) is a severe X-linked neuromuscular childhood disorder that causes progressive muscle weakness and degeneration and results in functional decline, loss of ambulation and early death of young men due to cardiac or respiratory failure. "
+
+Relationships:
+Duchenne muscular dystrophy (DMD), causes, muscle weakness
+Duchenne muscular dystrophy (DMD), causes, muscle degeneration
+Duchenne muscular dystrophy (DMD), causes, functional decline
+Duchenne muscular dystrophy (DMD), causes, loss of ambulation
+Duchenne muscular dystrophy (DMD), causes, death
+Duchenne muscular dystrophy (DMD), causes, cardiac failure
+Duchenne muscular dystrophy (DMD), causes, respiratory failure
+respiratory failure, causes, death
+cardiac failure, causes, death
+
+#####
+
+Text:
+" Duchenne muscular dystrophy (DMD) is a severe X-linked neuromuscular childhood disorder that causes progressive muscle weakness and degeneration and results in functional decline, loss of ambulation and early death of young men due to cardiac or respiratory failure. "
+
+Relationships:
+
+
+#####
+
+Text:
+" Duchenne muscular dystrophy (DMD) is a severe X-linked neuromuscular childhood disorder that causes progressive muscle weakness and degeneration and results in functional decline, loss of ambulation and early death of young men due to cardiac or respiratory failure. "
+
+Relationships:
+
+
+#####
+
+Text:
+" Infections of the genital tract are considered common causes of male fertility disorders, with a prevalence of 6-10%. "
+
+Relationships:
+Infections of the genital tract, causes, male fertility disorders
+
+#####
+
+Text:
+" Inconsistent diagnostic criteria have been applied to date, and this may explain the controversial debate about the role of infection and inflammation in the genital tract as a cause of infertility. "
+
+Relationships:
+
+
+#####
+
+Text:
+" This systematic literature review examines the available data on mortality and causes of death in PwcHA to enable a better understanding of fatalities in PwcHA and evaluate the impact of new treatment paradigms on mortality. "
+
+Relationships:
+
+
+#####
+
+Text:
+"A systematic literature review of observational studies was conducted by searching Medline, Embase, and clinical trials registries for articles published from January 2010 to March 2020, using the search terms: hemophilia A (HA), mortality, cause of death. "
+
+Relationships:
+
+
+#####
+
+Text:
+" Hemorrhage, HIV, HCV, and hepatic disease were the leading causes of death. "
+
+Relationships:
+Hemorrhage, causes, death
+HIV, causes, death
+HCV, causes, death
+hepatic disease, causes, death
+
+#####
+
+Text:
+" While the main causes of maternal mortality in low and middle income countries are well understood, less is known about whether patterns for causes of maternal deaths among adolescents are the same as for older women. "
+
+Relationships:
+
+
+#####
+
+Text:
+"This study systematically reviews the literature on cause of maternal death in adolescence. "
+
+Relationships:
+
+
+#####
+
+Text:
+" Commonly used antiepileptic drugs are typically ineffective against metabolic epilepsy as they do not address its root cause. "
+
+Relationships:
+
+
+#####
+
+Text:
+" These methods were tailored to address the root causes of the metabolic disturbances rather than targeting the epilepsy phenotype alone. "
+
+Relationships:
+
+
+#####
+
+Text:
+" The Global Burden of Diseases, Injuries, and Risk Factors (GBD) Study 2010 documented that ischemic heart disease and stroke collectively caused one in four deaths worldwide. "
+
+Relationships:
+ischemic heart disease, causes, death
+stroke, causes, death
+
+#####
+
+Text:
+"GBD 2010 did not report data for VTE as a cause of death and disability. "
+
+Relationships:
+
+
+#####
+
+Text:
+"We performed a systematic review of the literature on the global disease burden caused by VTE in low-income, middle-income and high-income countries. "
+
+Relationships:
+VTE, causes, disease
+
+#####
+
+Text:
+" Although the incidence is lower in individuals of Chinese and Korean ethnicity, their disease burden is not low, because of population aging. "
+
+Relationships:
+
+
+#####
+
+Text:
+"VTE associated with hospitalization was the leading cause of disability-adjusted life-years (DALYs) lost in low-income and middle-income countries, and the second most common cause in high-income countries, being responsible for more DALYs lost than nosocomial pneumonia, catheter-related bloodstream infections, and adverse drug events. "
+
+Relationships:
+
+
+#####
+
+Text:
+"VTE causes a major burden of disease across low-income, middle-income and high-income countries. "
+
+Relationships:
+VTE, causes, disease
+
+#####
+
+Text:
+" Objective of this systematic review was to establish whether and what invasive infections in humans were caused by Kocuria kristinae, and to evaluate outcomes of administered antibiotic treatment. "
+
+Relationships:
+
+
+#####
+
+Text:
+" kristinae is a pathogen microorganism that could cause invasive infections of various tissues in patients of any age. "
+
+Relationships:
+
+
+#####
+
+Text:
+" Preeclampsia, which affects approximately 5% of pregnancies, is a leading cause of maternal and perinatal death. "
+
+Relationships:
+Preeclampsia, causes, maternal death
+Preeclampsia, causes, perinatal death
+
+#####
+
+Text:
+"The causes of preeclampsia remain unclear, but there is evidence for inherited susceptibility. "
+
+Relationships:
+inheritence, causes, preeclampsia
+
+#####
+
+Text:
+" In particular, post-operative complications are the major causes of high mortality derived from the esophageal cancer. "
+
+Relationships:
+post-operative complications, causes, mortality
+esophageal cancer, causes, mortality
+
+#####
+
+Text:
+" Bronchiectasis is usually a complication of previous lower respiratory infection, and causes chronic cough and copious production of sputum, which is often purulent. "
+
+Relationships:
+Bronchiectasis, causes, chronic cough
+Bronchiectasis, causes, production of sputum
+
+#####
+
+Text:
+"Bronchiectasis may cause signs of chronic obstructive pulmonary disease. "
+
+Relationships:
+
+
+#####
+
+Text:
+" Though LBP can be caused by acute injuries, biomechanical discrepancies have also been indicated to cause chronic LBP. "
+
+Relationships:
+acute injuries, causes, LBP
+biomechanical discrepancies, causes, LBP
+
+#####
+
+Text:
+" Specifically, excessive pronation has been shown to cause leg length discrepancies leading to pelvic tilts and LBP. "
+
+Relationships:
+excessive pronation, causes, leg length discrepancies
+leg length discrepancies, causes, pelvic tilts
+leg length discrepancies, causes, LBP
+excessive pronation, causes, pelvic tilts
+excessive pronation, causes, LBP
+
+#####
+
+Text:
+"Based on these results, ankle and foot deviations can be considered a potential cause for LBP due to the disruption of the kinetic chain from the foot to the back. "
+
+Relationships:
+ankle deviations, causes, LBP
+foot deviations, causes, LBP
+
+#####
+
+Text:
+" Based on these results, ankle and foot deviations can be considered a potential cause for LBP due to the disruption of the kinetic chain from the foot to the back. "
+
+Relationships:
+ankle deviations, causes, LBP
+foot deviations, causes, LBP
+
+#####
+
+Text:
+" Based on these results, ankle and foot deviations can be considered a potential cause for LBP due to the disruption of the kinetic chain from the foot to the back. "
+
+Relationships:
+ankle deviations, causes, LBP
+foot deviations, causes, LBP
+
+#####
+
+Text:
+" Calciphylaxis, or calcific uremic arteriolopathy, is a well-described entity in end-stage kidney disease and renal transplant patients; however, little systematic information is available on calciphylaxis from nonuremic causes. "
+
+Relationships:
+
+
+#####
+
+Text:
+" In this systematic review, we give an overview of the frequency, causes, and consequences of MRI-defined silent brain infarcts, which are detected in 20% of healthy elderly people and up to 50% of patients in selected series. "
+
+Relationships:
+
+
+#####
+
+Text:
+"Most infarcts are lacunes, of which hypertensive small-vessel disease is thought to be the main cause. "
+
+Relationships:
+hypertensive small-vessel disease, causes, lacunar infarcts
+
+#####
+
+Text:
+" Bronchiectasis is usually a complication of previous lower respiratory infection, and causes chronic cough and copious production of sputum, which is often purulent. "
+
+Relationships:
+Bronchiectasis, causes, chronic cough
+Bronchiectasis, causes, production of sputum
+
+#####
+
+Text:
+"Bronchiectasis may cause signs of chronic obstructive pulmonary disease. "
+
+Relationships:
+
+
+#####
+
+Text:
+" Otitis media (OM) is a leading cause of health care visits and drugs prescription. "
+
+Relationships:
+Otitis media (OM), causes, health care visits
+Otitis media (OM), causes, prescription
+
+#####
+
+Text:
+"Its complications and sequelae are important causes of preventable hearing loss, particularly in developing countries. "
+
+Relationships:
+
+
+#####
+
+Text:
+" Reports of individuals with point mutations in SHANK3 exhibiting neuropsychiatric decompensation and loss of skills demonstrate that loss of one copy of SHANK3 is sufficient to cause these manifestations. "
+
+Relationships:
+loss of one copy of SHANK3, causes, neuropsychiatric decompensation
+loss of one copy of SHANK3, causes, loss of skills
+
+#####
+
+Text:
+"In the majority of cases, no apparent cause could be identified; in others, symptoms appeared after acute events, such as infections, prolonged or particularly intense seizures, or changes in the individual's environment. "
+
+Relationships:
+
+
+#####
+
+Text:
+"In PubMed (500 titles) and Scopus (272), the search terms "nasal bone fracture" AND "etiology OR cause" were used. "
+
+Relationships:
+
+
+#####
+
+Text:
+"The causes of NBFs were different between adults and children. "
+
+Relationships:
+
+
+#####
+
+Text:
+" The causes of NBFs varied geographically. "
+
+Relationships:
+
+
+#####
+
+Text:
+" Ear wax only becomes a problem if it causes a hearing impairment or other ear-related symptoms. "
+
+Relationships:
+Ear wax, causes, hearing impairment
+Ear wax, causes, ear-related symptoms
+
+#####
+
+Text:
+"Ear wax is more likely to accumulate and cause a hearing impairment when normal extrusion is prevented; for example, by the use of hearing aids, or by the use of cotton buds to clean the ears. "
+
+Relationships:
+Ear wax, causes, hearing impairment
+
+#####
+
+Text:
+" The economic burden and health threats caused by these coronaviruses are extremely dreadful and getting more serious as the increasing number of global infections and attributed deaths of SARS-CoV-2 and MERS-CoV. "
+
+Relationships:
+coronaviruses, causes, economic burden
+coronaviruses, causes, health threats
+SARS-CoV-2, causes, death
+MERS-CoV, causes, death
+
+#####
+
+Text:
+" Moreover, the fast spread of misinformation about the ongoing SARS-CoV-2 pandemic uniquely places the virus alongside an annoying infodemic and causes unnecessary worldwide panic. "
+
+Relationships:
+misinformation, causes, panic
+
+#####
+
+Text:
+" By gaining a deeper understanding of hCoVs and the illnesses caused by them, we can bridge knowledge gaps, provide cultural weapons for fighting and controling the spread of MERS-CoV and SARS-CoV-2, and prepare effective and robust defense lines against hCoVs that may emerge or reemerge in the future. "
+
+Relationships:
+hCoVs, causes, illnesses
+
+#####
+
+Text:
+" Extra-oral halitosis is a type of halitosis caused by systemic conditions, bloodborne diseases, or pharmaceutical therapy. "
+
+Relationships:
+systemic conditions, causes, extra-oral halitosis
+bloodborne diseases, causes, extra-oral halitosis
+pharmaceutical therapy, causes, extra-oral halitosis
+
+#####
+
+Text:
+" A medication error (ME) is an error that causes damage or poses a threat of harm to a patient. "
+
+Relationships:
+medication error (ME), causes, damage to a patient
+
+#####
+
+Text:
+"Several studies have shown that only a minority of MEs actually causes harm, and this might explain why medication reviews at hospital admission reduce the number of MEs without showing an effect on length of hospital stay, readmissions, or death. "
+
+Relationships:
+MEs, causes, harm
+
+#####
+
+Text:
+"The purpose of this study was to define drugs that actually cause serious MEs. "
+
+Relationships:
+drugs, causes, MEs
+
+#####
+
+Text:
+" ARDS is an acute and progressive respiratory disease of a non-cardiac cause that is associated with progressively diffuse bilateral pulmonary infiltrates, reduced pulmonary compliance, and hypoxaemia. "
+
+Relationships:
+
+
+#####
+
+Text:
+"The main causes of ARDS include direct lung injury (e.g"
+
+Relationships:
+lung injury, causes, ARDS
+
+#####
+
+Text:
+" Between one third and one half of people with ARDS die from the disease, but mortality depends on the underlying cause. "
+
+Relationships:
+
+
+#####
+
+Text:
+" Elucidation of the causes of premature ovarian failure (POF) is difficult due to the heterogeneity of the condition. "
+
+Relationships:
+
+
+#####
+
+Text:
+" Elucidation of the causes of premature ovarian failure (POF) is difficult due to the heterogeneity of the condition. "
+
+Relationships:
+
+
+#####
+
+Text:
+" Identifying the cause of CP requires a systematic review of the many potential causes when the cause is not obvious. "
+
+Relationships:
+
+
+#####
+
+Text:
+"The identification of patients with autoimmune CP is particularly important because treatment with steroids may be effective. "
+
+Relationships:
+
+
+#####
+
+Text:
+" We performed a systematic review to assess the following in this population: (1) the main causes of acute and recurrent cough, either exercise-induced or not, (2) how cough is assessed, and (3) how cough is treated in this population. "
+
+Relationships:
+
+
+#####
+
+Text:
+" Strengths and weaknesses of these categories are examined in terms of proposed characteristics of a useful scientific definition of causation: it must be specific enough to distinguish causation from mere correlation, but not so narrow as to eliminate apparent causal phenomena from consideration. "
+
+Relationships:
+
+
+#####
+
+Text:
+"Two categories-production and counterfactual-are present in any definition of causation but are not themselves sufficient as definitions. "
+
+Relationships:
+
+
+#####
+
+Text:
+"The necessary and sufficient cause definition assumes that all causes are deterministic. "
+
+Relationships:
+
+
+#####
+
+Text:
+"The sufficient-component cause definition attempts to explain probabilistic phenomena via unknown component causes. "
+
+Relationships:
+
+
+#####
+
+Text:
+"Thus, on both of these views, heavy smoking can be cited as a cause of lung cancer only when the existence of unknown deterministic variables is assumed. "
+
+Relationships:
+heavy smoking, causes, lung cancer
+
+#####
+
+Text:
+"The probabilistic definition, however, avoids these assumptions and appears to best fit the characteristics of a useful definition of causation. "
+
+Relationships:
+
+
+#####
+
+Text:
+" In debates in the literature over these goals, proponents of epidemiology as pure science tend to favour a narrower deterministic notion of causation models while proponents of epidemiology as public health tend to favour a probabilistic view. "
+
+Relationships:
+
+
+#####
+
+Text:
+"The authors argue that a single definition of causation for the discipline should be and is consistent with both of these aims. "
+
+Relationships:
+
+
+#####
+
+Text:
+" The underlying causes of chordae tendinae rupture (CTR) and their frequencies vary. "
+
+Relationships:
+
+
+#####
+
+Text:
+" Among parents who suffer RPL, the best studied genetic cause is balanced chromosomal translocations. "
+
+Relationships:
+balanced chromosomal translocations, causes, RPL
+
+#####
+
+Text:
+" For evaluation of genetic abnormalities in cases of pregnancy loss, chromosomal microarray is more likely to yield interpretable results than karyotype due to cell culture failure. "
+
+Relationships:
+
+
+#####
+
+Text:
+" For evaluation of genetic abnormalities in cases of pregnancy loss, chromosomal microarray is more likely to yield interpretable results than karyotype due to cell culture failure. "
+
+Relationships:
+
+
+#####
+
+Text:
+" TMA is a term used to describe multiple syndromes caused by microvascular thrombosis, including thrombotic thrombocytopenic purpura (TTP), Shiga toxin-mediated hemolytic uremic syndrome, and complement-mediated TMA. "
+
+Relationships:
+microvascular thrombosis, causes, TMA
+microvascular thrombosis, causes, thrombotic thrombocytopenic purpura (TTP)
+microvascular thrombosis, causes, Shiga toxin-mediated hemolytic uremic syndrome
+microvascular thrombosis, causes, complement-mediated TMA
+
+#####
+
+Text:
+"In patients with cancer, systemic microvascular metastases and bone marrow involvement can cause microangiopathic hemolytic anemia and thrombocytopenia. "
+
+Relationships:
+systemic microvascular metastases, causes, microangiopathic hemolytic anemia
+systemic microvascular metastases, causes, thrombocytopenia
+bone marrow involvement with cancer, causes, microangiopathic hemolytic anemia
+bone marrow involvement with cancer, causes, thrombocytopenia
+
+#####
+
+Text:
+" TMA may also be caused by commonly used chemotherapy agents, either through dose-dependent toxicity or an acute immune-mediated reaction. "
+
+Relationships:
+chemotherapy, causes, TMA
+chemotherapy, causes, toxicity
+chemotherapy, causes, acute immune-mediated reaction
+toxicity, causes, TMA
+acute immune-mediated reaction, causes, TMA
+
+#####
+
+Text:
+"These causes of TMA must be distinguished from TTP, which results from a severe deficiency of ADAMTS13 and is the most common cause of TMA among adults without cancer. "
+
+Relationships:
+severe deficiency of ADAMTS13, causes, TTP
+TTP, causes, TMA
+
+#####
+
+Text:
+" These causes of TMA must be distinguished from TTP, which results from a severe deficiency of ADAMTS13 and is the most common cause of TMA among adults without cancer. "
+
+Relationships:
+severe deficiency of ADAMTS13, causes, TTP
+TTP, causes, TMA
+
+#####
+
+Text:
+"A SYSTEMATIC REVIEW OF CAUSES OF SUDDEN AND SEVERE HEADACHE (THUNDERCLAP HEADACHE): SHOULD LISTS BE EVIDENCE BASED? There are many potential causes of sudden and severe headache (thunderclap headache), the most important of which is aneurysmal subarachnoid haemorrhage. "
+
+Relationships:
+aneurysmal subarachnoid haemorrhage, causes, sudden and severe headache (thunderclap headache)
+
+#####
+
+Text:
+"Published academic reviews report a wide range of causes. "
+
+Relationships:
+
+
+#####
+
+Text:
+" This literature review presents two unusual and mystifying disorders of penile erection: painful nocturnal erections, alternatively termed sleep-related painful erections, and idiopathic stuttering priapism, a variant of recurrent ischemic priapism in which no cause is discernible. "
+
+Relationships:
+
+
+#####
+
+Text:
+" The main subject areas of discussion are recognition, clinical evaluation and management although current concepts surrounding their causes and mechanisms are also addressed. "
+
+Relationships:
+
+
+#####
+
+Text:
+" The causes of Permanent Childhood Hearing Impairment (PCHI) are often quoted as being hereditary in 50%, acquired in 25%, and unknown in 25% of cases. "
+
+Relationships:
+inheritance, causes, Permanent Childhood Hearing Impairment (PCHI)
+
+#####
+
+Text:
+"Interest in the causes of PCHI has grown recently due to increasing diagnostic possibilities. "
+
+Relationships:
+
+
+#####
+
+Text:
+" Interest in the causes of PCHI has grown recently due to increasing diagnostic possibilities. "
+
+Relationships:
+
+
+#####
+
+Text:
+" To investigate how many people return to work (RTW) after acquiring brain injury (ABI) due to traumatic or non-traumatic causes. "
+
+Relationships:
+
+
+#####
+
+Text:
+" To investigate how many people return to work (RTW) after acquiring brain injury (ABI) due to traumatic or non-traumatic causes. "
+
+Relationships:
+
+
+#####
+
+Text:
+" Paresthesia is a neurosensitivity disorder caused by injury to the neural tissue. "
+
+Relationships:
+injury to the neural tissue, causes, paresthesia
+
+#####
+
+Text:
+" Paresthesia related to endodontic treatment can occur because of extravasation of filling material or the intracanal dressing, as a consequence of periapical surgery or because of periapical infection. "
+
+Relationships:
+
+
+#####
+
+Text:
+" Concurrently, clusters of children with acute flaccid paralysis of unknown cause were reported in several US states and in Europe. "
+
+Relationships:
+
+
+#####
+
+Text:
+" Complications in patients who were severely neurologically affected resemble those caused by poliomyelitis. "
+
+Relationships:
+poliomyelitis, causes, complications
+
+#####
+
+Text:
+"In this paper we systematically review reports on enterovirus D68 to estimate its global epidemiology and its ability to cause respiratory infections and neurological damage in children. "
+
+Relationships:
+enterovirus D68, causes, respiratory infections
+enterovirus D68, causes, neurological damage
+
+#####
+
+Text:
+" When secondary patellar resurfacing is performed, a uniformly and widely used scoring system that is validated for anterior knee pain caused by a retropatellar degeneration will give more insight into the results of this procedure. "
+
+Relationships:
+retropatellar degeneration, causes, anterior knee pain
+
+#####
+
+Text:
+"The cause of anterior knee pain following total knee arthroplasty (TKA) is not always related to the patella itself. "
+
+Relationships:
+
+
+#####
+
+Text:
+"Other causes have been identified, such as an insufficient posterior cruciate ligament in the case of a posterior cruciate-retaining TKA or an internally rotated femoral and/or tibial component. "
+
+Relationships:
+
+
+#####
+
+Text:
+" Because the available evidence is of generally low quality, the results of this systematic review only support a weak recommendation for secondary patellar resurfacing if patient satisfaction and clinically important improvement of functional outcomes are the desired endpoints. "
+
+Relationships:
+
+
+#####
+
+Text:
+" When secondary patellar resurfacing is performed, a uniformly and widely used scoring system that is validated for anterior knee pain caused by a retropatellar degeneration will give more insight into the results of this procedure. "
+
+Relationships:
+retropatellar degeneration, causes, anterior knee pain
+
+#####
+
+Text:
+" Because the available evidence is of generally low quality, the results of this systematic review only support a weak recommendation for secondary patellar resurfacing if patient satisfaction and clinically important improvement of functional outcomes are the desired endpoints. "
+
+Relationships:
+
+
+#####
+
+Text:
+" The lack of reported cases is probably due to the difficulty in establishing a cause-and-effect relationship. "
+
+Relationships:
+
+
+#####
+
+Text:
+" The lack of reported cases is probably due to the difficulty in establishing a cause-and-effect relationship. "
+
+Relationships:
+
+
+#####
+
+Text:
+" Intracranial hypotension (IH) is a syndrome in which volume depletion of the cerebrospinal fluid (CSF) results in various neurological symptoms. "
+
+Relationships:
+volume depletion of the cerebrospinal fluid (CSF), causes, neurological symptoms
+
+#####
+
+Text:
+"Most commonly, a small tear or defect in the spinal dural sac is the underlying lesion that results in a CSF leakage and IH. "
+
+Relationships:
+small tear in the spinal dural sac, causes, CSF leakage
+defect in the spinal dural sac, causes, CSF leakage
+small tear in the spinal dural sac, causes, IH
+defect in the spinal dural sac, causes, IH
+
+#####
+
+Text:
+" Serious and potentially life-threatening clinical manifestations of acute leptospirosis are caused by both direct tissue invasion by spirochaetes and by the host immune responses. "
+
+Relationships:
+tissue invasion by spirochaetes, causes, clinical manifestations of acute leptospirosis
+host immune responses, causes, clinical manifestations of acute leptospirosis
+
+#####
+
+Text:
+"In its severe form, leptospirosis can cause multi-organ dysfunction and death in a matter of days. "
+
+Relationships:
+leptospirosis, causes, multi-organ dysfunction
+leptospirosis, causes, death
+
+#####
+
+Text:
+" Publications were included if they described the causes, diagnosis, treatment, and functional outcome of this syndrome. "
+
+Relationships:
+
+
+#####
+
+Text:
+" The most common cause of gluteal compartment syndrome was prolonged immobilization. "
+
+Relationships:
+prolonged immobilization, causes, gluteal compartment syndrome
+
+#####
+
+Text:
+" The toxic dose was estimated as the lowest dose causing objective adverse effects.S"
+
+Relationships:
+
+
+#####
+
+Text:
+" For most antipsychotics the ingestion of one tablet caused symptoms that were sometimes severe and usually lasted from 1 to 3 days. "
+
+Relationships:
+antipsychotics, causes, symptoms
+
+#####
+
+Text:
+" Chlorpromazine caused CNS depression, hypotension and miosis; EPS and cardiac effects were rare, and the toxic dose was estimated to be 15 mg/kg. "
+
+Relationships:
+Chlorpromazine, causes, CNS depression
+Chlorpromazine, causes, hypotension
+Chlorpromazine, causes, miosis
+Chlorpromazine, causes, EPS
+Chlorpromazine, causes, cardiac effects
+
+#####
+
+Text:
+" Atypical antipsychotics caused significant CNS depression (except risperidone); EPS were less common. "
+
+Relationships:
+Atypical antipsychotics, causes, CNS depression
+Atypical antipsychotics, causes, EPS
+
+#####
+
+Text:
+" In summary, unintentional antipsychotic ingestion in children can cause severe effects that last 1-3 days, often with one tablet. "
+
+Relationships:
+antipsychotic ingestion, causes, severe effects
+
+#####
+
+Text:
+" Due to the discomfort caused to patients, failure of subarachnoid blocks that happen occasionally even when properly conducted be the most capable professionals have been described since Bier. "
+
+Relationships:
+failure of subarachnoid blocks, causes, discomfort
+
+#####
+
+Text:
+"However, the concept of failure and especially identification of the causes vary. "
+
+Relationships:
+
+
+#####
+
+Text:
+" This paper reports the first systematic review of uncommon causes of status epilepticus reported in the literature between 1990 and 2008. "
+
+Relationships:
+
+
+#####
+
+Text:
+"Uncommon causes are defined as those not listed in the main epidemiological studies of status epilepticus. "
+
+Relationships:
+
+
+#####
+
+Text:
+"181 causes were identified. "
+
+Relationships:
+
+
+#####
+
+Text:
+" A sixth category of 'other causes' has also been included. "
+
+Relationships:
+
+
+#####
+
+Text:
+" It is characterized by the absence of identified causes for CKD. "
+
+Relationships:
+
+
+#####
+
+Text:
+" Any cartilage damage to the glenohumeral joint should be avoided, as these damages may result in osteoarthritis of the shoulder. "
+
+Relationships:
+cartilage damage, causes, osteoarthritis
+
+#####
+
+Text:
+" Cadmium, a widespread environmental pollutant, is a carcinogen that accumulates in the kidney cortex and is a cause of end-stage renal disease. "
+
+Relationships:
+Cadmium, causes, end-stage renal disease
+
+#####
+
+Text:
+" Infections are estimated to cause approximately 15% of the world's cancers with large geographic variations. "
+
+Relationships:
+Infections, causes, cancers
+
+#####
+
+Text:
+" A systematic literature search was performed for each infection to obtain data on infection prevalence in the population and the relative risk or odds ratio associated with the cancer it causes. "
+
+Relationships:
+infection, causes, cancer
+
+#####
+
+Text:
+" An extensive search was performed to locate research papers on childhood blindness prevalence and its causes in the community based and blind schools, respectively, conducted from 1990 onward up to the present. "
+
+Relationships:
+
+
+#####
+
+Text:
+" The causes of childhood blindness from the available blind school studies revealed that causes of childhood blindness have mainly shifted from corneal causes to whole globe abnormalities. "
+
+Relationships:
+corneal causes, causes, childhood blindness
+whole globe abnormalities, causes, childhood blindness
+
+#####
+
+Text:
+" Childhood blindness is one of the priority targets of Vision 2020-Right To Sight due to its impact on the psychological and social growth of the child. "
+
+Relationships:
+
+
+#####
+
+Text:
+" Cerebral infarction caused by pituitary apoplexy (PA) is rare. "
+
+Relationships:
+pituitary apoplexy (PA), causes, cerebral infarction
+
+#####
+
+Text:
+" Stroke is one of the commonest causes of mortality among the world. "
+
+Relationships:
+Stroke, causes, mortality
+
+#####
+
+Text:
+" Regarding the genetic causes of intracerebral hemorrhage (ICH) monogenic causes play a small role. "
+
+Relationships:
+genetics, causes, intracerebral hemorrhage (ICH)
+monogenic causes, causes, intracerebral hemorrhage (ICH)
+
+#####
+
+Text:
+"The causes of SH can be classified as external, internal and intraarticular. "
+
+Relationships:
+
+
+#####
+
+Text:
+"The clinician's goal is to determine the cause and treat patients who have symptomatic SH so that they may return to their activities or to athletic peak performance.M"
+
+Relationships:
+
+
+#####
+
+Text:
+" Arthroscopy may prove useful in the treatment of intraarticular lesions that are causing discomfort. "
+
+Relationships:
+intraarticular lesions, causes, discomfort
+
+#####
+
+Text:
+" The aim of this study is to analyze the causes of failure and to provide a treatment algorithm. "
+
+Relationships:
+
+
+#####
+
+Text:
+" A morphological and functional pre-therapeutic evaluation is necessary to: (i) determine whether the symptoms are due to recurrence of reflux or to an error in initial indication and (ii) to understand the cause of the failure. "
+
+Relationships:
+
+
+#####
+
+Text:
+"The most frequent causes of failure of ST-GERD include errors in the initial indication, which often only need medical treatment, and surgical technical errors, for which surgical redo surgery can be difficult. "
+
+Relationships:
+
+
+#####
+
+Text:
+" A morphological and functional pre-therapeutic evaluation is necessary to: (i) determine whether the symptoms are due to recurrence of reflux or to an error in initial indication and (ii) to understand the cause of the failure. "
+
+Relationships:
+reflux, causes, symptoms
+
+#####
+
+Text:
+" Rickettsioses are diseases caused by rickettsiae, obligate intracellular bacteria that are transmitted by arthropods to humans. "
+
+Relationships:
+rickettsiae, causes, rickettsioses
+rickettsiae, causes, diseases
+
+#####
+
