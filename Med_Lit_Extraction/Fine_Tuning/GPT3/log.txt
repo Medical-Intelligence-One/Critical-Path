@@ -1,6 +1,15 @@
 
-Hello world
-Hello world
-Hello world
-Hello world
-Hello world
+New fine-tune event started at 2021-10-15-15-36-20 on row 900 of the dataset GPT_extraction_datafile_for_causation.csv
+Training file has 798 rows and is named GPT_fine-tune_version2021-10-15-15-36-20training_dataset.jsonl
+Validation file has 100 rows and is named GPT_fine-tune_version2021-10-15-15-36-20validation_dataset.jsonl
+Training file uploaded. The file ID for this training file is file-bfWUudBZwioK0gNzmroKSvAD
+Validation file uploaded. The file ID for this validation file is file-oxsDBxxr16tOvWlT9JeU58z1
+Fine-tuning job submitted. The ID for this job is ft-hZugMxKnbQnyU3u8v9N4fdm8
+Fine-tuning in progress...
+Fine-tune succeeded after 700 seconds.
+Fine-tuned model name: curie:ft-user-92vwagyayt5ojmicz5l5vwi1-2021-10-15-22-47-59
+Result file ID: file-iGu2U0QRNKzVqQs9jvbphpkp
+Result file saved as: GPT_fine-tune_version2021-10-15-15-36-20results.csv
+
+{'Fine-tune_start_time': '2021-10-15-15-36-20', 'input_row_number': 900, 'input_datafile': 'GPT_extraction_datafile_for_causation.csv', 'training_filename': 'GPT_fine-tune_version2021-10-15-15-36-20training_dataset.jsonl', 'validation_filename': 'GPT_fine-tune_version2021-10-15-15-36-20validation_dataset.jsonl', 'training_set_ID': 'file-bfWUudBZwioK0gNzmroKSvAD', 'validation_set_ID': 'file-oxsDBxxr16tOvWlT9JeU58z1', 'fine-tune_job_ID': 'ft-hZugMxKnbQnyU3u8v9N4fdm8', 'fine-tune_model_name': 'curie:ft-user-92vwagyayt5ojmicz5l5vwi1-2021-10-15-22-47-59', 'result_file_ID': 'file-iGu2U0QRNKzVqQs9jvbphpkp', 'training_results_filename': 'GPT_fine-tune_version2021-10-15-15-36-20results.csv'}
+

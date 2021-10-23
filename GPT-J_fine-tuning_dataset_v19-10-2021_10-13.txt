@@ -1,0 +1,6709 @@
+#####
+
+Prompt:
+ Lateral epicondylitis is the most common cause of lateral elbow pain. 
+
+Completion:
+Lateral epicondylitis | causes | elbow pain
+
+#####
+
+Prompt:
+ This article reviews the pathophysiological factors involved in lateral epicondylitis, as well as the tools available for establishing the diagnosis and ruling out other causes of lateral elbow pain. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Data for the causes of maternal deaths are needed to inform policies to improve maternal health. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ From the most recent data the magnitude of visual impairment and its causes in 2010 have been estimated, globally and by WHO region. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Contemporary data for causes of vision impairment and blindness form an important basis of recommendations in public health policies. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Sepsis is a leading cause of death in medical and surgical intensive care units (ICUs). 
+
+Completion:
+Sepsis | causes | death
+
+#####
+
+Prompt:
+ Sepsis-associated encephalopathy (SAE) is the most frequent type of encephalopathy in the ICU and is defined as a state of diffuse cerebral dysfunction caused by the inflammatory response of the body to various infections, where the inflammatory process does not affect the central nervous system (CNS) directly and the primary symptom is a disturbed level of consciousness. 
+
+Completion:
+inflammatory response | causes | encephalopathy
+
+#####
+
+Prompt:
+ Many causes of vision impairment can be prevented or treated. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ We estimated the prevalence and relative contribution of avoidable causes of blindness and vision impairment globally from 1990 to 2020. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Meta-analyses were conducted to determine the frequency (percentages) of seven bacterial types known to cause meningitis: Escherichia coli, Haemophilus influenzae, Neisseria meningitidis, Streptococcus pneumoniae, group B Streptococcus agalactiae, Staphylococcus aureus, and Listeria monocytogenes, with results being stratified by six geographical regions as determined by the World Health Organization, and seven age groups. 
+
+Completion:
+Escherichia coli | causes | meningitis
+Haemophilus influenzae | causes | meningitis
+Neisseria meningitidis | causes | meningitis
+Streptococcus pneumoniae group B | causes | meningitis
+Streptococcus agalactiae | causes | meningitis
+Staphylococcus aureus | causes | meningitis
+Listeria monocytogenes | causes | meningitis
+
+#####
+
+Prompt:
+ A clear difference in the weighted frequency of bacterial meningitis cases caused by the different etiological agents was observed between age groups and between geographic regions. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Systematic review was performed to locate articles reporting the definition, rate and/or cause of weight regain in patients at least 2 years post-SG. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Proposed causes of weight regain included initial sleeve size, sleeve dilation, increased ghrelin levels, inadequate follow-up support and maladaptive lifestyle behaviours. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Traumatic spinal injury (TSI) results from injury to bony, ligamentous, and/or neurologic structures of the spinal column and can cause significant morbidity and mortality. 
+
+Completion:
+Traumatic spinal injury (TSI) | causes | morbidity
+Traumatic spinal injury (TSI) | causes | mortality
+
+#####
+
+Prompt:
+ Stenotrophomonas maltophilia can cause serious infections in immunocompromised patients. 
+
+Completion:
+Stenotrophomonas maltophilia | causes | infections
+
+#####
+
+Prompt:
+The aim of this systematic review was to establish what invasive infections in humans are caused by S. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ maltophilia may cause invasive infections of various tissues in hospitalized patients. 
+
+Completion:
+maltophilia | causes | infections
+
+#####
+
+Prompt:
+ Varicella-zoster virus (VZV) is a teratogen that can cross the placenta and cause the congenital varicella syndrome (CVS), which is characterised by multi-system anomalies. 
+
+Completion:
+Varicella-zoster virus (VZV) | causes | congenital varicella syndrome (CVS)
+
+#####
+
+Prompt:
+ Herpes zoster caused CVS in two cases. 
+
+Completion:
+Herpes zoster | causes | CVS
+
+#####
+
+Prompt:
+ The Global Burden of Disease Study 2010 (GBD 2010) documented that ischemic heart disease and stroke collectively caused 1 in 4 deaths worldwide. 
+
+Completion:
+ischemic heart disease | causes | death
+stroke | causes | death
+
+#####
+
+Prompt:
+ Worldwide, nutritional rickets continues to be an evolving problem with several causes. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ For each region, key information was extracted, including prevalence, cause of rickets specific to the region, methods of confirming the diagnosis and current treatment and preventive measures. 
+
+Completion:
+
+
+#####
+
+Prompt:
+Calcium deficiency continues to be a major cause of rickets in Africa and Asia. 
+
+Completion:
+Calcium deficiency | causes | rickets
+
+#####
+
+Prompt:
+ More careful diagnosis of rickets and reporting of 25-OHD concentrations has improved accurate knowledge of rickets prevalence and better delineated the cause. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ An unprecedented outbreak of pneumonia caused by a novel coronavirus (CoV), subsequently termed COVID-19 by the World Health Organization, emerged in Wuhan City (China) in December 2019. 
+
+Completion:
+COVID-19 | causes | pneumonia
+
+#####
+
+Prompt:
+Despite rigorous containment and quarantine efforts, the incidence of COVID-19 continues to expand, causing explosive outbreaks in more than 160 countries with waves of morbidity and fatality, leading to significant public health problems. 
+
+Completion:
+
+
+#####
+
+Prompt:
+In the past 20 years, two additional epidemics caused by CoVs have occurred: severe acute respiratory syndrome-CoV, which has caused a large-scale epidemic in China and 24 other countries; and respiratory syndrome-CoV of the Middle East in Saudi Arabia, which continues to cause sporadic cases. 
+
+Completion:
+CoVs | causes | epidemics
+severe acute respiratory syndrome-CoV | causes | epidemic
+
+#####
+
+Prompt:
+ The literature contains no systematic review that explores alternative causes of a lipase level over three times as high as the ULN. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Mycobacterium tuberculosis is recognised as the primary cause of human tuberculosis worldwide. 
+
+Completion:
+Mycobacterium tuberculosis | causes | tuberculosis
+
+#####
+
+Prompt:
+However, substantial evidence suggests that the burden of Mycobacterium bovis, the cause of bovine tuberculosis, might be underestimated in human beings as the cause of zoonotic tuberculosis. 
+
+Completion:
+Mycobacterium bovis | causes | bovine tuberculosis
+Mycobacterium bovis | causes | zoonotic tuberculosis
+
+#####
+
+Prompt:
+ In 2013, results from a systematic review and meta-analysis of global zoonotic tuberculosis showed that the same challenges and concerns expressed 15 years ago remain valid. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Psittacosis is a zoonotic infectious disease caused by the transmission of the bacterium Chlamydia psittaci from birds to humans. 
+
+Completion:
+Chlamydia psittaci | causes | Psittacosis
+
+#####
+
+Prompt:
+ psittaci infection as a cause of CAP is therefore unclear. 
+
+Completion:
+
+
+#####
+
+Prompt:
+In this meta-analysis of published CAP-aetiological studies, we estimate the proportion of CAP caused by C. 
+
+Completion:
+C | causes | CAP
+
+#####
+
+Prompt:
+ psittaci was the causative pathogen in 1·03% (95% CI 0·79-1·30) of all CAP cases from the included studies combined, with a range between studies from 0 to 6·7%. 
+
+Completion:
+psittaci | causes | CAP
+
+#####
+
+Prompt:
+ 2,4-Dinitrophenol (DNP) is reported to cause rapid loss of weight, but unfortunately is associated with an unacceptably high rate of significant adverse effects. 
+
+Completion:
+2 |4-Dinitrophenol (DNP) | causes | loss of weight
+
+#####
+
+Prompt:
+ It causes uncoupling of oxidative phosphorylation; the classic symptom complex associated with toxicity of phenol-based products such as DNP is a combination of hyperthermia, tachycardia, diaphoresis and tachypnoea, eventually leading to death. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Infective endocarditis (IE) incidence remains high with considerable fatality rates; guidelines for prophylaxis against IE are currently under review in some settings which highlights the importance of maintaining up-to-date epidemiological estimates about the most common microbial causes. 
+
+Completion:
+microbes | causes | Infective endocarditis
+
+#####
+
+Prompt:
+The objective of this systematic review, following PRISMA guidelines, was to identify the most common microbial causes of IE in recent years. 
+
+Completion:
+microbes | causes | IE
+
+#####
+
+Prompt:
+ Viridans group streptococci (VGS), coagulase-negative staphylococci (CoNS), Enterococcus spp and Streptococcus bovis were among the most common causes. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ This review provides an evidence-based map of the most common causative agents of IE, highlighting S. 
+
+Completion:
+
+
+#####
+
+Prompt:
+aureus as the leading cause in the 21st century. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ All relevant studies reporting diagnostic results were included. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Dry mouth (xerostomia), is a fairly common, well-researched condition, which is an indirect cause of oral malodour. 
+
+Completion:
+Dry mouth (xerostomia) | causes | oral malodour
+
+#####
+
+Prompt:
+This systematic literature review looked into another cause of bad breath: adverse drug reactions in the orofacial region causing halitosis. 
+
+Completion:
+adverse drug reactions | causes | halitosis
+
+#####
+
+Prompt:
+ According to these, drug-related halitosis may be caused by nine medications. 
+
+Completion:
+medications | causes | halitosis
+
+#####
+
+Prompt:
+ The analysis showed that halitosis can be caused by medication but does not correlate to any specific disease or specific form of drug therapy. 
+
+Completion:
+medication | causes | halitosis
+
+#####
+
+Prompt:
+ Pruritus is a common problem among elderly people and, when severe, causes as much discomfort as chronic pain. 
+
+Completion:
+Pruritus | causes | discomfort
+
+#####
+
+Prompt:
+ Over the last 25 years, multiple genes have been reported to cause this condition and are routinely tested in patients. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ The next steps are aimed at identification of both treatable acquired causes and those genetic causes of myoclonus that require a diagnostic approach other than NGS. 
+
+Completion:
+
+
+#####
+
+Prompt:
+Finally, other genetic diseases that could cause myoclonus can be investigated simultaneously by NGS techniques. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Retinal vein occlusion (RVO) is the second most common cause of visual loss in the Western World. 
+
+Completion:
+Retinal vein occlusion (RVO) | causes | visual loss
+
+#####
+
+Prompt:
+ The blockage of venous circulation causes an elevation of intraluminal pressure in the capillaries, leading to hemorrhages and leakage of fluid within the retina, increase of interstitial pressure and a consequent reduction of retinal perfusion. 
+
+Completion:
+
+
+#####
+
+Prompt:
+Ischemia may develop resulting in secretion of vascular endothelial growth factor (VEGF) that causes further vascular leakage and retinal oedema. 
+
+Completion:
+vascular endothelial growth factor (VEGF) | causes | vascular leakage
+vascular endothelial growth factor (VEGF) | causes | retinal oedema
+
+#####
+
+Prompt:
+ Ischemia may develop resulting in secretion of vascular endothelial growth factor (VEGF) that causes further vascular leakage and retinal oedema. 
+
+Completion:
+vascular endothelial growth factor (VEGF) | causes | vascular leakage
+vascular endothelial growth factor (VEGF) | causes | retinal oedema
+
+#####
+
+Prompt:
+ From a clinical perspective, there is a need for a reliable and comprehensive list of diseases causing AA amyloidosis. 
+
+Completion:
+
+
+#####
+
+Prompt:
+This list could guide clinicians in the evaluation of patients with AA amyloidosis in whom an obvious cause is lacking. 
+
+Completion:
+
+
+#####
+
+Prompt:
+In this systematic review, a PubMed, Embase and Web of Science literature search were performed on causes of AA amyloidosis published in the last four decades. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Titles were excluded because of non-AA type of amyloidosis, language, no full-text publication or irrelevance. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Most newly described diseases are not really unexpected because they often cause longstanding inflammation. 
+
+Completion:
+diseases | causes | inflammation
+
+#####
+
+Prompt:
+ Approximately 50% of pregnancy losses are caused by chromosomal abnormalities, such as aneuploidy. 
+
+Completion:
+chromosomal abnormalities | causes | pregnancy losses
+aneuploidy | causes | pregnancy losses
+
+#####
+
+Prompt:
+ Identification of the causes of stillbirth is critical to the primary prevention of stillbirth and to the provision of optimal care in subsequent pregnancies. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Though LBP can be caused by acute injuries, biomechanical discrepancies have also been indicated to cause chronic LBP. 
+
+Completion:
+acute injuries | causes | LBP
+biomechanical discrepancies | causes | LBP
+
+#####
+
+Prompt:
+ Specifically, excessive pronation has been shown to cause leg length discrepancies leading to pelvic tilts and LBP. 
+
+Completion:
+excessive pronation | causes | leg length discrepancies
+leg length discrepancies | causes | pelvic tilts
+leg length discrepancies | causes | LBP
+
+#####
+
+Prompt:
+Based on these results, ankle and foot deviations can be considered a potential cause for LBP due to the disruption of the kinetic chain from the foot to the back. 
+
+Completion:
+ankle deviations | causes | LBP
+foot deviations | causes | LBP
+
+#####
+
+Prompt:
+ Based on these results, ankle and foot deviations can be considered a potential cause for LBP due to the disruption of the kinetic chain from the foot to the back. 
+
+Completion:
+ankle deviations | causes | LBP
+foot deviations | causes | LBP
+
+#####
+
+Prompt:
+ Duchenne muscular dystrophy (DMD) is a severe X-linked neuromuscular childhood disorder that causes progressive muscle weakness and degeneration and results in functional decline, loss of ambulation and early death of young men due to cardiac or respiratory failure. 
+
+Completion:
+Duchenne muscular dystrophy (DMD) | causes | muscle weakness
+Duchenne muscular dystrophy (DMD) | causes | muscle degeneration
+Duchenne muscular dystrophy (DMD) | causes | functional decline
+Duchenne muscular dystrophy (DMD) | causes | loss of ambulation
+Duchenne muscular dystrophy (DMD) | causes | death
+Duchenne muscular dystrophy (DMD) | causes | cardiac failure
+Duchenne muscular dystrophy (DMD) | causes | respiratory failure
+respiratory failure | causes | death
+cardiac failure | causes | death
+
+#####
+
+Prompt:
+ Infections of the genital tract are considered common causes of male fertility disorders, with a prevalence of 6-10%. 
+
+Completion:
+Infections of the genital tract | causes | male fertility disorders
+
+#####
+
+Prompt:
+ Inconsistent diagnostic criteria have been applied to date, and this may explain the controversial debate about the role of infection and inflammation in the genital tract as a cause of infertility. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ This systematic literature review examines the available data on mortality and causes of death in PwcHA to enable a better understanding of fatalities in PwcHA and evaluate the impact of new treatment paradigms on mortality. 
+
+Completion:
+
+
+#####
+
+Prompt:
+A systematic literature review of observational studies was conducted by searching Medline, Embase, and clinical trials registries for articles published from January 2010 to March 2020, using the search terms: hemophilia A (HA), mortality, cause of death. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Hemorrhage, HIV, HCV, and hepatic disease were the leading causes of death. 
+
+Completion:
+Hemorrhage | causes | death
+HIV | causes | death
+HCV | causes | death
+hepatic disease | causes | death
+
+#####
+
+Prompt:
+ While the main causes of maternal mortality in low and middle income countries are well understood, less is known about whether patterns for causes of maternal deaths among adolescents are the same as for older women. 
+
+Completion:
+
+
+#####
+
+Prompt:
+This study systematically reviews the literature on cause of maternal death in adolescence. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Commonly used antiepileptic drugs are typically ineffective against metabolic epilepsy as they do not address its root cause. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ These methods were tailored to address the root causes of the metabolic disturbances rather than targeting the epilepsy phenotype alone. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ The Global Burden of Diseases, Injuries, and Risk Factors (GBD) Study 2010 documented that ischemic heart disease and stroke collectively caused one in four deaths worldwide. 
+
+Completion:
+ischemic heart disease | causes | death
+stroke | causes | death
+
+#####
+
+Prompt:
+GBD 2010 did not report data for VTE as a cause of death and disability. 
+
+Completion:
+
+
+#####
+
+Prompt:
+We performed a systematic review of the literature on the global disease burden caused by VTE in low-income, middle-income and high-income countries. 
+
+Completion:
+VTE | causes | disease
+
+#####
+
+Prompt:
+ Although the incidence is lower in individuals of Chinese and Korean ethnicity, their disease burden is not low, because of population aging. 
+
+Completion:
+
+
+#####
+
+Prompt:
+VTE associated with hospitalization was the leading cause of disability-adjusted life-years (DALYs) lost in low-income and middle-income countries, and the second most common cause in high-income countries, being responsible for more DALYs lost than nosocomial pneumonia, catheter-related bloodstream infections, and adverse drug events. 
+
+Completion:
+
+
+#####
+
+Prompt:
+VTE causes a major burden of disease across low-income, middle-income and high-income countries. 
+
+Completion:
+VTE | causes | disease
+
+#####
+
+Prompt:
+ Objective of this systematic review was to establish whether and what invasive infections in humans were caused by Kocuria kristinae, and to evaluate outcomes of administered antibiotic treatment. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ kristinae is a pathogen microorganism that could cause invasive infections of various tissues in patients of any age. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Preeclampsia, which affects approximately 5% of pregnancies, is a leading cause of maternal and perinatal death. 
+
+Completion:
+Preeclampsia | causes | maternal death
+Preeclampsia | causes | perinatal death
+
+#####
+
+Prompt:
+The causes of preeclampsia remain unclear, but there is evidence for inherited susceptibility. 
+
+Completion:
+inheritence | causes | preeclampsia
+
+#####
+
+Prompt:
+ In particular, post-operative complications are the major causes of high mortality derived from the esophageal cancer. 
+
+Completion:
+post-operative complications | causes | mortality
+esophageal cancer | causes | mortality
+
+#####
+
+Prompt:
+ Bronchiectasis is usually a complication of previous lower respiratory infection, and causes chronic cough and copious production of sputum, which is often purulent. 
+
+Completion:
+Bronchiectasis | causes | chronic cough
+Bronchiectasis | causes | production of sputum
+
+#####
+
+Prompt:
+Bronchiectasis may cause signs of chronic obstructive pulmonary disease. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Calciphylaxis, or calcific uremic arteriolopathy, is a well-described entity in end-stage kidney disease and renal transplant patients; however, little systematic information is available on calciphylaxis from nonuremic causes. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ In this systematic review, we give an overview of the frequency, causes, and consequences of MRI-defined silent brain infarcts, which are detected in 20% of healthy elderly people and up to 50% of patients in selected series. 
+
+Completion:
+
+
+#####
+
+Prompt:
+Most infarcts are lacunes, of which hypertensive small-vessel disease is thought to be the main cause. 
+
+Completion:
+hypertensive small-vessel disease | causes | lacunar infarcts
+
+#####
+
+Prompt:
+ Otitis media (OM) is a leading cause of health care visits and drugs prescription. 
+
+Completion:
+Otitis media (OM) | causes | health care visits
+Otitis media (OM) | causes | prescription
+
+#####
+
+Prompt:
+Its complications and sequelae are important causes of preventable hearing loss, particularly in developing countries. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Reports of individuals with point mutations in SHANK3 exhibiting neuropsychiatric decompensation and loss of skills demonstrate that loss of one copy of SHANK3 is sufficient to cause these manifestations. 
+
+Completion:
+loss of one copy of SHANK3 | causes | neuropsychiatric decompensation
+loss of one copy of SHANK3 | causes | loss of skills
+
+#####
+
+Prompt:
+In the majority of cases, no apparent cause could be identified; in others, symptoms appeared after acute events, such as infections, prolonged or particularly intense seizures, or changes in the individual's environment. 
+
+Completion:
+
+
+#####
+
+Prompt:
+In PubMed (500 titles) and Scopus (272), the search terms "nasal bone fracture" AND "etiology OR cause" were used. 
+
+Completion:
+
+
+#####
+
+Prompt:
+The causes of NBFs were different between adults and children. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ The causes of NBFs varied geographically. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Ear wax only becomes a problem if it causes a hearing impairment or other ear-related symptoms. 
+
+Completion:
+Ear wax | causes | hearing impairment
+Ear wax | causes | ear-related symptoms
+
+#####
+
+Prompt:
+Ear wax is more likely to accumulate and cause a hearing impairment when normal extrusion is prevented; for example, by the use of hearing aids, or by the use of cotton buds to clean the ears. 
+
+Completion:
+Ear wax | causes | hearing impairment
+
+#####
+
+Prompt:
+ The economic burden and health threats caused by these coronaviruses are extremely dreadful and getting more serious as the increasing number of global infections and attributed deaths of SARS-CoV-2 and MERS-CoV. 
+
+Completion:
+coronaviruses | causes | economic burden
+coronaviruses | causes | health threats
+SARS-CoV-2 | causes | death
+MERS-CoV | causes | death
+
+#####
+
+Prompt:
+ Moreover, the fast spread of misinformation about the ongoing SARS-CoV-2 pandemic uniquely places the virus alongside an annoying infodemic and causes unnecessary worldwide panic. 
+
+Completion:
+misinformation | causes | panic
+
+#####
+
+Prompt:
+ By gaining a deeper understanding of hCoVs and the illnesses caused by them, we can bridge knowledge gaps, provide cultural weapons for fighting and controling the spread of MERS-CoV and SARS-CoV-2, and prepare effective and robust defense lines against hCoVs that may emerge or reemerge in the future. 
+
+Completion:
+hCoVs | causes | illnesses
+
+#####
+
+Prompt:
+ Extra-oral halitosis is a type of halitosis caused by systemic conditions, bloodborne diseases, or pharmaceutical therapy. 
+
+Completion:
+systemic conditions | causes | extra-oral halitosis
+bloodborne diseases | causes | extra-oral halitosis
+pharmaceutical therapy | causes | extra-oral halitosis
+
+#####
+
+Prompt:
+ A medication error (ME) is an error that causes damage or poses a threat of harm to a patient. 
+
+Completion:
+medication error (ME) | causes | damage to a patient
+
+#####
+
+Prompt:
+Several studies have shown that only a minority of MEs actually causes harm, and this might explain why medication reviews at hospital admission reduce the number of MEs without showing an effect on length of hospital stay, readmissions, or death. 
+
+Completion:
+MEs | causes | harm
+
+#####
+
+Prompt:
+The purpose of this study was to define drugs that actually cause serious MEs. 
+
+Completion:
+drugs | causes | MEs
+
+#####
+
+Prompt:
+ ARDS is an acute and progressive respiratory disease of a non-cardiac cause that is associated with progressively diffuse bilateral pulmonary infiltrates, reduced pulmonary compliance, and hypoxaemia. 
+
+Completion:
+
+
+#####
+
+Prompt:
+The main causes of ARDS include direct lung injury (e.g
+
+Completion:
+lung injury | causes | ARDS
+
+#####
+
+Prompt:
+ Between one third and one half of people with ARDS die from the disease, but mortality depends on the underlying cause. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Elucidation of the causes of premature ovarian failure (POF) is difficult due to the heterogeneity of the condition. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Identifying the cause of CP requires a systematic review of the many potential causes when the cause is not obvious. 
+
+Completion:
+
+
+#####
+
+Prompt:
+The identification of patients with autoimmune CP is particularly important because treatment with steroids may be effective. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ We performed a systematic review to assess the following in this population: (1) the main causes of acute and recurrent cough, either exercise-induced or not, (2) how cough is assessed, and (3) how cough is treated in this population. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Strengths and weaknesses of these categories are examined in terms of proposed characteristics of a useful scientific definition of causation: it must be specific enough to distinguish causation from mere correlation, but not so narrow as to eliminate apparent causal phenomena from consideration. 
+
+Completion:
+
+
+#####
+
+Prompt:
+Two categories-production and counterfactual-are present in any definition of causation but are not themselves sufficient as definitions. 
+
+Completion:
+
+
+#####
+
+Prompt:
+The necessary and sufficient cause definition assumes that all causes are deterministic. 
+
+Completion:
+
+
+#####
+
+Prompt:
+The sufficient-component cause definition attempts to explain probabilistic phenomena via unknown component causes. 
+
+Completion:
+
+
+#####
+
+Prompt:
+Thus, on both of these views, heavy smoking can be cited as a cause of lung cancer only when the existence of unknown deterministic variables is assumed. 
+
+Completion:
+heavy smoking | causes | lung cancer
+
+#####
+
+Prompt:
+The probabilistic definition, however, avoids these assumptions and appears to best fit the characteristics of a useful definition of causation. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ In debates in the literature over these goals, proponents of epidemiology as pure science tend to favour a narrower deterministic notion of causation models while proponents of epidemiology as public health tend to favour a probabilistic view. 
+
+Completion:
+
+
+#####
+
+Prompt:
+The authors argue that a single definition of causation for the discipline should be and is consistent with both of these aims. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ The underlying causes of chordae tendinae rupture (CTR) and their frequencies vary. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Among parents who suffer RPL, the best studied genetic cause is balanced chromosomal translocations. 
+
+Completion:
+balanced chromosomal translocations | causes | RPL
+
+#####
+
+Prompt:
+ For evaluation of genetic abnormalities in cases of pregnancy loss, chromosomal microarray is more likely to yield interpretable results than karyotype due to cell culture failure. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ TMA is a term used to describe multiple syndromes caused by microvascular thrombosis, including thrombotic thrombocytopenic purpura (TTP), Shiga toxin-mediated hemolytic uremic syndrome, and complement-mediated TMA. 
+
+Completion:
+microvascular thrombosis | causes | TMA
+microvascular thrombosis | causes | thrombotic thrombocytopenic purpura (TTP)
+microvascular thrombosis | causes | Shiga toxin-mediated hemolytic uremic syndrome
+microvascular thrombosis | causes | complement-mediated TMA
+
+#####
+
+Prompt:
+In patients with cancer, systemic microvascular metastases and bone marrow involvement can cause microangiopathic hemolytic anemia and thrombocytopenia. 
+
+Completion:
+systemic microvascular metastases | causes | microangiopathic hemolytic anemia
+systemic microvascular metastases | causes | thrombocytopenia
+bone marrow involvement with cancer | causes | microangiopathic hemolytic anemia
+bone marrow involvement with cancer | causes | thrombocytopenia
+
+#####
+
+Prompt:
+ TMA may also be caused by commonly used chemotherapy agents, either through dose-dependent toxicity or an acute immune-mediated reaction. 
+
+Completion:
+chemotherapy | causes | TMA
+chemotherapy | causes | toxicity
+chemotherapy | causes | acute immune-mediated reaction
+toxicity | causes | TMA
+acute immune-mediated reaction | causes | TMA
+
+#####
+
+Prompt:
+These causes of TMA must be distinguished from TTP, which results from a severe deficiency of ADAMTS13 and is the most common cause of TMA among adults without cancer. 
+
+Completion:
+severe deficiency of ADAMTS13 | causes | TTP
+TTP | causes | TMA
+
+#####
+
+Prompt:
+ These causes of TMA must be distinguished from TTP, which results from a severe deficiency of ADAMTS13 and is the most common cause of TMA among adults without cancer. 
+
+Completion:
+severe deficiency of ADAMTS13 | causes | TTP
+TTP | causes | TMA
+
+#####
+
+Prompt:
+A SYSTEMATIC REVIEW OF CAUSES OF SUDDEN AND SEVERE HEADACHE (THUNDERCLAP HEADACHE): SHOULD LISTS BE EVIDENCE BASED? There are many potential causes of sudden and severe headache (thunderclap headache), the most important of which is aneurysmal subarachnoid haemorrhage. 
+
+Completion:
+aneurysmal subarachnoid haemorrhage | causes | sudden and severe headache (thunderclap headache)
+
+#####
+
+Prompt:
+Published academic reviews report a wide range of causes. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ This literature review presents two unusual and mystifying disorders of penile erection: painful nocturnal erections, alternatively termed sleep-related painful erections, and idiopathic stuttering priapism, a variant of recurrent ischemic priapism in which no cause is discernible. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ The main subject areas of discussion are recognition, clinical evaluation and management although current concepts surrounding their causes and mechanisms are also addressed. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ The causes of Permanent Childhood Hearing Impairment (PCHI) are often quoted as being hereditary in 50%, acquired in 25%, and unknown in 25% of cases. 
+
+Completion:
+inheritance | causes | Permanent Childhood Hearing Impairment (PCHI)
+
+#####
+
+Prompt:
+Interest in the causes of PCHI has grown recently due to increasing diagnostic possibilities. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Interest in the causes of PCHI has grown recently due to increasing diagnostic possibilities. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ To investigate how many people return to work (RTW) after acquiring brain injury (ABI) due to traumatic or non-traumatic causes. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Paresthesia is a neurosensitivity disorder caused by injury to the neural tissue. 
+
+Completion:
+injury to the neural tissue | causes | paresthesia
+
+#####
+
+Prompt:
+ Paresthesia related to endodontic treatment can occur because of extravasation of filling material or the intracanal dressing, as a consequence of periapical surgery or because of periapical infection. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Concurrently, clusters of children with acute flaccid paralysis of unknown cause were reported in several US states and in Europe. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Complications in patients who were severely neurologically affected resemble those caused by poliomyelitis. 
+
+Completion:
+poliomyelitis | causes | complications
+
+#####
+
+Prompt:
+In this paper we systematically review reports on enterovirus D68 to estimate its global epidemiology and its ability to cause respiratory infections and neurological damage in children. 
+
+Completion:
+enterovirus D68 | causes | respiratory infections
+enterovirus D68 | causes | neurological damage
+
+#####
+
+Prompt:
+ When secondary patellar resurfacing is performed, a uniformly and widely used scoring system that is validated for anterior knee pain caused by a retropatellar degeneration will give more insight into the results of this procedure. 
+
+Completion:
+retropatellar degeneration | causes | anterior knee pain
+
+#####
+
+Prompt:
+The cause of anterior knee pain following total knee arthroplasty (TKA) is not always related to the patella itself. 
+
+Completion:
+
+
+#####
+
+Prompt:
+Other causes have been identified, such as an insufficient posterior cruciate ligament in the case of a posterior cruciate-retaining TKA or an internally rotated femoral and/or tibial component. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Because the available evidence is of generally low quality, the results of this systematic review only support a weak recommendation for secondary patellar resurfacing if patient satisfaction and clinically important improvement of functional outcomes are the desired endpoints. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ The lack of reported cases is probably due to the difficulty in establishing a cause-and-effect relationship. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Intracranial hypotension (IH) is a syndrome in which volume depletion of the cerebrospinal fluid (CSF) results in various neurological symptoms. 
+
+Completion:
+volume depletion of the cerebrospinal fluid (CSF) | causes | neurological symptoms
+
+#####
+
+Prompt:
+Most commonly, a small tear or defect in the spinal dural sac is the underlying lesion that results in a CSF leakage and IH. 
+
+Completion:
+small tear in the spinal dural sac | causes | CSF leakage
+defect in the spinal dural sac | causes | CSF leakage
+small tear in the spinal dural sac | causes | IH
+defect in the spinal dural sac | causes | IH
+
+#####
+
+Prompt:
+ Serious and potentially life-threatening clinical manifestations of acute leptospirosis are caused by both direct tissue invasion by spirochaetes and by the host immune responses. 
+
+Completion:
+tissue invasion by spirochaetes | causes | clinical manifestations of acute leptospirosis
+host immune responses | causes | clinical manifestations of acute leptospirosis
+
+#####
+
+Prompt:
+In its severe form, leptospirosis can cause multi-organ dysfunction and death in a matter of days. 
+
+Completion:
+leptospirosis | causes | multi-organ dysfunction
+leptospirosis | causes | death
+
+#####
+
+Prompt:
+ Publications were included if they described the causes, diagnosis, treatment, and functional outcome of this syndrome. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ The most common cause of gluteal compartment syndrome was prolonged immobilization. 
+
+Completion:
+prolonged immobilization | causes | gluteal compartment syndrome
+
+#####
+
+Prompt:
+ The toxic dose was estimated as the lowest dose causing objective adverse effects.S
+
+Completion:
+
+
+#####
+
+Prompt:
+ For most antipsychotics the ingestion of one tablet caused symptoms that were sometimes severe and usually lasted from 1 to 3 days. 
+
+Completion:
+antipsychotics | causes | symptoms
+
+#####
+
+Prompt:
+ Chlorpromazine caused CNS depression, hypotension and miosis; EPS and cardiac effects were rare, and the toxic dose was estimated to be 15 mg/kg. 
+
+Completion:
+Chlorpromazine | causes | CNS depression
+Chlorpromazine | causes | hypotension
+Chlorpromazine | causes | miosis
+Chlorpromazine | causes | EPS
+Chlorpromazine | causes | cardiac effects
+
+#####
+
+Prompt:
+ Atypical antipsychotics caused significant CNS depression (except risperidone); EPS were less common. 
+
+Completion:
+Atypical antipsychotics | causes | CNS depression
+Atypical antipsychotics | causes | EPS
+
+#####
+
+Prompt:
+ In summary, unintentional antipsychotic ingestion in children can cause severe effects that last 1-3 days, often with one tablet. 
+
+Completion:
+antipsychotic ingestion | causes | severe effects
+
+#####
+
+Prompt:
+ Due to the discomfort caused to patients, failure of subarachnoid blocks that happen occasionally even when properly conducted be the most capable professionals have been described since Bier. 
+
+Completion:
+failure of subarachnoid blocks | causes | discomfort
+
+#####
+
+Prompt:
+However, the concept of failure and especially identification of the causes vary. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ This paper reports the first systematic review of uncommon causes of status epilepticus reported in the literature between 1990 and 2008. 
+
+Completion:
+
+
+#####
+
+Prompt:
+Uncommon causes are defined as those not listed in the main epidemiological studies of status epilepticus. 
+
+Completion:
+
+
+#####
+
+Prompt:
+181 causes were identified. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ A sixth category of 'other causes' has also been included. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ It is characterized by the absence of identified causes for CKD. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Any cartilage damage to the glenohumeral joint should be avoided, as these damages may result in osteoarthritis of the shoulder. 
+
+Completion:
+cartilage damage | causes | osteoarthritis
+
+#####
+
+Prompt:
+ Cadmium, a widespread environmental pollutant, is a carcinogen that accumulates in the kidney cortex and is a cause of end-stage renal disease. 
+
+Completion:
+Cadmium | causes | end-stage renal disease
+
+#####
+
+Prompt:
+ Infections are estimated to cause approximately 15% of the world's cancers with large geographic variations. 
+
+Completion:
+Infections | causes | cancers
+
+#####
+
+Prompt:
+ A systematic literature search was performed for each infection to obtain data on infection prevalence in the population and the relative risk or odds ratio associated with the cancer it causes. 
+
+Completion:
+infection | causes | cancer
+
+#####
+
+Prompt:
+ An extensive search was performed to locate research papers on childhood blindness prevalence and its causes in the community based and blind schools, respectively, conducted from 1990 onward up to the present. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ The causes of childhood blindness from the available blind school studies revealed that causes of childhood blindness have mainly shifted from corneal causes to whole globe abnormalities. 
+
+Completion:
+corneal causes | causes | childhood blindness
+whole globe abnormalities | causes | childhood blindness
+
+#####
+
+Prompt:
+ Childhood blindness is one of the priority targets of Vision 2020-Right To Sight due to its impact on the psychological and social growth of the child. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Cerebral infarction caused by pituitary apoplexy (PA) is rare. 
+
+Completion:
+pituitary apoplexy (PA) | causes | cerebral infarction
+
+#####
+
+Prompt:
+ Stroke is one of the commonest causes of mortality among the world. 
+
+Completion:
+Stroke | causes | mortality
+
+#####
+
+Prompt:
+ Regarding the genetic causes of intracerebral hemorrhage (ICH) monogenic causes play a small role. 
+
+Completion:
+genetics | causes | intracerebral hemorrhage (ICH)
+monogenic causes | causes | intracerebral hemorrhage (ICH)
+
+#####
+
+Prompt:
+The causes of SH can be classified as external, internal and intraarticular. 
+
+Completion:
+
+
+#####
+
+Prompt:
+The clinician's goal is to determine the cause and treat patients who have symptomatic SH so that they may return to their activities or to athletic peak performance.M
+
+Completion:
+
+
+#####
+
+Prompt:
+ Arthroscopy may prove useful in the treatment of intraarticular lesions that are causing discomfort. 
+
+Completion:
+intraarticular lesions | causes | discomfort
+
+#####
+
+Prompt:
+ The aim of this study is to analyze the causes of failure and to provide a treatment algorithm. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ A morphological and functional pre-therapeutic evaluation is necessary to: (i) determine whether the symptoms are due to recurrence of reflux or to an error in initial indication and (ii) to understand the cause of the failure. 
+
+Completion:
+
+
+#####
+
+Prompt:
+The most frequent causes of failure of ST-GERD include errors in the initial indication, which often only need medical treatment, and surgical technical errors, for which surgical redo surgery can be difficult. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Rickettsioses are diseases caused by rickettsiae, obligate intracellular bacteria that are transmitted by arthropods to humans. 
+
+Completion:
+rickettsiae | causes | rickettsioses
+rickettsiae | causes | diseases
+
+#####
+
+Prompt:
+ Although CS is often the cause of diarrhoea among patients with gastroenteropancreatic NETs (GEP-NETs), other causes to consider include pancreatic enzyme insufficiency (PEI), bile acid malabsorption and small intestinal bacterial overgrowth. 
+
+Completion:
+CS | causes | diarrhoea
+pancreatic enzyme insufficiency (PEI) | causes | diarrhoea
+bile acid malabsorption | causes | diarrhoea
+small intestinal bacterial overgrowth | causes | diarrhoea
+
+#####
+
+Prompt:
+ Primary epiphyseal subacute osteomyelitis (PESAO) caused by Mycobacterium species in young children is poorly recognized. 
+
+Completion:
+Mycobacterium species | causes | primary epiphyseal subacute osteomyelitis (PESAO)
+
+#####
+
+Prompt:
+ We performed a systematic review of the literature on the PubMed website by selecting all reports of isolated infantile PESAO caused by Mycobacterium species since 1975. 
+
+Completion:
+Mycobacterium | causes | PESAO
+
+#####
+
+Prompt:
+ Mycobacterium species contribute to the burden of infantile PESAO in endemic tuberculosis areas and may cause growth disturbances. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ A systematic review of the literature on maternal homicide and suicide was performed to understand the causes of pregnancy-associated death. 
+
+Completion:
+
+
+#####
+
+Prompt:
+Forty-four studies examined homicide and/or suicide and pregnancy-associated death (defined as the death of a woman, from any cause, while she is pregnant or within 1 year of termination of pregnancy) (1). 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Homicide is a leading cause of pregnancy-associated death and suicide is also an important cause of death among pregnant and recently pregnant women. 
+
+Completion:
+homicide | causes |  pregnancy-associated death
+suicide | causes | pregnancy-associated death
+
+#####
+
+Prompt:
+Healthcare providers should understand that homicide is a leading cause of pregnancy-associated death, most commonly as a result of partner violence. 
+
+Completion:
+homicide | causes |  pregnancy-associated death
+partner violence | causes | homicide
+partner violence | causes | pregnancy-associated death
+
+#####
+
+Prompt:
+ Healthcare providers should understand that homicide is a leading cause of pregnancy-associated death, most commonly as a result of partner violence. 
+
+Completion:
+homicide | causes |  pregnancy-associated death
+partner violence | causes | homicide
+partner violence | causes | pregnancy-associated death
+
+#####
+
+Prompt:
+ This systematic review of literature was conducted to identify the causes and estimate the incidence of erroneous diagnoses. 
+
+Completion:
+
+
+#####
+
+Prompt:
+We critically evaluated some articles in which the authors describe observations of urogenital tuberculosis as rare and unusual because they never encountered this disease, but in fact that were typical manifestations of genitourinary tuberculosis. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Really rare forms of bladder tuberculosis as the cause of diagnostic errors are described. 
+
+Completion:
+bladder tuberculosis | causes | diagnostic errors
+
+#####
+
+Prompt:
+ The authors analyzed cases of granulomatous interstitial nephritis due to tuberculosis infection and tuberculosis of the renal artery as the cause of renovascular hypertension. 
+
+Completion:
+tuberculosis | causes | granulomatous interstitial nephritis
+tuberculosis of the renal artery | causes | renovascular hypertension
+
+#####
+
+Prompt:
+OBESITY AND ASTHMA: ASSOCIATION OR COINCIDENCE? Asthma and obesity are among the major causes of morbidity in childhood and adolescence. 
+
+Completion:
+asthma | causes | morbidity
+obesity | causes | morbidity
+
+#####
+
+Prompt:
+ The frequent use (>15 times/month) of medication for the treatment of acute migraine attacks may cause medication overuse headache. 
+
+Completion:
+
+
+#####
+
+Prompt:
+This kind of headache can be caused by the intake of a combination of analgesics, opioids, ergot alkaloids and triptans. 
+
+Completion:
+medications | causes | headache
+
+#####
+
+Prompt:
+ Instabilities and dislocations after elbow arthroplasty, in particular in surface or unlinked prostheses, may cause functional impairments occasionally with the need for surgical revision. 
+
+Completion:
+dislocations | causes | functional impairments
+instabilities | causes | functional impairments
+
+#####
+
+Prompt:
+ Histopathological examination of the placenta is recommended to determine the cause of stillbirth. 
+
+Completion:
+
+
+#####
+
+Prompt:
+Although some reports find causal or contributory placental abnormalities in up to 60% of stillbirths, the significance of such findings in this clinical setting remains uncertain. 
+
+Completion:
+placental abnormalities | causes | stillbirths
+
+#####
+
+Prompt:
+ This problem can cause social embarrassment, and because saliva pools in the mouth, may lead to aspiration pneumonia. 
+
+Completion:
+
+
+#####
+
+Prompt:
+Sialorrhea in PD is thought to be caused by impaired or infrequent swallowing, rather than hypersecretion. 
+
+Completion:
+infrequent swallowing | causes | sialorrhea
+impaired swallowing | causes | sialorrhea
+
+#####
+
+Prompt:
+ The Global Burden of Disease Study 2010 (GBD 2010) documented that ischemic heart disease and stroke collectively caused one in four deaths worldwide. 
+
+Completion:
+ischemic heart disease | causes | death
+stroke | causes | death
+
+#####
+
+Prompt:
+GBD 2010 did not report data for VTE as a cause of death and disability. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Although the incidence is lower in individuals of Chinese and Korean ethnicity, their disease burden is not low because of population aging. 
+
+Completion:
+
+
+#####
+
+Prompt:
+VTE associated with hospitalization was the leading cause of disability-adjusted-life-years (DALYs) lost in low and middle income countries, and second in high income countries, responsible for more DALYs lost than nosocomial pneumonia, catheter-related blood stream infections, and adverse drug events. 
+
+Completion:
+
+
+#####
+
+Prompt:
+VTE causes a major burden of disease across low, middle, and high income countries. 
+
+Completion:
+VTE | causes | disease
+
+#####
+
+Prompt:
+ We performed a systematic review of the literature on the global disease burden due to VTE in low, middle and high income countries. 
+
+Completion:
+VTE | causes | disease
+
+#####
+
+Prompt:
+ The Global Burden of Disease Study 2010 (GBD 2010) documented that ischaemic heart disease and stroke collectively caused one in four deaths worldwide. 
+
+Completion:
+ischemic heart disease | causes | death
+stroke | causes | death
+
+#####
+
+Prompt:
+GBD 2010 did not report data for VTE as a cause of death and disability. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Although the incidence is lower in individuals of Chinese and Korean ethnicity, their disease burden is not low because of population aging. 
+
+Completion:
+
+
+#####
+
+Prompt:
+VTE associated with hospitalisation was the leading cause of disability-adjusted-life-years (DALYs) lost in low and middle income countries, and second in high income countries, responsible for more DALYs lost than nosocomial pneumonia, catheter-related blood stream infections, and adverse drug events. 
+
+Completion:
+
+
+#####
+
+Prompt:
+VTE causes a major burden of disease across low, middle, and high income countries. 
+
+Completion:
+VTE | causes | disease 
+
+#####
+
+Prompt:
+ We performed a systematic review of the literature on the global disease burden due to VTE in low, middle and high income countries. 
+
+Completion:
+VTE | causes | disease 
+
+#####
+
+Prompt:
+ Gallstones and alcohol abuse are the most frequent causes (75% of patients). 
+
+Completion:
+
+
+#####
+
+Prompt:
+Other well-known causes are: hyperlipidemia, hypercalcaemia, abdominal surgery and drugs. 
+
+Completion:
+
+
+#####
+
+Prompt:
+In 10%-40% of patients however, no cause is identified after initial diagnostic evaluation: acute idiopathic pancreatitis. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ There are general complications caused either by the vascular access or the catheters (e. 
+
+Completion:
+vascular access | causes | complications
+catheters | causes | complications
+
+#####
+
+Prompt:
+ The purpose of this article is to give an overview on incidences, causes and management as well as prevention strategies of complications associated with catheter ablation of SVT. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Previous clinical studies indicated loss of retention between dowel and tooth was a major cause of failure for passive endodontic dowels. 
+
+Completion:
+loss of retention between tooth and dowel | causes | failure for passive endodontic dowels
+
+#####
+
+Prompt:
+ It causes stress and requires the victim's adaptive capacity, which can cause psychological and biological changes. 
+
+Completion:
+adaptation | causes | psychological changes
+adaptation | causes | biological changes
+
+#####
+
+Prompt:
+ Ischemic stroke is a leading cause of death in Western society, where about 20% of cases are triggered by a carotid stenosis or occlusion, which occurs more frequently in men than in women. 
+
+Completion:
+ischemic stroke | causes | death 
+carotid stenosis | causes | ischemic stroke
+carotid occlusion | causes | ischemic stroke
+
+#####
+
+Prompt:
+ Gender differences in the outcome of carotid artery repair may be caused by biological, anatomical (smaller vessel diameter in women) or hormonal differences as well as a protracted development of atherosclerotic changes in women and different plaque morphology. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Malaria recurrences caused by relapses are an important cause of morbidity and source of transmission. 
+
+Completion:
+malaria recurrences | causes | morbidity
+malaria relapses | causes | malaria recurrences
+
+#####
+
+Prompt:
+ vivax malaria recurrences caused by relapses in different geographical locations, we systematically reviewed clinical efficacy studies of uncomplicated P. 
+
+Completion:
+vivax malaria relapses | causes | vivax malaria recurrences
+
+#####
+
+Prompt:
+ The minimum proportion of recurrences caused by relapses was estimated for each study site by assuming primaquine prevented all relapses and did not augment blood-stage efficacy. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Familial Mediterranean fever (FMF) causes recurrent episodes of fever and painful serositis. 
+
+Completion:
+Familial Mediterranean fever (FMF) | causes | recurrent episodes of fever
+Familial Mediterranean fever (FMF) | causes | painful serositis
+
+#####
+
+Prompt:
+It has been suggested that FMF can cause recurrent aseptic meningitis (RAM). 
+
+Completion:
+FMF | causes | aseptic meningitis (RAM) 
+
+#####
+
+Prompt:
+ Using the strength-of-conclusion scheme enumerated in Box 2, based on two class II studies, there is probably a causal link between deployment to the Persian Gulf theater of operation and the development of the poorly defined multisymptom illness known as GWS (level B). 
+
+Completion:
+deployment to the Persian Gulf theater of operation | causes | GWS
+
+#####
+
+Prompt:
+Based on class IV studies, there is insufficient evidence to determine if exposure to toxins encountered during the Persian Gulf war caused GWS (level U). 
+
+Completion:
+
+
+#####
+
+Prompt:
+A major limitation of the literature regarding the GWS is the reliance on self-reporting to measure exposure to putative causal toxins. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ The real debate surrounding medically unexplained conditions is not whether or not they exist, but defining their cause. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ One camp insists that the conditions are caused by a yet-to-be-discovered medical problem, rejecting out of hand the possibility of a psychologic origin. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Thus, it is not clear whether pelvic venous congestion causes CPP and, if it does, whether it is a direct or indirect cause. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ A systematic review of causation evidence is needed to prove whether pelvic venous congestion causes CPP and whether embolization treatment is effective. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Nonodontogenic toothache is a painful condition that occurs in the absence of a clinically evident cause in the teeth or periodontal tissues. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ There are a number of possible causes of nonodontogenic toothache and they should be treated. 
+
+Completion:
+
+
+#####
+
+Prompt:
+Nonodontogenic toothache can be categorised into eight groups according to primary disorders as follows: 1) myofascial pain referred to tooth/teeth, 2) neuropathic toothache, 3) idiopathic toothache, 4) neurovascular toothache, 5) sinus pain referred to tooth/teeth, 6) cardiac pain referred to tooth/teeth, 7) psychogenic toothache or toothache of psychosocial origin and 8) toothache caused by various other disorders. 
+
+Completion:
+referred myofascial pain | causes | toothache
+neuropathic disorders | causes | toothache
+idiopathic disorders | causes | toothache
+neurovascular disorders | causes | toothache
+referred sinus pain | causes | toothache
+referred cardiac pain | causes | toothache
+psychogenic disorders | causes | toothache
+
+#####
+
+Prompt:
+ Prescribing errors are common, they result in adverse events and harm to patients and it is unclear how best to prevent them because recommendations are more often based on surmized rather than empirically collected data. 
+
+Completion:
+prescribing errors | causes | adverse events
+prescribing errors | causes | harm to patients
+
+#####
+
+Prompt:
+The aim of this systematic review was to identify all informative published evidence concerning the causes of and factors associated with prescribing errors in specialist and non-specialist hospitals, collate it, analyse it qualitatively and synthesize conclusions from it. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ To be included, a study had to be of handwritten prescriptions for adult or child inpatients that reported empirically collected data on the causes of or factors associated with errors. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Causes were grouped according to Reason's model of accident causation into active failures, error-provoking conditions and latent conditions. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Prescribing errors are often multifactorial, with several active failures and error-provoking conditions often acting together to cause them. 
+
+Completion:
+active failures | causes | prescribing errors
+error-provoking conditions | causes | prescribing errors
+
+#####
+
+Prompt:
+In the face of such complexity, solutions addressing a single cause, such as lack of knowledge, are likely to have only limited benefit. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ The active failure most frequently cited was a mistake due to inadequate knowledge of the drug or the patient. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Road traffic injuries are projected to be the leading cause of death for those aged between 15 and 29 years by the year 2030, and sleepiness is estimated to be the underlying cause in up to 15-20% of all motor vehicle accidents. 
+
+Completion:
+sleepiness | causes | motor vehicle accidents
+
+#####
+
+Prompt:
+Sleepiness at the wheel is most often caused by socially induced sleep deprivation or poor sleep hygiene in otherwise healthy individuals, medical disorders, or the intake of drugs. 
+
+Completion:
+socially induced sleep deprivation | causes | sleepiness
+poor sleep hygiene | causes | sleepiness
+medical disorders | causes | sleepiness
+drugs | causes | sleepiness
+
+#####
+
+Prompt:
+ Based on the assumption that the identification and treatment of sleepiness, and its causes, may prevent motor vehicle accidents, driving simulators are a seemingly promising diagnostic tool. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Information on the exact prevalence and distribution of underlying causes is scarce. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Its cause(s) are presently largely unknown. 
+
+Completion:
+
+
+#####
+
+Prompt:
+The most common explanation for AD, now, is the amyloid cascade hypothesis, which states that the cause of AD is senile plaque formation by the amyloid β peptide, and the formation of neurofibrillary tangles by hyperphosphorylated tau. 
+
+Completion:
+senile plaque formation by the amyloid β peptide | causes | AD
+
+#####
+
+Prompt:
+ Infection results in neuroinflammation, leading to, and sustained by, systemic inflammation, causing eventual neurodegeneration, and the senescence of the immune cells. 
+
+Completion:
+infection | causes | neuroinflammation
+infection | causes | systemic inflammation
+neuroinflammation | causes | neurodegeneration
+
+#####
+
+Prompt:
+ History of trauma is considered one of the most common causes of unilateral hallux rigidus. 
+
+Completion:
+trauma | causes | unilateral hallux rigidus
+
+#####
+
+Prompt:
+Also, repetitive microtraumas or inflammatory and metabolic causes such as gout, rheumatoid arthritis and seronegative arthropathy can cause degeneration of the joint. 
+
+Completion:
+repetitive microtraumas | causes | joint degeneration
+gout | causes | joint degeneration
+rheumatoid arthritis | causes | joint degeneration
+seronegative arthropathy | causes | joint degeneration
+
+#####
+
+Prompt:
+ We systematically quantified excess mortality in epilepsy patients by cause of death using the population-attributable fraction and epilepsy-attributable years of potential life lost (YPLL) by age 75 years at ages 15 and over. 
+
+Completion:
+
+
+#####
+
+Prompt:
+We updated and undertook a re-review of mortality studies from our previous systematic review following PRISMA guidelines to identify cohort studies of general epilepsy populations reporting a relative risk (RR) of death by cause relative to the background rates in the population. 
+
+Completion:
+
+
+#####
+
+Prompt:
+2 % of excess YPLL due to epilepsy in the United States (US) and in the United Kingdom (UK) in 2010, with 541 (346-792) and 44 (28-65) excess suicide cases, respectively. 
+
+Completion:
+epilepsy | causes | excess YPLL
+
+#####
+
+Prompt:
+ No systematic review has explored the causes of and factors associated with maternal mortality in the context of Iran. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ It is regarded as a major cause of uncontrolled hypertension. 
+
+Completion:
+
+
+#####
+
+Prompt:
+The exploration of its causes and the interventions to reduce it are plagued by unclear conceptualizations and hypothesized mechanisms. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ In children with low back pain (LBP), a specific cause is often identified. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ This article is a systematic review of the intrinsic causes of LBP. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ We have divided the intrinsic causes of LBP into four main groups: mechanical, developmental, infectious/inflammatory, and neoplastic. 
+
+Completion:
+mechanical disorders | causes | LBP
+developmental disorders | causes | LBP
+infectious disorders | causes | LBP
+inflammatory disorders | causes | LBP
+neoplastic disorders | causes | LBP
+
+#####
+
+Prompt:
+ Spondylolysis and spondylolisthesis are the most common causes of chronic LBP in children. 
+
+Completion:
+spondylolysis | causes | LBP
+spondylolisthesis | causes | LBP
+
+#####
+
+Prompt:
+Thoracic or thoracolumbar Scheuermann disease causes kyphosis while a lumbar localization is more painful. 
+
+Completion:
+thoracolumbar Scheuermann disease | causes | kyphosis
+thoracic Scheuermann disease | causes | kyphosis
+
+#####
+
+Prompt:
+ Cysts, tumors, tumor-like lesions, and metastases are infrequent causes of back pain in children. 
+
+Completion:
+cysts | causes | back pain in children
+tumors | causes | back pain in children
+tumor-like lesions | causes | back pain in children
+metastases | causes | back pain in children
+
+#####
+
+Prompt:
+ Implant displacement into the maxillary sinus often results from features specific to the posterior maxillary teeth, including poor bone quality and insufficient remaining bone. 
+
+Completion:
+poor bone quality | causes | implant displacement
+insufficient remaining bone | causes | implant displacement
+
+#####
+
+Prompt:
+ The purpose of this study was to define the overall incidence of REVAS as well as both the sites of reflux and the causes of REVAS through a systematic review and meta-analysis of randomized controlled trials (RCTs) for EVA. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ The objective was to identify how the causes of death and the relationship with socioeconomic conditions are stated in the literature. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Among the cause of death groups, the diarrhea-pneumonia group was predominant, followed by congenital abnormalities. 
+
+Completion:
+diarrhea-pneumonia | causes | death
+congenital abnormalities | causes | death
+
+#####
+
+Prompt:
+ In nephrogenic diabetes insipidus (NDI), the kidney is unable to produce concentrated urine because of the insensitivity of the distal nephron to antidiuretic hormone (arginine vasopressin). 
+
+Completion:
+insensitivity of the distal nephron to antidiuretic hormone | causes | inability to produce concentrated urine
+
+#####
+
+Prompt:
+ In settings in which fluid intake cannot be maintained, this may result in severe dehydration and electrolyte imbalances. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Several recent cough guidelines have advised consideration of occupational or environmental causes for chronic cough, but it is unclear how frequently this recommendation has been routinely applied. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ The purpose of this review is to assess the extent to which dementia is omitted as a cause of death from the death certificates of patients with dementia. 
+
+Completion:
+dementia | causes | death
+
+#####
+
+Prompt:
+ Respiratory or circulatory-related problems were the most frequently reported causes of death among people who were demented but who were not reported as demented on death certificates. 
+
+Completion:
+respiratory problems | causes | death
+circulatory-related problems | causes | death
+
+#####
+
+Prompt:
+ The poor reporting of dementia on these certificates suggests a lack of awareness of the importance of dementia as a cause of death among medical personnel. 
+
+Completion:
+Dementia | causes | death
+
+#####
+
+Prompt:
+ It is not easy to identify the cause of falling, because falling usually result from multiple factors. 
+
+Completion:
+
+
+#####
+
+Prompt:
+Among various potential causes, osteoporosis, osteoarthritis, medication of hypnotic drugs, and environmental factors are important, because they are frequent and can be modifiable. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Human error is considered to be the main cause of preventable adverse events in high-risk industries, such as aviation. 
+
+Completion:
+human error | causes | preventable adverse events
+
+#####
+
+Prompt:
+ The causes of PD remain poorly understood, although environmental toxicants may play etiologic roles. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ At present, there is no consistent evidence from either the toxicological or epidemiologic perspective that any specific solvent or class of solvents is a cause of PD. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ To our knowledge, none focused on the different causes which have been used to evaluate the preventability of readmissions. 
+
+Completion:
+
+
+#####
+
+Prompt:
+Insight into the range of causes is crucial to understand the complex nature of readmissions. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Coronary artery disease (CAD) is one of the important causes of cardiovascular morbidity and mortality globally, giving rise to more than 7 million deaths annually. 
+
+Completion:
+Coronary artery disease (CAD) | causes | cardiovascular morbidity
+Coronary artery disease (CAD) | causes | cardiovascular mortality
+Coronary artery disease (CAD) | causes | death
+
+#####
+
+Prompt:
+An increasing burden of CAD in India is a major cause of concern with angina being the leading manifestation. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Stable coronary artery disease (SCAD) is characterised by episodes of transient central chest pain (angina pectoris), often triggered by exercise, emotion or other forms of stress, generally triggered by a reversible mismatch between myocardial oxygen demand and supply resulting in myocardial ischemia or hypoxia. 
+
+Completion:
+exercise | causes | angina pectoris
+emotion | causes | angina pectoris
+stress | causes | angina pectoris
+reversible mismatch between myocardial oxygen demand and supply | causes | myocardial ischemia
+reversible mismatch between myocardial oxygen demand and supply | causes | myocardial hypoxia
+
+#####
+
+Prompt:
+ Retro-odontoid pseudotumor (RP) can be caused by several diseases, especially rheumatoid arthritis, and is usually associated with the presence of atlantoaxial instability. 
+
+Completion:
+diseases | causes | retro-odontoid pseudotumor (RP)
+rheumatoid arthritis | causes | retro-odontoid pseudotumor (RP)
+
+#####
+
+Prompt:
+ The aim of this literature review was to assess the relative frequency of causes of chronic urticaria in childhood and to provide guidance on which laboratory tests should be performed. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Data from studies conducted on children who had had urticaria for at least 6 weeks, and assessing at least 3 different causes of urticaria, were analysed by reviewers using independent extraction. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ We conclude that children with chronic urticaria not caused by physical stimuli should undergo tests for allergy or infections only when there is a history of cause-effect correlation. 
+
+Completion:
+physical stimuli | causes | chronic urticaria
+
+#####
+
+Prompt:
+ Recent research suggests that infertility and malignancy in UDT may be caused by abnormal development of the neonatal germ cells, or gonocytes, which normally transform into spermatogonial stem cells (SSC) or undergo apoptosis during minipuberty at 2-6 months in humans (2-6 days in mice). 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Myocardial infarction/ischemia can be an underlying etiology and a major causative risk factor of cardiovascular hiccups. 
+
+Completion:
+myocardial infarction | causes | cardiovascular hiccups
+myocardial ischemia | causes | cardiovascular hiccups
+
+#####
+
+Prompt:
+ In elderly patients with hiccups of uncertain causes, electrocardiography is necessary to ensure the cardiogenic etiology. 
+
+Completion:
+cardiac disorders | causes | hiccups
+
+#####
+
+Prompt:
+ Inferior myocardial infarction is the most common cause of hiccups in this patient setting. 
+
+Completion:
+inferior myocardial infarction | causes | hiccups 
+
+#####
+
+Prompt:
+ It is especially helpful in patients undergoing stroke rehabilitation or palliative care when chlorpromazine is prohibited due to its adverse effects. 
+
+Completion:
+chlorpromazine | causes | adverse effects 
+
+#####
+
+Prompt:
+ Mortality studies can help reduce health inequalities by informing public policy through a better understanding of causes of death and comorbidities. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ To understand the causes of child deaths in order to implement appropriate child survival interventions in the country. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ In most cases, it is caused by non-specific inflammation of the prostate and seminal vesicles. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ The typical occupational cohort study includes all causes of mortality. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Although many of these studies will illustrate the "healthy worker effect" with deficits in mortality, particularly from cardiovascular causes, a thorough review should indicate certain exposures needing further research. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ A follow-up study at one plant confirmed the known association between carbon disulfide and atherosclerosis, as well as suggested two new causal associations between CAHD and the use of phenol and ethanol as solvents. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ The importance of examining the association between occupational exposures and heart disease include: Assessing whether adequate protection is afforded by current limits on exposure to substances known to cause heart disease (carbon disulfide, nitrates, and carbon monoxide).(
+
+Completion:
+carbon disulfide | causes | heart disease
+nitrates | causes | heart disease
+carbon monoxide | causes | heart disease
+
+#####
+
+Prompt:
+ What additional techniques can be used to generate hypotheses on heart disease and occupation? Some possibilities include: A recent article describes the use of the results of occupational disease surveillance systems for occupational cancer research. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ The clinician's job is to exclude malignancy as a cause and reach a diagnosis. 
+
+Completion:
+
+
+#####
+
+Prompt:
+In children selected for open biopsy, reactive hyperplasia and other inflammatory causes are far more common as a final diagnosis than malignancy. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Myocardial infarction (MI) is one of the leading causes of mortality worldwide. 
+
+Completion:
+myocardial infarction (MI) | causes | mortality
+
+#####
+
+Prompt:
+It is caused by an acute imbalance between oxygen supply and demand in the myocardium, usually caused by an obstruction in the coronary arteries. 
+
+Completion:
+coronary artery obstruction | causes | acute imbalance between oxygen supply and demand in the myocardium
+
+#####
+
+Prompt:
+ Excess or dysregulated host inflammatory responses cause much of the morbidity and mortality caused by severe influenza. 
+
+Completion:
+dysregulated host inflammatory responses | causes | morbidity
+dysregulated host inflammatory responses | causes | mortality
+Excess host inflammatory responses | causes | morbidity
+Excess host inflammatory responses | causes | mortality
+severe influenza | causes | morbidity
+severe influenza | causes | mortality
+
+#####
+
+Prompt:
+ This review surveys the results of lung transcriptome profiling studies in murine models that directly compare susceptible versus resistant hosts challenged with identical influenza infections. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ The development of efficient and strategic anti-corruption measures can be better achieved if a deeper understanding and identification of the causes of corruption are established. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ This has resulted in a significant increase in the body of knowledge on the subject matter, including the causative factors triggering these corrupt practices. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Moreover, there is an absence of unified view of the causative factors of corruption identified in construction project management (CPM). 
+
+Completion:
+
+
+#####
+
+Prompt:
+This paper, therefore, presents a comprehensive review of the causes of corruption from selected articles in recognized construction management journals to address the mentioned gaps. 
+
+Completion:
+
+
+#####
+
+Prompt:
+A total number of 44 causes of corruption were identified from 37 publications and analyzed in terms of existing causal factors of corruption, annual trend of publications and the thematic categorization of the identified variables. 
+
+Completion:
+
+
+#####
+
+Prompt:
+The most identifiable causes were over close relationships, poor professional ethical standards, negative industrial and working conditions, negative role models and inadequate sanctions. 
+
+Completion:
+
+
+#####
+
+Prompt:
+A conceptual framework of causes of corruption was established, after categorizing the 44 variables into five unique categories. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ This study extends the current literature of corruption research in construction management and contributes to a deepened understanding of the causal instigators of corruption identified in CPM. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ The finding of geographic differences points to two causes that are not mutually exclusive. 
+
+Completion:
+
+
+#####
+
+Prompt:
+A virus mutation (D614G) may cause differing infectivity, while at the host level genetic, ethnicity-specific variants of the virus-binding entry proteins may facilitate virus entry in the olfactory epithelium and taste buds. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Coinfecting bacterial pathogens are a major cause of morbidity and mortality in influenza. 
+
+Completion:
+bacterial pathogens coinfecting with influenza | causes | morbidity
+bacterial pathogens coinfecting with influenza | causes | mortality
+
+#####
+
+Prompt:
+ The time-honored point of view is that LLC itself, or its increment, causes LBP. 
+
+Completion:
+LLC | causes | LBP
+
+#####
+
+Prompt:
+On the other hand, recently, the biomechanical role of LLC has been emphasized, and loss of lordosis is considered a possible cause of LBP. 
+
+Completion:
+loss of lordosis | causes | LBP
+
+#####
+
+Prompt:
+ It is a commonly experienced symptom and can cause significant problems with carrying out normal activities. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Extracorporeal shock wave therapy (ESWT) was widely used in the treatment of LE and has been shown to relieve the pain and functional impairment (loss of grip strength) caused by tennis elbow. 
+
+Completion:
+tennis elbow | causes | pain
+tennis elbow | causes | functional impairment
+tennis elbow | causes | loss of grip strength
+
+#####
+
+Prompt:
+ Botulism is an acute paralytic illness caused by a neurotoxin produced by Clostridium botulinum. 
+
+Completion:
+neurotoxin produced by Clostridium botulinum | causes | botulism
+
+#####
+
+Prompt:
+ For the safety outcomes, according to drug ranks, LDX was more likely to cause sleep disorders (39%) as well as loss of appetite (65%) and behavior problems such as irritability (60%). 
+
+Completion:
+LDX | causes | sleep disorders
+LDX | causes | loss of appetite
+LDX | causes | irritability
+
+#####
+
+Prompt:
+BSP (71%) and EDX (44%) caused less appetite decrease. 
+
+Completion:
+BSP | causes | appetite decrease
+EDX | causes | appetite decrease
+
+#####
+
+Prompt:
+ It caused severe respiratory tract infections and a significant proportion of patients with gastrointestinal symptoms. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ It causes the nerve roots to be stimulated and oppressed. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ The common cold is an upper respiratory tract infection, most commonly caused by a rhinovirus. 
+
+Completion:
+rhinovirus | causes | common cold
+rhinovirus | causes | upper respiratory tract infection
+
+#####
+
+Prompt:
+It affects people of all age groups and although in most cases it is self limiting, the common cold still causes significant morbidity. 
+
+Completion:
+common cold | causes | morbidity
+
+#####
+
+Prompt:
+ Despite being one of the most common neurological disorders globally, the cause(s) of multiple sclerosis (MS) remain unknown. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ The Bradford Hill criteria for causation can contribute to a more comprehensive evaluation of a potentially causal risk factor-disease outcome relationship. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ In 2016 heart failure (HF) affected between 600,000 and 700,000 people in Poland being one of the most common causes of hospitalization and death. 
+
+Completion:
+heart failure (HF) | causes | hospitalization
+heart failure (HF) | causes | death
+
+#####
+
+Prompt:
+ These symptoms are most often due to benign vestibular neuritis; however, they can be a sign of a dangerous central cause, i.e
+
+Completion:
+
+
+#####
+
+Prompt:
+ Our objective was to assess the diagnostic accuracy of the HINTS examination to rule out a central cause of vertigo in an adult population presenting to the ED with AVS. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Group B Streptococcus (GBS) remains a leading cause of neonatal sepsis in high-income contexts, despite declines due to intrapartum antibiotic prophylaxis (IAP). 
+
+Completion:
+Group B Streptococcus (GBS) | causes | neonatal sepsis
+
+#####
+
+Prompt:
+ Postherpetic neuralgia (PHN) is a neuropathic pain that causes a reduction in patients' quality of life. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ The objectives were to (i) determine long-term mortality rates in patients with schizophrenia using any antipsychotic medication; (ii) compare these with mortality rates of patients using no antipsychotics; (iii) explore the relationship between cumulative exposure and mortality; and (iv) assess causes of death. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Migraines are caused by neurological and vascular dysfunction, with a side or both sides of the head pain recurrent attack, often accompanied by nausea, vomiting, light, and sound allergy as the characteristics, is the clinical common disease, frequently occurring disease. 
+
+Completion:
+neurological dysfunction | causes | migraines
+vascular dysfunction | causes | migraines
+
+#####
+
+Prompt:
+ It can occur at any age, and more than half of patients have headaches that interfere with work or school, while nearly a third may miss work or school because of the headache. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Analgesics are the main treatment for migraine in western medicine, many patients, who worried about the side effects of drugs, often take them only when the pain is unbearable, which can only treat the symptoms rather than the root causes. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Methicillin-resistant Staphylococcus aureus (MRSA) and methicillin-resistant coagulase-negative Staphylococcus (MRCoNS) are among the main causes of nosocomial infections, which have caused major problems in recent years due to continuously increasing spread of various antibiotic resistance features. 
+
+Completion:
+Methicillin-resistant Staphylococcus aureus (MRSA) | causes | nosocomial infections
+methicillin-resistant coagulase-negative Staphylococcus (MRCoNS) | causes | nosocomial infections
+
+#####
+
+Prompt:
+Apparently, vancomycin is still an effective antibiotic for treatment of infections caused by these bacteria but in recent years, additional resistance phenotypes have led to the accelerated introduction of newer agents such as linezolid, tigecycline, daptomycin, and quinupristin/dalfopristin (Q/D). 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Alopecia areata (AA) is a complex immune and polygenic inflammatory disease that causes hair loss on some or all areas of the body; extent, severity and progression vary widely among individuals. 
+
+Completion:
+Alopecia areata (AA) | causes | hair loss
+
+#####
+
+Prompt:
+ Congenital toxoplasmosis is a zoonosis caused by the intracellular Apicomplexa protozoan Toxoplasma gondii. 
+
+Completion:
+Toxoplasma gondii | causes | Congenital toxoplasmosis
+
+#####
+
+Prompt:
+This infection causes subclinical or clinical lesions, such as retinochoroiditis and central nervous system lesions. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Here, we present the results of a comprehensive systematic review and meta-analysis of the congenital toxoplasmosis in Brazil. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Among other causes, exposure to environmental and occupational pollution has been linked to adverse reproductive outcomes, but effects on male semen quality are still uncertain. 
+
+Completion:
+exposure to environmental pollution | causes | adverse reproductive outcomes
+exposure to occupational pollution | causes | adverse reproductive outcomes
+
+#####
+
+Prompt:
+ Community-acquired pneumonia (CAP), acute cough, bronchitis, and lower respiratory tract infections (LRTI) are often caused by infections with viruses or Streptococcus pneumoniae. 
+
+Completion:
+infections with viruses | causes | community-acquired pneumonia (CAP)
+infections with viruses | causes | acute cough
+infections with viruses | causes | bronchitis
+infections with viruses | causes | lower respiratory tract infections (LRTI)
+infections with Streptococcus pneumoniae | causes | community-acquired pneumonia (CAP)
+infections with Streptococcus pneumoniae | causes | acute cough
+infections with Streptococcus pneumoniae | causes | bronchitis
+infections with Streptococcus pneumoniae | causes | lower respiratory tract infections (LRTI)
+
+#####
+
+Prompt:
+ Hyperkalaemia is a common electrolyte abnormality caused by reduced renal potassium excretion in patients with chronic kidney diseases (CKD). 
+
+Completion:
+reduced renal potassium excretion | causes | hyperkalaemia
+
+#####
+
+Prompt:
+ Patiromer and sodium zirconium cyclosilicate are newer ion exchange resins for treatment of hyperkalaemia which may cause fewer GI side-effects. 
+
+Completion:
+Patiromer | causes | GI side-effects
+sodium zirconium cyclosilicate | causes | GI side-effects
+ion exchange resins for treatment of hyperkalaemia | causes | GI side-effects
+
+#####
+
+Prompt:
+ Occult biliary disease has been suggested as a frequent underlying cause of idiopathic acute pancreatitis (IAP). 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Traditional Chinese medicine has good clinical efficacy in treating pain caused by prostate cancer .T
+
+Completion:
+prostate cancer | causes | pain
+
+#####
+
+Prompt:
+ Spinal anaesthesia for caesarean section commonly causes maternal hypotension. 
+
+Completion:
+Spinal anaesthesia for caesarean section | causes | maternal hypotension
+
+#####
+
+Prompt:
+ We assessed 109 trials (8561 women) and 12 different methods that resulted in 30 direct comparisons. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ OD can produce alterations in both the efficacy and safety of deglutition and may result in malnutrition, dehydration, frailty, respiratory infections and pneumonia. 
+
+Completion:
+OD | causes | malnutrition
+OD | causes | dehydration
+OD | causes | frailty
+OD | causes | respiratory infections
+OD | causes | pneumonia
+
+#####
+
+Prompt:
+ Ileocolic intussusception is a common cause of pediatric bowel obstruction in young children but can be difficult to diagnose clinically due to vague abdominal complaints. 
+
+Completion:
+Ileocolic intussusception | causes | bowel obstruction
+
+#####
+
+Prompt:
+If left untreated, it may cause significant morbidity. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Acute otitis media (AOM) is the largest cause of antimicrobial prescriptions amongst children in developed countries. 
+
+Completion:
+Acute otitis media (AOM) | causes | antimicrobial prescriptions
+
+#####
+
+Prompt:
+ Pancreatic cancer is the fourth leading cause of cancer mortality. 
+
+Completion:
+pancreatic cancer | causes | mortality
+
+#####
+
+Prompt:
+ Pancreatic exocrine insufficiency is one of the causes of malnutrition and weight loss in these patients. 
+
+Completion:
+pancreatic exocrine insufficiency | causes | malnutrition
+pancreatic exocrine insufficiency | causes | weight loss
+
+#####
+
+Prompt:
+ The prevalence and clinical consequences of pancreatic exocrine insufficiency in advanced pancreatic cancer are poorly investigated with heterogeneous results. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Iron deficiency is commonly assumed to cause half of all cases of anemias, with hereditary blood disorders and infections such as hookworm and malaria being the other major causes. 
+
+Completion:
+iron deficiency | causes | anemia
+hereditary blood disorders | causes | anemia
+infections | causes | anemia
+hookworm | causes | anemia
+malaria | causes | anemia
+
+#####
+
+Prompt:
+ Women have a higher risk of anterior cruciate ligament (ACL) tears than men, the causes of which are multifactorial. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ In response to the pandemic, numerous studies have tried to identify the causes and symptoms of the disease. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Pharmacological interventions for heart failure in people with CKD have the potential to reduce death (any cause) or hospitalisations for decompensated heart failure. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ The occurrence of antibiotic-resistant strains has been rapidly increasing due to the wide use of antibiotics. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Currently, increasing evidence shows that excess aldosterone may have an impact on bone health, and primary aldosteronism (PA) may be a secondary cause of osteoporosis. 
+
+Completion:
+
+
+#####
+
+Prompt:
+This problem is worthy of attention because secondary osteoporosis is always potentially reversible, which affects the selection of treatment for PA to some extent. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Obesity is one of the leading causes of preventable deaths. 
+
+Completion:
+Obesity | causes | preventable deaths
+
+#####
+
+Prompt:
+ Nocturia (waking from sleep at night to void) is a common cause of sleep disruption associated with increased comorbidity and impaired quality of life. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Cataract is the leading cause of blindness and the second cause of low vision in the world. 
+
+Completion:
+Cataract | causes | blindness
+Cataract | causes | low vision
+
+#####
+
+Prompt:
+ Our findings have to be interpreted with caution due to weaknesses that could affect the strength of the associations and then the formulation of accurate conclusions. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Cigarette smoking is one of the main causes of health problems in the world and can also lead to an increased risk of frailty. 
+
+Completion:
+Cigarette smoking | causes | health problems
+
+#####
+
+Prompt:
+ Since its introduction on the market in 2007, the number of reports on injuries caused by the overheating, ignition, or explosion of electronic nicotine delivery systems (ENDSs) has increased significantly. 
+
+Completion:
+electronic nicotine delivery systems (ENDSs) overheating | causes | injuries
+electronic nicotine delivery systems (ENDSs) ignition | causes | injuries
+electronic nicotine delivery systems (ENDSs) explosion | causes | injuries
+
+#####
+
+Prompt:
+ Depression is one of the leading causes of disability worldwide, with more than 264 million people affected. 
+
+Completion:
+Depression | causes | disability
+
+#####
+
+Prompt:
+ On average, depression first appears during the late teens to mid-20s as result of a complex interaction of social, psychological and biological factors. 
+
+Completion:
+a complex interaction of factors | causes | depression
+
+#####
+
+Prompt:
+ The results from our meta-analysis showed a significant association between red and processed meat intake and risk of depression. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ This systematic review and meta-analysis aimed to identify the effect of multi-modal therapies that combined physical and psychological therapies for kinesiophobia caused by musculoskeletal disorders compared with uni-modal therapy of only phycological therapy or psychological therapy. 
+
+Completion:
+musculoskeletal disorders | causes | kinesiophobia
+
+#####
+
+Prompt:
+ Malaria, a major global public health problem, is mainly caused by Plasmodium falciparum and Plasmodium vivax, and is responsible for nearly half a million deaths annually. 
+
+Completion:
+Plasmodium falciparum | causes | malaria
+Plasmodium vivax | causes | malaria
+
+#####
+
+Prompt:
+ vivax malaria was not believed to cause severe disease, recent robust studies have proved otherwise. 
+
+Completion:
+vivax malaria | causes | severe disease
+
+#####
+
+Prompt:
+ Age-related macular degeneration (AMD) is the leading cause of vision loss and blindness in people over 65 years old in the United States and has been associated with cardiovascular risk and decreased survival. 
+
+Completion:
+macular degeneration (AMD) | causes | vision loss
+macular degeneration (AMD) | causes | blindness
+
+#####
+
+Prompt:
+ Coronavirus disease 2019 (COVID-19) is a global pandemic caused by the Severe Acute Respiratory Syndrome Coronavirus-2 (SARS-CoV-2). 
+
+Completion:
+Severe Acute Respiratory Syndrome Coronavirus-2 (SARS-CoV-2) | causes | Coronavirus disease 2019 (COVID-19)
+
+#####
+
+Prompt:
+Since the outbreak, the disease has caused more than 60,502 deaths worldwide. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ It is an international outbreak of the respiratory illness caused by severe acute respiratory syndrome coronavirus 2. 
+
+Completion:
+severe acute respiratory syndrome coronavirus 2 | causes | respiratory illness
+
+#####
+
+Prompt:
+ Seven major electronic databases were searched to retrieve randomized controlled trials designed to evaluate the clinical efficacy of XNJ alone or combined with Western medicine in treating consciousness disturbance caused by conditions such as high fever, poisoning, and stroke. 
+
+Completion:
+high fever | causes | consciousness disturbance
+poisoning | causes | consciousness disturbance
+stroke | causes | consciousness disturbance
+
+#####
+
+Prompt:
+ The results revealed that XNJ alone or in combination with other medicines and adjuvant methods had a positive effect on patients with fever-, poisoning-, and stroke-induced coma. 
+
+Completion:
+fever | causes | coma
+poisoning | causes | coma
+stroke | causes | coma
+
+#####
+
+Prompt:
+ Recently, lung cancer has become the most common cause of cancer-related death, several studies indicate that the cytochrome P450 2A13 (CYP2A13) polymorphisms may be correlated with lung cancer susceptibility, but the results have been inconsistent and inconclusive. 
+
+Completion:
+lung cancer | causes | death
+
+#####
+
+Prompt:
+ The aim of the present study was to perform a systematic review and meta-analysis of cohort studies evaluating the link of flavonoid consumption with total and cause-specific mortality. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Conclusions: The present findings highlight the potential protective role of flavonoids against total and cause-specific mortality. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ The readmission rate as well as data source, time from enrollment, sample size, demographics, procedure type and spine level, risk factors for readmission, and causes of readmission were extrapolated from each study. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ The pooled analysis of risk factors and causes of readmission is limited by the lack of reporting in most of the spine literature. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ The range, rather than the exact result, should be considered given the significant heterogeneity among studies, which indicates that there are factors such as demographics, procedure types, and individual institutional factors that are important and affect this outcome variable. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Osteoarthritis (OA), a chronic and degenerative joint disease characterized by articular cartilage degeneration, sclerosis of subchondral bone, and osteophyte formation, is deemed a leading cause of activity limitation and disability among the elderly people. 
+
+Completion:
+Osteoarthritis (OA) | causes | activity limitation
+Osteoarthritis (OA) | causes | disability
+
+#####
+
+Prompt:
+Serum uric acid (UA) is a terminal metabolite of purine compound, while hyperuricemia (HU) and UA crystals are recognized causes of gout. 
+
+Completion:
+hyperuricemia (HU) | causes | gout
+UA crystals | causes | gout
+
+#####
+
+Prompt:
+ Moreover, there was no significant difference in the discontinuation rate due to all causes, clinical deterioration, or side effects between varenicline and placebo. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Our results suggest that although varenicline adjuvant therapy is well tolerated, varenicline is not superior to placebo for smoking cessation in people with schizophrenia. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Transnasal endoscopy can cause pain or discomfort for the patient. 
+
+Completion:
+Transnasal endoscopy | causes | pain
+Transnasal endoscopy | causes | discomfort
+
+#####
+
+Prompt:
+ The neurotoxicity of NO2 exposure is well-known and potentially causes impaired of neural functions. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ In addition, through the literature review, it seemed that prenatal exposure to NO2 might cause adverse impacts on children's attention, IQ, and different behaviors, but this requires confirmation from further researches. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Valid cause of death data are essential for health policy formation. 
+
+Completion:
+
+
+#####
+
+Prompt:
+The quality of medical certification of cause of death (MCCOD) by physicians directly affects the utility of cause of death data for public policy and hospital management. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ To address the lack of consensus on the leading reasons for readmissions after primary elective unilateral total joint arthroplasties (TJAs), we performed a systematic review and a meta-analysis to identify overall and cause-specific readmission rates. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Objective: Iron deficiency anemia is the most common cause of anemia during pregnancy. 
+
+Completion:
+Iron deficiency | causes | anemia
+
+#####
+
+Prompt:
+Other causes of anemia include parasitic diseases, micronutrient deficiencies, and genetic hemoglobin apathies. 
+
+Completion:
+parasitic diseases | causes | anemia
+micronutrient deficiencies | causes | anemia
+genetic hemoglobinopathies | causes | anemia
+
+#####
+
+Prompt:
+ High blood pressure is an important public health problem because of associated risks of stroke and cardiovascular events. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Opioids may cause fewer adverse events than ketamine (low SOE) when primarily administered intranasally. 
+
+Completion:
+Opioids | causes | adverse events
+ketamine | causes | adverse events
+
+#####
+
+Prompt:
+Opioids cause less dizziness than ketamine (low SOE) but may increase the risk of respiratory depression compared with ketamine (low SOE), primarily administered IV. 
+
+Completion:
+Opioids | causes | dizziness
+ketamine | causes | dizziness
+
+#####
+
+Prompt:
+Opioids cause more dizziness (moderate SOE) and may cause more adverse events than APAP (low SOE), both administered IV, but there is no evidence of a clinically important difference in hypotension (low SOE). 
+
+Completion:
+Opioids | causes | dizziness
+Opioids | causes | adverse events
+APAP | causes | dizziness
+APAP | causes | adverse events
+
+#####
+
+Prompt:
+Opioids may cause more adverse events and more drowsiness than NSAIDs (low SOE), both administered primarily IV. 
+
+Completion:
+Opioids | causes | adverse events
+Opioids | causes | drowsiness
+NSAIDs | causes | adverse events
+NSAIDs | causes | drowsiness
+
+#####
+
+Prompt:
+ Opioids may cause fewer total side effects than ketamine, but more than APAP or NSAIDs. 
+
+Completion:
+Opioids | causes | side effects
+ketamine | causes | side effects
+APAP | causes | side effects
+NSAIDs | causes | side effects
+
+#####
+
+Prompt:
+ The involvement of hydrochloric acid in the etiology of eosinophilic esophagitis and numerous reports on its coexistence and interaction with reflux disease, as well as the rings of the esophageal mucosa formed with the advancement of the disease, suggest a potential association of eosinophilic esophagitis with another disorder of esophageal morphology potentially caused by exposure to acid reflux-Schatzki ring. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Although the incidence of Crohn's disease has increased worldwide over the past 30 years, the disorder's exact causes and physiological mechanisms have yet to be determined. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Check if the type of nozzle, orthodontic or conventional, of pacifier and bottle have any influence on the changes found in the stomatognathic system caused by the maintenance of the sucking habit. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ The purpose of this review was to analyse the prevalence of titanium plate removal in orthognathic surgery, as well as the causes of plate removal, and to determine the associated risk factors. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ The aim of this study is to review, identify, and synthesise the psychological causes of panic buying, which is a relatively new and unexplored area in consumer behaviour research. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ The review suggests that panic buying is influenced by (1) individuals' perception of the threat of the health crisis and scarcity of products; (2) fear of the unknown, which is caused by negative emotions and uncertainty; (3) coping behaviour, which views panic buying as a venue to relieve anxiety and regain control over the crisis; and (4) social psychological factors, which account for the influence of the social network of an individual. 
+
+Completion:
+negative emotions | causes | fear of the unknown
+uncertainty | causes | fear of the unknown
+
+#####
+
+Prompt:
+This study contributes to the literature by consolidating the scarce and scattered research on the causes of panic buying, drawing greater theoretical insights into each cause and also offers some implications for health professionals, policy makers, and retailers on implementing appropriate policies and strategies to manage panic buying. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ On examination, these appear healthy, and organic causes for the pain cannot be found. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Coronary heart disease is a public health problem and is one of the leading causes of loss of quality of life, disability, and death worldwide. 
+
+Completion:
+Coronary heart disease | causes | loss of quality of life
+Coronary heart disease | causes | disability
+Coronary heart disease | causes | death
+
+#####
+
+Prompt:
+ The durability of cervical disc arthroplasties (CDA) may vary significantly because of different designs and implanting techniques of the devices. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ In total, 87 species caused clinically relevant pulmonary and extrapulmonary diseases. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Because few studies reported clinical outcomes of CVD, analyses were limited to cardiovascular risk factors (83 studies). 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Interventions that cause weight loss are effective at improving cardiovascular risk factors at least for 2 years. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Similar results were seen in sub-group analyses. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Although cranioplasty is a common procedure, it may cause a variety of complications. 
+
+Completion:
+cranioplasty | causes | complications 
+
+#####
+
+Prompt:
+ Enteroviruses are RNA viruses found as commensals in the human gut and respiratory system, which may cause a wide spectrum of disease. 
+
+Completion:
+Enteroviruses | causes | disease
+
+#####
+
+Prompt:
+Enteroviruses may cause severe neurologic complications including acute flaccid paralysis (AFP) and encephalitis and are the most commonly diagnosed agents of viral meningitis. 
+
+Completion:
+Enteroviruses | causes | severe neurologic complications
+Enteroviruses | causes | acute flaccid paralysis (AFP)
+Enteroviruses | causes | encephalitis
+Enteroviruses | causes | viral meningitis
+
+#####
+
+Prompt:
+Outbreaks of more severe disease are often associated with particular genotypes, such as enterovirus-A71 causing rhombencephalitis and AFP. 
+
+Completion:
+enterovirus-A71 | causes | rhombencephalitis
+enterovirus-A71 | causes | AFP 
+
+#####
+
+Prompt:
+ A systematic review of observational studies was conducted to evaluate the most prevalent enterovirus genotypes causing AFP, encephalitis, and meningitis. 
+
+Completion:
+enterovirus-A71 | causes | AFP 
+enterovirus-A71 | causes | encephalitis
+enterovirus-A71 | causes | meningitis
+
+#####
+
+Prompt:
+ All causes of revision were extracted and analyzed, to find statistically significant differences between the two groups. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ The main cause for revision was aseptic loosening in both implants' component, with no statistically differences in the two groups examined. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Long-term results of unicompartmental knee arthroplasty (UKA) have shown a slightly higher revision rate than total knee arthroplasty (TKA), and implant fixation geometry seems to affect prosthetic survivorship. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Our results do not show a superiority of the metal-backed tibial component in UKAs in terms of survivorship, although extreme care must be given for patients with high risk of early failure, such as female patients. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Confusing labelling terms or precautionary labels can result in misinterpretation and risk-taking behaviour. 
+
+Completion:
+Confusing labelling terms | causes | misinterpretation 
+precautionary labels | causes | risk-taking behaviour
+
+#####
+
+Prompt:
+ The frequency, severity and causes of such reactions are unknown. 
+
+Completion:
+
+
+#####
+
+Prompt:
+The objective of this review was to describe the frequency, severity and causes of unexpected allergic reactions to food in food allergic patients aged > 12 years, in order to develop improved strategies to deal with their allergy. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ The search was performed with keywords relating to the frequency, severity and causes of unexpected allergic reactions to food. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Peanut, nuts, egg, fruit/vegetables and milk are the main causal foods. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ We conclude that prospective studies are needed to get more insight in the frequency, severity, quantity of unintended allergen ingested and causes of unexpected allergic reactions to food, to be able to optimize strategies to support patients in dealing with their food allergy. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ This resulted in 24 studies which met the inclusion criteria; 18 observational and six qualitative studies. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ The causes of degenerative rotator cuff (RTC) tears are unclear but certain acromion morphology may contribute. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Toxoplasmosis, one of the most common zoonoses worldwide, is caused by Toxoplasma gondii. 
+
+Completion:
+Toxoplasma gondii | causes | Toxoplasmosis 
+
+#####
+
+Prompt:
+ The prevalence of infections due to carbapenem-resistant Acinetobacter baumannii (CRAB) is on the rise worldwide. 
+
+Completion:
+carbapenem-resistant Acinetobacter baumannii (CRAB) | causes | infections 
+
+#####
+
+Prompt:
+ Rotaviruses (RVs) and noroviruses (NoVs) are the most common causes of severe acute gastroenteritis in children. 
+
+Completion:
+Rotaviruses (RVs) | causes | severe acute gastroenteritis in children
+noroviruses (NoVs)| causes | severe acute gastroenteritis in children
+
+#####
+
+Prompt:
+It is generally accepted that RVs cause severe acute gastroenteritis in a higher proportion of cases compared with NoVs. 
+
+Completion:
+RVs | causes | severe acute gastroenteritis
+NoVs | causes | severe acute gastroenteritis
+
+#####
+
+Prompt:
+ Over the past decade, cardiovascular diseases have been recognized as the leading cause of mortality worldwide. 
+
+Completion:
+cardiovascular diseases | causes | mortality
+
+#####
+
+Prompt:
+Myocardial infarction (MI) is one of the most prevalent types of cardiovascular diseases that is caused by the closure of coronary arteries and ischemic heart muscle. 
+
+Completion:
+coronary artery closure | causes | myocardial infarction
+
+#####
+
+Prompt:
+6 million women have died due to maternal causes from 1990 to 2015. 
+
+Completion:
+maternity | causes | death
+
+#####
+
+Prompt:
+ Among the causes of these deaths, obstructed and prolonged labor covers the highest percentage, which could be prevented by cost-effective and affordable health interventions like partograph use. 
+
+Completion:
+obstructed and prolonged labor | causes | maternal deaths
+
+#####
+
+Prompt:
+ However, the results have never been comprehensively reviewed. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Although it is known that corticosteroid administration causes leukocytosis, the magnitude and length of time this leukocytosis persists is unknown during pregnancy. 
+
+Completion:
+corticosteroid | causes | leukocytosis
+
+#####
+
+Prompt:
+ Impact statement What is already known on this subject: While it is well known that administration of antenatal corticosteroids causes leukocytosis, it is currently unknown the magnitude and length of time the leukocytosis persists. 
+
+Completion:
+corticosteroid | causes | leukocytosis
+
+#####
+
+Prompt:
+ What the results of this study add: This study establishes the expected range and the temporal progression and regression with antenatal corticosteroid administration in healthy pregnant women at risk for preterm delivery without clinical signs of infection. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Ischemic stroke (IS) is a common cause of death from vascular diseases. 
+
+Completion:
+ischemic stroke (IS) | causes | death
+
+#####
+
+Prompt:
+ Chronic Obstructive Pulmonary Disease (COPD) is currently the fourth leading cause of death in the world but is projected to be the 3rd leading cause of death by 2030. 
+
+Completion:
+Chronic Obstructive Pulmonary Disease (COPD) | causes | death
+
+#####
+
+Prompt:
+ Analyses for subgroups were used to study causes of visible difference. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Ocular toxoplasmosis (OT) is the most common cause of posterior uveitis, leading to visual impairment in a high proportion of patients. 
+
+Completion:
+Ocular toxoplasmosis (OT) | causes | posterior uveitis
+Ocular toxoplasmosis (OT) | causes | visual impairment
+
+#####
+
+Prompt:
+ Although OT is a very common cause of infectious posterior uveitis, its treatment remains controversial. 
+
+Completion:
+OT | causes | infectious posterior uveitis
+
+#####
+
+Prompt:
+ Diagnosis of the diseases they cause requires the sampling of body fluids (e.g
+
+Completion:
+
+
+#####
+
+Prompt:
+ More than 80% of newborn deaths are the result of preventable and treatable conditions. 
+
+Completion:
+treatable conditions | causes | newborn deaths
+preventable conditions | causes | newborn deaths
+
+#####
+
+Prompt:
+ Although many species of mycoplasmas regard as normal flora, but some species causes serious genital disease. 
+
+Completion:
+mycoplasmas | causes | genital disease 
+
+#####
+
+Prompt:
+ Facial verruca plana, or flat warts, are benign skin papillomas caused by human papillomavirus infections. 
+
+Completion:
+human papillomavirus | causes | facial verruca plana
+
+#####
+
+Prompt:
+A large portion of cases are refractory to treatment and can cause psychosocial distress in patients. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Chronic low back pain can be due to many different causes, including degenerative spondylolisthesis (DS). 
+
+Completion:
+degenerative spondylolisthesis (DS) | causes | Chronic low back pain
+
+#####
+
+Prompt:
+ Spontaneous coronary artery dissection (SCAD) is an uncommon, non-iatrogenic, non-atherosclerotic cause of acute coronary syndrome. 
+
+Completion:
+spontaneous coronary artery dissection (SCAD) | causes | acute coronary syndrome
+
+#####
+
+Prompt:
+ This review supports RSV, Flu, PIV, HMPV, AdV, RV, and CoV as important causes of ARI in older adults and provides quantitative estimates of the absolute proportion of virus-associated ARI cases to which a viral cause can be attributed. 
+
+Completion:
+RSV | causes | ARI
+Flu | causes | ARI
+PIV | causes | ARI
+HMPV | causes | ARI
+AdV | causes | ARI
+RV | causes | ARI
+CoV | causes | ARI
+
+#####
+
+Prompt:
+5 and COPD prevalence, analyze the possible cause to the differences and conflictions in previous cross-sectional studies. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ The significant heterogeneity among selected studies was mainly caused by age (over 60 or not). 
+
+Completion:
+
+
+#####
+
+Prompt:
+ SLE is a frequent cause of intensive care unit (ICU) admissions. 
+
+Completion:
+SLE | causes | intensive care unit (ICU) admissions
+
+#####
+
+Prompt:
+Multiple studies with controversial findings on the causes, evolution and outcomes of ICU-admitted patients with SLE have been published. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Among the main causes of ICU admissions are SLE disease activity, respiratory failure, multi-organ failure and infections. 
+
+Completion:
+SLE disease activity | causes | ICU admissions
+respiratory failure | causes | ICU admissions
+multi-organ failure | causes | ICU admissions
+infections | causes | ICU admissions
+
+#####
+
+Prompt:
+ Endometriosis is one of the most common causes of infertility. 
+
+Completion:
+Endometriosis | causes | infertility 
+
+#####
+
+Prompt:
+The causes of the disease and its definitive treatments are still unclear. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Chronic pelvic inflammatory disease (CPID) is one of common diseases of department of gynaecology, point to female inside genital and circumferential organization to suffer from infection of all sorts of pathogenic bacteria and cause chronic inflammation sex disease, also cause one of main factors of infertile of female of childbearing age period. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ The fatigue of the respiratory muscles causes the so-called metabolic reflex or metaboreflex, resulting in vasoconstriction of the blood vessels in the peripheral muscles, which leads to a decrease in respiratory performance. 
+
+Completion:
+fatigue of the respiratory muscles | causes | metabolic reflex
+metabolic reflex | causes | vasoconstriction in the peripheral muscles
+
+#####
+
+Prompt:
+ In conclusion, the introduction of specific devices of IMT seems to be a suitable method to improve performance in intermittent sports, mainly due to a reduction of the metaboreflex, fatigue sensation, and dyspnea. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ The objective of this systematic review was to evaluate the results obtained with inspiratory muscle training (IMT) in intermittent sports modalities, intending to determine whether its implementation would be adequate and useful in intermittent sports. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Hydrocephalus is a major cause of morbidity in the pediatric population, with potentially severe consequences if left untreated. 
+
+Completion:
+Hydrocephalus | causes | morbidity in the pediatric population
+
+#####
+
+Prompt:
+ The reasons for CVAD obstruction caused by precipitated medication or lipids are increasingly complex. 
+
+Completion:
+precipitated medication | causes | CVAD obstruction
+lipids | causes | CVAD obstruction
+
+#####
+
+Prompt:
+However, there is no clear treatment program for CVAD obstruction caused by precipitated medication or lipids. 
+
+Completion:
+precipitated medication | causes | CVAD obstruction
+lipids | causes | CVAD obstruction
+
+#####
+
+Prompt:
+The target of this study was to analyze data regarding obstruction caused by precipitated medication or lipids in CVADs and to calculate the efficacy of different treatment methods. 
+
+Completion:
+precipitated medication | causes | CVAD obstruction
+lipids | causes | CVAD obstruction
+
+#####
+
+Prompt:
+ According to this review, the most effective methodology was shown to be the intravenous perfusion of sodium hydroxide in several treatments when the obstruction is caused by lipid deposition. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Meta-analysis showed that sodium hydroxide resulted in the highest recanalization rate in lipid deposition, followed by ethanol, and the difference was significant. 
+
+Completion:
+sodium hydroxide | causes | recanalization
+ethanol | causes | recanalization
+
+#####
+
+Prompt:
+ The objective of this study was to provide information about the global prevalence and distribution of non-AIDS causes of death in the last ten years among people living with HIV receiving antiretroviral therapy, by income levels of countries. 
+
+Completion:
+
+
+#####
+
+Prompt:
+We used broad search terms in Google Scholar, PubMed, and EMBASE to identify all studies that investigated the cause of death among people living with HIV receiving antiretroviral therapy, published after January 1, 2005. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Inclusion criteria were English language, the study's end date was after 2005, all patients were HIV-positive, at least two-thirds of the patients were receiving antiretroviral therapy, at least one patient died of non-AIDS causes of death. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Yet, among people living with HIV, deaths due to non-AIDS-defining illnesses have been on the rise. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Ramsay Hunt syndrome (RHS), also known as Hunt syndrome, is caused by varicella-zoster virus infection. 
+
+Completion:
+Varicella-zoster virus | causes | Ramsay Hunt syndrome (RHS)
+
+#####
+
+Prompt:
+The virus often invades the facial nerve geniculate ganglion to cause peripheral facial paralysis, accompanied by severe ear pain, auricular herpes zoster, tinnitus, deafness, vertigo, and other inner ear neurologic symptoms. 
+
+Completion:
+virus | causes | peripheral facial paralysis
+
+#####
+
+Prompt:
+ The objective of this meta-analysis was to evaluate the hospital readmissions, causes and risk factors after survival of acute stroke and TIA. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ The primary causes and risk factors of hospital readmissions were also identified. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Chronic Obstructive Pulmonary Disease (COPD) is among the leading causes of morbidity and mortality in developing countries; however, few systematic reviews are available in the literature. 
+
+Completion:
+Chronic Obstructive Pulmonary Disease (COPD) | causes | morbidity
+Chronic Obstructive Pulmonary Disease (COPD) | causes | mortality
+
+#####
+
+Prompt:
+ Actinic cheilitis (AC) is a potentially malignant disorder of the lip, characterized by epithelial and connective tissue alterations caused by chronic exposure to ultraviolet radiation. 
+
+Completion:
+chronic exposure to ultraviolet radiation | causes | epithelial alterations
+chronic exposure to ultraviolet radiation | causes | connective tissue alterations
+
+#####
+
+Prompt:
+ Cushing syndrome due to endogenous hypercortisolism may cause significant morbidity and mortality. 
+
+Completion:
+Cushing syndrome | causes | morbidity
+Cushing syndrome | causes | mortality
+endogenous hypercortisolism | causes | Cushing syndrome
+
+#####
+
+Prompt:
+ After performing a multilevel thoracoabdominal imaging with CT, the evidence regarding the use of radiotracers for PET imaging is unclear due to significant molecular and etiological heterogeneity of potential causes of ectopic Cushing's syndrome. 
+
+Completion:
+
+
+#####
+
+Prompt:
+In our systematic review of literature, it appears that GalLium-based (Ga68) somatostatin receptor analogs have better sensitivity in diagnosis of bronchial carcinoids causing Cushing syndrome and FDG PET appears superior for small-cell lung cancers and other aggressive tumors. 
+
+Completion:
+bronchial carcinoids | causes | Cushing syndrome
+
+#####
+
+Prompt:
+ Lymphedema of the leg and its advanced form, known as elephantiasis, are significant causes of disability and morbidity in areas endemic for lymphatic filariasis (LF), with an estimated 14 million persons affected worldwide. 
+
+Completion:
+Lymphedema of the leg | causes | disability
+Lymphedema of the leg | causes | morbidity
+elephantiasis | causes | disability
+elephantiasis | causes | morbidity
+
+#####
+
+Prompt:
+The twin goals of the World Health Organization's Global Program to Eliminate Lymphatic Filariasis include interrupting transmission of the parasitic worms that cause LF and providing care to persons who suffer from its clinical manifestations, including lymphedema-so-called morbidity management and disability prevention (MMDP). 
+
+Completion:
+parasitic worms | causes | LF
+
+#####
+
+Prompt:
+ Toxoplasmosis is a cosmopolitan infection caused by an intracellular obligatory protozoan, Toxoplasma gondii. 
+
+Completion:
+Toxoplasma gondii | causes | Toxoplasmosis 
+
+#####
+
+Prompt:
+ RA is an autoimmune disease and the most common type of inflammatory arthritis that is a major cause of disability. 
+
+Completion:
+RA | causes | disability 
+
+#####
+
+Prompt:
+ Pertussis (whooping cough) is a highly infective cause of cough that causes significant morbidity and mortality. 
+
+Completion:
+Pertussis | causes | cough 
+Pertussis | causes | morbidity 
+Pertussis | causes | mortality 
+
+#####
+
+Prompt:
+ Oligoasthenotspermia not only causes damage to the reproductive system, but also causes infertility in severe cases. 
+
+Completion:
+Oligoasthenotspermia | causes | infertility 
+
+#####
+
+Prompt:
+ Traditional medicine believes that compound Xuanju capsule can nourish kidney Yang, benefit kidney essence, improve semen quality, and treat infertility caused by oligoasthenotspermia. 
+
+Completion:
+Oligoasthenotspermia | causes | infertility 
+
+#####
+
+Prompt:
+ Of the 11 studies, seven studies had no adverse events (AEs) caused by probiotics, whereas four studies reported varying degrees of AEs in their treatment. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Bacteraemia is a common cause of increased morbidity and mortality in critically ill patients, but its early diagnosis and identification are complicated. 
+
+Completion:
+Bacteraemia | causes | morbidity
+Bacteraemia | causes | mortality
+
+#####
+
+Prompt:
+ Plasmodium vivax malaria has a persistent liver stage that causes relapse of the disease and continued P vivax transmission. 
+
+Completion:
+persistent liver stage of plasmodium vivax malaria | causes | relapse of malaria
+persistent liver stage of plasmodium vivax malaria | causes | continued P vivax transmission
+
+#####
+
+Prompt:
+ Primaquine also causes haemolysis in people with glucose-6-phosphate dehydrogenase (G6PD) deficiency. 
+
+Completion:
+Primaquine | causes | haemolysis
+
+#####
+
+Prompt:
+ Invasive meningococcal disease (IMD) is uncommon but still causes considerable public health burden due to its high mortality and morbidity. 
+
+Completion:
+Invasive meningococcal disease (IMD) | causes | public health burden
+Invasive meningococcal disease (IMD) | causes | high mortality
+Invasive meningococcal disease (IMD) | causes | high morbidity
+
+#####
+
+Prompt:
+ Patulous Eustachian tube (PET) seems to be caused by a defect in the mucosal valve of the Eustachian tube. 
+
+Completion:
+defect in the mucosal valve of the Eustachian tube | causes | Patulous Eustachian tube (PET)
+
+#####
+
+Prompt:
+It causes troublesome autophony occasionally leading to an impaired quality of life. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Is self-serving lying intuitive? Or does honesty come naturally? Many experiments have manipulated reliance on intuition in behavioral-dishonesty tasks, with mixed results. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Most factors associated with SSI are connected with asepsis during the surgical procedure and thus with contamination of implants and instruments used which can be caused by pre- and intraoperative factors. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ The analysis of the causes of death is fundamental to explore new strategies to reduce mortality rates in these patients. 
+
+Completion:
+
+
+#####
+
+Prompt:
+The authors performed a meta-analysis to analyze mortality and independently adjudicated causes of death in anticoagulated patients due to VTE, and to evaluate potential differences between different anticoagulant schemes. 
+
+Completion:
+VTE | causes | mortality
+
+#####
+
+Prompt:
+ The most frequent causes of death were cancer (42%), followed by VTE (20%), infections (13%), hemorrhage (6%), heart disease (4%), and stroke (2%). 
+
+Completion:
+cancer | causes | death
+VTE | causes | death
+infections | causes | death
+hemorrhage | causes | death
+heart disease | causes | death
+stroke | causes | death
+
+#####
+
+Prompt:
+There were no differences in the overall survival and causes of death according to the anticoagulant type. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Cancer is the leading cause of death in contemporary VTE trials. 
+
+Completion:
+cancer | causes | death
+
+#####
+
+Prompt:
+ The authors performed a meta-analysis to analyze mortality and independently adjudicated causes of death in anticoagulated patients due to VTE, and to evaluate potential differences between different anticoagulant schemes. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Surgical site infection (SSI) is one of the main causes of morbidity and death after surgical intervention. 
+
+Completion:
+Surgical site infection (SSI) | causes | morbidity
+Surgical site infection (SSI) | causes | death
+
+#####
+
+Prompt:
+ Colorectal cancer (CRC) is a major worldwide cause of cancer-related mortality. 
+
+Completion:
+Colorectal cancer (CRC) | causes | cancer-related mortality
+
+#####
+
+Prompt:
+ Purpose: The burden of vision impairment and blindness is typically focused on the most common causes of these conditions, namely cataract, macular degeneration, glaucoma, and diabetic retinopathy. 
+
+Completion:
+cataract | causes | vision impairment
+macular degeneration | causes | vision impairment
+glaucoma | causes | vision impairment
+diabetic retinopathy | causes | vision impairment
+cataract | causes | blindness
+macular degeneration | causes | blindness
+glaucoma | causes | blindness
+diabetic retinopathy | causes | blindness
+
+#####
+
+Prompt:
+However, the burden of less common but more preventable causes such as eye injury has not been quantified. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ The relevant qualitative and quantitative results were extracted from these studies and the latter pooled using a random-effects model. 
+
+Completion:
+
+
+#####
+
+Prompt:
+The model results were then applied to the United States population counts to estimate the number of individuals impacted by eye injury.R
+
+Completion:
+
+
+#####
+
+Prompt:
+ Tuberculosis is a major public health problem caused by Mycobacterium tuberculosis, occurring predominantly in population with low socioeconomic status. 
+
+Completion:
+Mycobacterium tuberculosis | causes | tuberculosis
+
+#####
+
+Prompt:
+It is the second most common cause of death from infectious diseases. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Legionella pneumophila is the main cause for community-acquired pneumonia especially in hospital environments. 
+
+Completion:
+Legionella pneumophila | causes | community-acquired pneumonia
+
+#####
+
+Prompt:
+ Endoscopic ultrasonography (EUS) may diagnose treatable causes of IAP and hence prevent recurrence. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Hereditary hemochromatosis, a disease which causes iron overload, has been shown to increase liver cancer risk but the association between serum iron levels within non-hemochromatosis population and liver cancer risk is unclear. 
+
+Completion:
+Hereditary hemochromatosis | causes | iron overload
+
+#####
+
+Prompt:
+ Chronic spontaneous urticaria (CSU) is defined as persistent wheals, angioedema, or both lasting for >6 weeks due to known or unknown causes. 
+
+Completion:
+
+
+#####
+
+Prompt:
+Some epidemiological studies and case reports suggest that internal parasite infections (PI) can cause CSU. 
+
+Completion:
+internal parasite infections (PI) | causes | CSU
+
+#####
+
+Prompt:
+ Pathogenic mechanisms in CSU due to PI may include specific IgE, Th2 cytokine skewing, eosinophils, activation of the complement, and the coagulation systems. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Community-onset bloodstream infections (CO-BSI) are major causes of severe febrile illness and death worldwide. 
+
+Completion:
+Community-onset bloodstream infections (CO-BSI) | causes | severe febrile illness
+Community-onset bloodstream infections (CO-BSI) | causes | death
+
+#####
+
+Prompt:
+In light of new data and the growing problem of antimicrobial resistance (AMR) among pathogens causing BSI, we undertook a systematic review of hospital-based studies of CO-BSI among patients hospitalized with fever. 
+
+Completion:
+pathogens | causes | BSI
+
+#####
+
+Prompt:
+ We determined by study the prevalence of BSI among participants, the pathogens responsible for BSI, and the antimicrobial susceptibility patterns of pathogens causing BSI, according to place and time. 
+
+Completion:
+pathogens | causes | BSI
+
+#####
+
+Prompt:
+ CO-BSI remain a major cause of severe febrile illness among hospitalized patients in Africa and Asia, with S. 
+
+Completion:
+CO-BSI | causes | severe febrile illness 
+
+#####
+
+Prompt:
+ There is a concerning increase in AMR among serious infections caused by community-onset pathogens. 
+
+Completion:
+community-onset pathogens | causes | serious infections
+
+#####
+
+Prompt:
+ The primary outcomes were the composite endpoint of CV death, nonfatal MI, and nonfatal stroke (MACE), death from CV causes, nonfatal MI, nonfatal stroke and death from any cause. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ The NMA results showed no significant differences among the DPP-4 inhibitors (sitagliptin, alogliptin, and saxagliptin) in any of the CV endpoints. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Background: The rapid increase in the incidence of small papillary thyroid carcinoma (PTC) appears to be caused by the detection of small thyroid cancers. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ As the results were favorable with low rates of size enlargement and lymph metastasis, the 2015 American Thyroid Association Management Guidelines endorsed AS as an alternative to immediate surgery. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ However, it is an important cause of maternal mortality and morbidity and of adverse outcomes for newborns in resource-limited countries in which undernutrition is common resulting in a small pelvis in which there is no easy access to functioning health facilities with a capacity to carry out operative deliveries. 
+
+Completion:
+undernutrition | causes | small pelvis
+
+#####
+
+Prompt:
+ Paraquat (PQ) poisoning can cause multiple organ failure, in which the lung is the primary target organ. 
+
+Completion:
+Paraquat (PQ) poisoning | causes | multiple organ failure
+
+#####
+
+Prompt:
+ The epidemiology of disease caused by group B Streptococcus (GBS; Streptococcus agalactiae) outside pregnancy and the neonatal period is poorly characterized. 
+
+Completion:
+group B Streptococcus (GBS; Streptococcus agalactiae) | causes | disease
+
+#####
+
+Prompt:
+ In patients with concurrent MS and CS, the exact cause for worsening of symptoms is often difficult to decipher. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Bariatric surgery is the most effective treatment for morbid obesity, but it can cause numerous adverse effects. 
+
+Completion:
+Bariatric surgery | causes | adverse effects
+
+#####
+
+Prompt:
+ Stroke stands among the most leading causes of mortality worldwide. 
+
+Completion:
+Stroke | causes | mortality
+
+#####
+
+Prompt:
+ This study aimed to determine the causes of chronic kidney disease (CKD) in Iranian children. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Considering the high prevalence of CAKUT, glomerulonephritis and urinary problems, the use of comprehensive approaches can be very effective in enhancing the knowledge of patients about the causes of kidney disease. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Cushing's disease (CD) is a severe illness generally caused by microcorticotropinomas (MICs) and in approximately 7-20% of patients by macrocorticotropinomas (MACs). 
+
+Completion:
+microcorticotropinomas (MICs) | causes | Cushing's disease (CD)
+macrocorticotropinomas (MACs) | causes | Cushing's disease (CD) 
+
+#####
+
+Prompt:
+USP8-mutations have been identified as a major genetic cause of CD (~ 50%). 
+
+Completion:
+USP8-mutations | causes | CD
+
+#####
+
+Prompt:
+ Pilonidal disease (PD) is a chronic situation which may cause pain, discomfort, inflammation, discharges, and inability to do daily routines. 
+
+Completion:
+pilonidal disease (PD) | causes | pain
+pilonidal disease (PD) | causes | discomfort
+pilonidal disease (PD) | causes | inflammation
+pilonidal disease (PD) | causes | discharges
+pilonidal disease (PD) | causes | inability to do daily routines
+
+#####
+
+Prompt:
+ Meta-regression was used to examine the relationship between the effect size and year, studies' sample sizes, proportion of male gender and age with the cause of heterogeneity. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Varicella zoster virus (VZV) causes chicken pox as a primary infection following which it becomes latent in neurons. 
+
+Completion:
+Varicella zoster virus (VZV) | causes | chicken pox
+
+#####
+
+Prompt:
+It may then reactivate to cause shingles (herpes zoster). 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Our results may represent a true background and estimation of VZV infection in Iran and generate the cost-benefits immunization program. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ The purpose of this study was to evaluate the PPV for malignancy of AD on DBT without a known cause and to assess the presence of an ultrasound (US) correlate for malignant AD through systematic review and meta-analysis of the literature. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ This meta-analysis included all studies published in Em-base, MEDLINE, and Evidence-Based Medicine Reviews databases through July 15, 2020, that assessed the rate of malignancy in patients with AD on DBT without a known cause that was deemed BI-RADS category 4 or 5. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ A needle biopsy should be performed for ADs on DBT without a known cause. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ The post mortem examination or autopsy is a trusted method of identifying the cause of death. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Stroke is the second most common cause of death after ischaemic heart diseases and the third leading cause of disability worldwide. 
+
+Completion:
+Stroke | causes | death
+Stroke | causes | disability 
+ischaemic heart diseases | causes | death
+
+#####
+
+Prompt:
+ In Asia, VAP is increasingly caused by resistant gram-negative organisms. 
+
+Completion:
+resistant gram-negative organisms | causes | VAP
+
+#####
+
+Prompt:
+ Early neurological deterioration (END) following ischaemic stroke is a serious event with manageable causes in only a fraction of patients. 
+
+Completion:
+
+
+#####
+
+Prompt:
+The incidence, causes and predictors of END occurring within 24 h of acute ischaemic stroke (END24) have not been systematically reviewed. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ We recorded the incidence and presumed causes of and factors associated with END24. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ As other mechanisms were rarely reported, in the majority no clear cause was identified. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Mutations in granulin (PGRN) and tau (MAPT), and hexanucleotide repeat expansions near the C9orf72 genes are the most prevalent genetic causes of frontotemporal lobar degeneration. 
+
+Completion:
+Mutations in granulin (PGRN) | causes | frontotemporal lobar degeneration
+Mutations in tau (MAPT) | causes | frontotemporal lobar degeneration
+hexanucleotide repeat expansions near the C9orf72 genes | causes | frontotemporal lobar degeneration
+
+#####
+
+Prompt:
+ Venous thrombosis can affect all veins in the body including cerebral veins, where it causes cerebral venous thrombosis (CVT). 
+
+Completion:
+venous thrombosis | causes | cerebral venous thrombosis (CVT)
+
+#####
+
+Prompt:
+ Salmonella Typhi is a human pathogen that causes typhoid fever. 
+
+Completion:
+Salmonella Typhi | causes | typhoid fever
+
+#####
+
+Prompt:
+It is a major cause of morbidity and mortality in developing countries and is responsible for several outbreaks in developed countries. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Prolonged infusion with β-lactam antibiotics should theoretically produce a better clinical efficacy than intermittent infusion in severe infection and infection caused by non-susceptible micro-organisms. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Prostate cancer is the most common malignant cancer in men worldwide and after lung cancer, it is the second leading cause of cancer mortality in men. 
+
+Completion:
+prostate cancer | causes | mortality
+
+#####
+
+Prompt:
+ Pneumonia is a relevant clinical and public health issue worldwide frequently associated with infections caused by Multi-Drug Resistant (MDR) pathogens. 
+
+Completion:
+Multi-Drug Resistant (MDR) pathogens | causes | infections
+
+#####
+
+Prompt:
+RESULTS: In Africa, respectively 92% and 7% of tuberculosis (TB) cases were caused by M. 
+
+Completion:
+
+#####
+
+Prompt:
+ bovis is rarely detected as a cause for human TB. 
+
+Completion:
+bovis | causes | human TB
+
+#####
+
+Prompt:
+ Antiretroviral therapy (ART) has markedly decreased the morbidity and mortality due to HIV/AIDS. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Neuronal intranuclear inclusion disease (NIID) is considered a heterogeneous disease because of its highly variable clinical manifestations. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Extensive analyses of known monogenic causes of stroke by whole-exome/genome sequencing are technically possible today. 
+
+Completion:
+monogenic disorders | causes | stroke
+
+#####
+
+Prompt:
+We here aimed to compile a comprehensive panel of genes associated with monogenic causes of stroke for use in clinical and research situations. 
+
+Completion:
+monogenic disorders | causes | stroke
+
+#####
+
+Prompt:
+ Second, we selected other genes that may plausibly cause stroke through diseases related to stroke, but without any documented stroke patient description. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ We identified in total 214 genes: 120 associated with stroke, 62 associated with diseases that may cause stroke, and 32 stroke-related genes from recent GWAS. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ The resulting gene panel can be used to interpret exome sequencing results regarding monogenic stroke. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ We conducted a systematic review to describe the occurrence and distribution of zoonotic causes of human febrile illness reported in malaria endemic countries. 
+
+Completion:
+zoonoses | causes | human febrile illness
+
+#####
+
+Prompt:
+ Despite evidence of profound data gaps, this Review reveals widespread distribution of multiple zoonoses that cause febrile illness. 
+
+Completion:
+zoonoses | causes | human febrile illness
+
+#####
+
+Prompt:
+ Determining the underlying cause of stroke is important to optimize secondary prevention treatment. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ We explored causes of between-studies heterogeneity and assessed the presence of publication bias. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Subgroup analysis was performed according to different causes of death. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ The results indicated that high concentrations of tryptase were significantly associated with anaphylactic shock when compared to the other causes of death. 
+
+Completion:
+anaphylactic shock | causes | death
+
+#####
+
+Prompt:
+ Postmortem diagnosis of sudden death due to anaphylaxis can be very difficult due to the non-specific pathological findings in forensic practice. 
+
+Completion:
+anaphylaxis | causes | sudden death
+
+#####
+
+Prompt:
+ In this study, we made a retrospective study and presented a systematic review and meta-analysis that aims to summarize the diagnostic significance of postmortem serum tryptase in the deceased with and without anaphylactic shock and to calculate a cutoff value for future reference in the identification of deaths due to anaphylactic shock. 
+
+Completion:
+anaphylactic shock | causes | deaths
+
+#####
+
+Prompt:
+ Similar results were detected in the subgroup analysis when compared to deaths due to cardiovascular disease (CVD). 
+
+Completion:
+cardiovascular disease (CVD) | causes | deaths
+
+#####
+
+Prompt:
+ Though many previous studies have been conducted to explore the diagnostic significance of serum tryptase for lethal anaphylaxis, inconsistent results were documented. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Trauma during pregnancy is the leading non-obstetrical cause of maternal death and a significant public health burden. 
+
+Completion:
+Trauma | causes | maternal death
+
+#####
+
+Prompt:
+ In-office dental bleaching results in a high risk of tooth sensitivity caused by the inflammatory process of the pulpal tissue. 
+
+Completion:
+pulpal tissue inflammation | causes | tooth sensitivity
+
+#####
+
+Prompt:
+ Burns cause a huge economic burden to society, and the wounds can be very difficult to manage. 
+
+Completion:
+burns | causes | economic burden to society
+
+#####
+
+Prompt:
+ Unnatural causes of death due to traffic accidents (TA) and suicide attempts (SA) constitute a major burden on global health, which remained stable in the last decade despite widespread efforts of prevention. 
+
+Completion:
+traffic accidents (TA) | causes | death
+suicide attempts (SA) | causes | death
+
+#####
+
+Prompt:
+ Nasal obstruction is a common cause of breathing problems with lateral wall insufficiency (LWI) a key anatomic contributor. 
+
+Completion:
+nasal obstruction | causes | breathing problems
+
+#####
+
+Prompt:
+ Background: Amblyopia is one of the most important causes of vision impairment in the world, especially in children. 
+
+Completion:
+amblyopia | causes | vision impairment
+
+#####
+
+Prompt:
+010) had a significant effect on heterogeneity between studies, while age group, publication date, and cause of amblyopia had no significant effect on heterogeneity.C
+
+Completion:
+
+
+#####
+
+Prompt:
+ The primary cause of re-operation in the discectomy group is recurrent disc herniation. 
+
+Completion:
+recurrent disc herniation | causes | re-operation
+
+#####
+
+Prompt:
+Two causes of re-operation in the fusion group are adjacent segmental degeneration and implant removal. 
+
+Completion:
+adjacent segmental degeneration | causes | re-operation
+implant removal | causes | re-operation
+
+#####
+
+Prompt:
+ In conclusion, no difference in re-operation rates between the two surgical treatments was found based on the results of our study. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ This systemic review aims to synthesise the current literature surrounding off-therapy surveillance imaging in children and young people with extra-cranial solid tumours, with a view to establishing if routine imaging studies after treatment for childhood cancer increase overall survival, increase the psychological distress caused to patients and families, result in other harms to patients and are cost-effective strategies. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Older anatomical textbooks refer to it as a rare variation caused by the perforation of the thin bony plate which separates both fossae. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ VP shunt failure in children is mostly caused by infection and/or proximal/distal shunt obstruction. 
+
+Completion:
+infection | causes | failure of the VP shunt
+proximal/distal shunt obstruction | causes | failure of the VP shunt
+
+#####
+
+Prompt:
+ Fever of unknown origin refers to a prolonged fever with an unknown cause despite adequate medical evaluations. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ The atypical presentations often cause a delayed diagnosis and an improper treatment with an increased morbidity rate. 
+
+Completion:
+atypical presentations | causes | delayed diagnosis
+atypical presentations | causes | improper treatment
+
+#####
+
+Prompt:
+ Subgroup analyses were used to detect the cause of heterogeneity. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Subgroup analysis revealed races or the quality of studies may be the cause of high heterogeneity. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Pooled prevalence (PP), odds ratios (OR) and risk factors were determined for single pathogens, groups of bacteria, viruses and parasites, and overall for AGE caused by any pathogen. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Higher education students often suffer from physiological and psychological health problems caused by stress, which may negatively impact their academic performance (AP). 
+
+Completion:
+stress | causes | physiological health problems
+stress | causes | psychological health problems 
+
+#####
+
+Prompt:
+ Whereas study results point to a positive relation between PA and AP, relationships between PA and stress seem to be negative, while the relation between stress and AP is undecided. 
+
+Completion:
+
+
+#####
+
+Prompt:
+The meta-analysis found no significant associations and considerable heterogeneity of the results. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ This meta-analysis was conducted aiming to summarize the results obtained from the previous studies so that the effect of opium on blood lead levels (BLLs) can be investigated. 
+
+Completion:
+
+
+#####
+
+Prompt:
+1%) might be mainly the result of the type of sampling and of consumption. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Toxoplasmosis is one of the most common parasitic infections in humans, which is caused by Toxoplasma gondii. 
+
+Completion:
+Toxoplasma gondii | causes | toxoplasmosis
+
+#####
+
+Prompt:
+It is usually asymptomatic but primary infection in a pregnant woman can cause severe consequences in the fetus such as miscarriage. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Esophageal cancer is one cause of the most common cancer death and diagnosed in approximately half a million people annually worldwide, as well as has resulted in worse status, which is responsible for an estimated 482,300 new cases and 406,800 deaths in 2008, and is the fifth highest in the mortality rate among tumor sites. 
+
+Completion:
+esophageal cancer | causes | death
+
+#####
+
+Prompt:
+ FROM WATER AND SOIL SOURCES IN IRAN: A SYSTEMATIC REVIEW AND META-ANALYSIS Acanthamoeba, an opportunistic protozoan parasite, is distributed in the environment globally, causes serious human infections, including a fatal encephalitis and keratitis. 
+
+Completion:
+Acanthamoeba | causes | serious human infections
+Acanthamoeba | causes | fatal encephalitis
+Acanthamoeba | causes | keratitis
+
+#####
+
+Prompt:
+ This review resulted in a total 34 articles meeting the including criteria. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Combining fingers in traditional dermatoglyphic methodology and omitting finger-specific variations might be a cause for uncertainty.A
+
+Completion:
+
+
+#####
+
+Prompt:
+Conclusion: Higher sex differences in ulnar fingers and the lack of interpopulation differences all over the world in the 4th finger might be caused by a stronger influence of genetic and/or hormonal factors on dermatoglyphic development of the ulnar side of the hand. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Hypertension is a disease affecting a large part of the world's population that causes millions of deaths annually. 
+
+Completion:
+Hypertension | causes | death
+
+#####
+
+Prompt:
+ The main symptom of ischaemic heart disease is chest pain (angina pectoris) most often caused by blockage of a coronary artery. 
+
+Completion:
+coronary artery blockage | causes | chest pain (angina pectoris)
+
+#####
+
+Prompt:
+ Haemophilus influenzae type b (Hib) is an important cause of invasive bacterial disease in children worldwide. 
+
+Completion:
+Haemophilus influenzae type b (Hib) | causes | invasive bacterial disease in children
+
+#####
+
+Prompt:
+ Extended-spectrum β-lactamase-producing Enterobacteriaceae (ESBL-PE) are an increasing cause of resistant infections among patients with malignancy. 
+
+Completion:
+Extended-spectrum β-lactamase-producing Enterobacteriaceae (ESBL-PE) | causes | resistant infections
+
+#####
+
+Prompt:
+This study sought to estimate the prevalence of bloodstream infections (BSIs) caused by ESBL-PE in this population and to examine regional and temporal differences. 
+
+Completion:
+ESBL-PE | causes | bloodstream infections (BSIs)
+
+#####
+
+Prompt:
+ 1 in 10 BSIs in patients with malignancy is caused by ESBL-PE and in some areas this rate can be as high as 1 in 3 cases. 
+
+Completion:
+ESBL-PE | causes | BSIs
+
+#####
+
+Prompt:
+ Airway compromise is a leading cause of death in unconscious trauma patients. 
+
+Completion:
+Airway compromise | causes | death
+
+#####
+
+Prompt:
+ Cryptosporidiosis is an important zoonosis caused by Cryptosporidium. 
+
+Completion:
+Cryptosporidium | causes | Cryptosporidiosis
+
+#####
+
+Prompt:
+This disease causes a global public health problem. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ The results showed that cryptosporidiosis was common in cats all over the world. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Glaucoma is a progressive disease of the optic nerve that has several underlying causes, but in most cases, the cause is unknown. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Glaucoma is a progressive disease of the optic nerve that has several underlying causes, but in most cases, the cause is unknown. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Tuberculosis is one of the leading causes of death worldwide. 
+
+Completion:
+tuberculosis | causes | death
+
+#####
+
+Prompt:
+ While headache is a common neurologic symptom, subarachnoid hemorrhage (SAH) is a rare and potentially catastrophic cause of sudden-onset severe headache. 
+
+Completion:
+subarachnoid hemorrhage (SAH) | causes | sudden-onset severe headache
+
+#####
+
+Prompt:
+ Lassa fever (LF) causes annual outbreaks in endemic regions with high mortality of symptomatic patients. 
+
+Completion:
+Lassa fever (LF) | causes | outbreaks
+Lassa fever (LF) | causes | high mortality
+
+#####
+
+Prompt:
+ To date, no review has systematically compiled and synthesised the scientific evidence from published review articles to determine whether there is clear consensus on the causes of obesity. 
+
+Completion:
+
+
+#####
+
+Prompt:
+A systematic review of the literature was conducted searching PubMed/Medline for narrative and systematic review articles published between January 1990 and October 2014 that examined the causes of obesity. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ The most popular cause of obesity identified in reviews of adult studies was "combined physical activity and diet" (3 of 7 studies), whereas the most popular cause specified in reviews of child studies was deemed "inconclusive" (2 of 5 studies). 
+
+Completion:
+combined physical activity and diet | causes | obesity
+
+#####
+
+Prompt:
+While a number of reviews have examined the causes of obesity, the methodology and conclusions varied widely, and few were conducted systematically. 
+
+Completion:
+
+
+#####
+
+Prompt:
+Currently, no consensus exists across published literature reviews regarding the primary cause of the obesity epidemic, and more research, particularly prospective studies using state-of-the-art measures, is warranted. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Hepatitis B causes death mainly due to liver disease worldwide. 
+
+Completion:
+Hepatitis B | causes | death
+Hepatitis B | causes | liver disease
+liver disease | causes | death
+
+#####
+
+Prompt:
+ Human immunodeficiency virus increases the pathological effect of hepatitis viruses and potentiates re-activation of latent hepatitis infections as a result of reduced immunity. 
+
+Completion:
+reduced immunity | causes | re-activation of latent hepatitis infections
+
+#####
+
+Prompt:
+ Tedizolid, the active moiety of tedizolid phosphate, is approved in the United States, the European Union, Canada and a number of other countries for the treatment of acute bacterial skin and skin structure infections (ABSSSI) caused by certain susceptible bacteria, including methicillin-resistant Staphylococcus aureus (MRSA). 
+
+Completion:
+methicillin-resistant Staphylococcus aureus (MRSA) | causes | acute bacterial skin and skin structure infections (ABSSSI)
+
+#####
+
+Prompt:
+ Sepsis is the primary diagnosis in more than 8% of all critically ill children and sepsis is among the ten leading causes of death in children <10 years. 
+
+Completion:
+sepsis | causes | death
+
+#####
+
+Prompt:
+ Obstructive sleep apnoea (OSA) is caused by complete or partial obstruction of the upper airway resulting in repeated episodes of interrupted or shallow breaths. 
+
+Completion:
+complete obstruction of the upper airway | causes | Obstructive sleep apnoea (OSA)
+partial obstruction of the upper airway | causes | Obstructive sleep apnoea (OSA)
+complete obstruction of the upper airway | causes | repeated episodes of interrupted breaths
+partial obstruction of the upper airway | causes | repeated episodes of interrupted breaths
+partial obstruction of the upper airway | causes | repeated episodes of shallow breaths
+
+#####
+
+Prompt:
+ Atherosclerotic intracranial artery stenosis (ICAS) is one of most common causes of stroke, which is the second-leading cause of death worldwide. 
+
+Completion:
+atherosclerotic intracranial artery stenosis (ICAS) | causes | stroke
+stroke | causes | death
+
+#####
+
+Prompt:
+ Schistosomiasis or bilharzia is a widespread parasitic disease caused by blood flukes of the genus Schistosoma. 
+
+Completion:
+blood flukes of the genus Schistosoma | causes | schistosomiasis
+blood flukes of the genus Schistosoma | causes | bilharzia
+
+#####
+
+Prompt:
+ The overall analysis revealed heterogeneity in the outcomes, which warranted the identification of the cause using the Galbraith plot. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Current sleep medicine nosology is reliant on the multiple sleep latency test (MSLT) to segregate hypersomnolence associated with psychiatric disorders from other central nervous system causes. 
+
+Completion:
+psychiatric disorders | causes | hypersomnolence
+
+#####
+
+Prompt:
+ Uropathogenic Escherichia coli (UPEC) are amongst the most frequent causes of urinary tract infections. 
+
+Completion:
+Uropathogenic Escherichia coli (UPEC) | causes | urinary tract infections
+
+#####
+
+Prompt:
+ Despite the growing debate on the topic, a comprehensive literature analysis of stiffness causes has never been conducted. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ : We aimed to combine evidence from all heart failure trials that have investigated the effects of drugs with blood pressure (BP)-lowering properties to assess the extent to which such drugs reduce BP in heart failure, the association between the net change in BP between treatment arms and cause-specific outcomes and whether treatment effects (efficacy and safety) vary according to baseline BP. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ There is still debate whether intraoperative Schneiderian membrane (SM) perforation in the maxillary sinus lift causes an increase the risk of implants failure. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ One study explained how strategy and ability to adapt are not related to the type, the cause, nor the physical condition, but are mainly influenced by the age and the subjective experience of the patients. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Multiple sclerosis is a chronic disease considered the major cause of neurological disability in young adults worldwide. 
+
+Completion:
+Multiple sclerosis | causes | neurological disability
+
+#####
+
+Prompt:
+ Moreover, there is plenty of evidence of neuropsychiatric toxicity caused by the use of IFNα as a treatment for other medical conditions. 
+
+Completion:
+IFNα | causes | neuropsychiatric toxicity
+
+#####
+
+Prompt:
+ With a focus on childhood diarrhoea caused by the parasite Cryptosporidium spp.,
+
+Completion:
+Cryptosporidium spp | causes | childhood diarrhoea
+
+#####
+
+Prompt:
+ Models that couple weather conditions with demographic factors are needed to assess disease distributional shifts and risks due to environmental change. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ However, the results were often inconsistent and inconclusive. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Chronic Obstructive Pulmonary Disease (COPD) main cause is attributed to active smokers, but there's a small percentage that comes from risk factors that have been less considered. 
+
+Completion:
+smoking | causes | Chronic Obstructive Pulmonary Disease (COPD)
+
+#####
+
+Prompt:
+ Acute ischemic stroke caused by primary multivessel occlusions (pMVO) is a rare but devastating disease. 
+
+Completion:
+primary multivessel occlusions (pMVO) | causes | acute ischemic stroke
+
+#####
+
+Prompt:
+ Rotavirus (RV) infection is the leading cause of diarrhoea-associated morbidity and mortality globally among children under 5 years of age. 
+
+Completion:
+Rotavirus (RV) infection | causes | diarrhoea-associated morbidity
+Rotavirus (RV) infection | causes | diarrhoea-associated mortality
+
+#####
+
+Prompt:
+ Postoperative occipital neuralgia (PON) after upper cervical spine surgery can cause significant morbidity and may be overlooked. 
+
+Completion:
+postoperative occipital neuralgia (PON) | causes | morbidity
+
+#####
+
+Prompt:
+The causes, presentation, diagnosis, management, prognosis, and prevention of PON were reviewed following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Data on surgical procedures, incidence, cause of PON, management, outcomes, and preventive technique were extracted. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Five articles explained the possible causes. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Understanding of causes of death is critical for prevention, yet there is no globally acceptable classification system. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Perineal pressure associated with bicycle riding is the cause of several genitourinary pathologies, most notably Alcock's syndrome and subsequent perineal numbness. 
+
+Completion:
+Perineal pressure associated with bicycle riding | causes | genitourinary pathologies
+perineal pressure associated with bicycle riding | causes | Alcock's syndrome
+perineal pressure associated with bicycle riding | causes | perineal numbness
+
+#####
+
+Prompt:
+DETERMINING THE SURVIVAL RATE OF COLORECTAL CANCER IN IRAN: A SYSTEMATIC REVIEW AND META-ANALYSIS Objective: Colorectal cancer is one of the most common causes of death in the world. 
+
+Completion:
+colorectal cancer | causes | death
+
+#####
+
+Prompt:
+advances in medical sciences, cancer is an important disease and the second cause of death after cardiovascular diseases.
+
+
+Completion:
+cancer | causes | death
+cardiovascular diseases | causes | death
+
+#####
+
+Prompt:
+The results indicated that there is a significant relationship between anatomic location of tumor and
+survival rate. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Smoking is the most important modifiable cardiovascular risk factor causes around approximately one of every 4 cardiovascular-related deaths worldwide. 
+
+Completion:
+smoking | causes | cardiovascular-related deaths
+
+#####
+
+Prompt:
+ Subgroup analysis showed that among type of CR the most effective one was the educational along with physical exercise (comprehensive CR) cause 99% (98%, 100%) smoking cessation (SC). 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Unsatisfactory adaptation of restorations with subgingival margins can cause problems such as accumulation of biofilm, secondary caries, and inflammation of the periodontal tissue. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Myasthenia gravis (MG) is an autoimmune disease caused by the transmission of dysfunction in the neuromuscular junction, manifesting partial or systemic skeletal muscle weakness and fatigue, which are exacerbated by activities and relieved after rest. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ According to traditional Chinese medicine (TCM) theory, Buzhong Yiqi decoction (BYD) is a Qi-supplementing formula which is suitable for MG management as MG is generally diagnosed as "flaccidity syndrome" and considered caused by Qi-deficiency. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Bacterial meningitis is a significant cause of morbidity and mortality worldwide among children aged 1-59 months. 
+
+Completion:
+Bacterial meningitis | causes | morbidity
+Bacterial meningitis | causes | mortality
+
+#####
+
+Prompt:
+ Cardiovascular diseases are major causes of people death associated with high mortality and disability. 
+
+Completion:
+Cardiovascular diseases | causes | death
+
+#####
+
+Prompt:
+ Colistin and polymyxin B are increasingly reintroduced in clinical practice due to the absence of effective antibiotics for the treatment of emerging infections caused by gram-negative bacteria. 
+
+Completion:
+gram-negative bacteria | causes | infections
+
+#####
+
+Prompt:
+ Cohort studies evaluating renal damage (nephrotoxicity) in adult patients caused by colistin or polymyxin B were included. 
+
+Completion:
+
+
+#####
+
+Prompt:
+WHAT IS THE CAUSE OF DEATH, WHEN ALCOHOL DEPENDENT PERSONS DIE PREMATURELY? Although individuals with alcohol use disorder (AUD) have a significantly shorter lifespan than the general population, there is sparse evidence on cause of death when alcohol dependent people die prematurely. 
+
+Completion:
+
+
+#####
+
+Prompt:
+pylori) infection causes several extra-gastrointestinal disorders. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Psoriasis is an immune-mediated polygenic hereditary skin disease quality of the patients' life because of the great trouble it causes to patients. 
+
+Completion:
+Psoriasis | causes | trouble to patients
+
+#####
+
+Prompt:
+ Dural arteriovenous fistulae (DAVFs) are a rare cause of intracranial haemorrhage. 
+
+Completion:
+dural arteriovenous fistulae (DAVFs) | causes | intracranial haemorrhage
+
+#####
+
+Prompt:
+ We performed a systematic literature search for studies reporting outcome after intracranial haemorrhage caused by a DAVF. 
+
+Completion:
+DAVF | causes | intracranial haemorrhage
+
+#####
+
+Prompt:
+ Hospital based case-series suggest a relatively low risk of death and poor outcome in patients with intracranial haemorrhage due to rupture of a DAVF. 
+
+Completion:
+rupture of a DAVF | causes | intracranial haemorrhage
+
+#####
+
+Prompt:
+ Dystonia is a genetically complex disease with both monogenic and polygenic causes. 
+
+Completion:
+monogenic disorders | causes | dystonia
+polygenic disorders | causes | dystonia
+
+#####
+
+Prompt:
+ For the latter, numerous genetic associations studies have been performed with largely inconsistent results. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Sufficiently cold temperatures are thought to evoke pain and motivation to resolve disturbed homeostasis, while cool but not painful temperatures are evaluated as cold but do not cause thermoregulatory behaviour. 
+
+Completion:
+cold temperatures | causes | pain
+cold temperatures | causes | motivation to resolve disturbed homeostasis
+
+#####
+
+Prompt:
+ As a result, we sought to perform activation likelihood estimation analysis of the brain activity associated with innocuous and noxious cold exposure. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Acid secretion inhibitors are usually prescribed to promote the healing of artificial ulcers caused by endoscopic submucosal dissection (ESD) to reduce the risk of gastric perforation and delayed bleeding. 
+
+Completion:
+endoscopic submucosal dissection (ESD) | causes | artificial ulcers
+
+#####
+
+Prompt:
+ However, it remains unclear whether vonoprazan is more effective than PPI in promoting healing of ulcers caused by ESD. 
+
+Completion:
+ESD | causes | ulcers
+
+#####
+
+Prompt:
+Medline and Embase databases were searched through January 2018 for studies that compared the rate of complete healing of ulcers caused by ESD and post-ESD delayed bleeding in patients who received vonoprazan versus those who received PPI after ESD. 
+
+Completion:
+ESD | causes | ulcers
+
+#####
+
+Prompt:
+ Lack of or poor training/educating of certifiers, lack of physician understandings about the importance of DC and absence of quality assurance mechanisms were identified as the most significant causes of DC errors. 
+
+Completion:
+lack of certifier training | causes | DC errors
+lack of certifier education | causes | DC errors
+poor certifier training | causes | DC errors
+poor certifier education | causes | DC errors
+lack of physician understanding about the importance of DC | causes | DC errors
+absence of quality assurance mechanisms | causes | DC errors
+
+#####
+
+Prompt:
+ The hyperechogenicity of the substania nigra (SN) has been established as a valid finding in patients with Parkinson´s disease (PD), probably caused by an increased tissue iron concentration in the SN. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ After proving a higher prevalence of LN hyperechogenicity in aPS compared to PD, its histopathological cause needs to be investigated. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Age-related macular degeneration (AMD) is the most common cause of blindness in elderly people worldwide and the major degenerative disease of the retina that leads to progressive impairment of central vision. 
+
+Completion:
+age-related macular degeneration (AMD) | causes | blindness
+
+#####
+
+Prompt:
+ Periprosthetic bone mass density (BMD) loss may be a cause for revision surgery. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Overactive bladder syndrome (OAB) is a common medical condition that causes significant distress and impact on the quality of life in women. 
+
+Completion:
+overactive bladder syndrome (OAB) | causes | significant distress
+
+#####
+
+Prompt:
+ The auditory brainstem response can be used to diagnose retrocochlear lesions caused by VS. 
+
+Completion:
+VS | causes | retrocochlear lesions
+
+#####
+
+Prompt:
+Since hearing loss correlates poorly with tumour size, a retrocochlear lesion is probably not the only cause for hearing loss. 
+
+Completion:
+retrocochlear lesion | causes | hearing loss
+
+#####
+
+Prompt:
+ Sarcopenia is a common disease in the elderly population that causes disability, poor quality of life, and a high risk of death. 
+
+Completion:
+Sarcopenia | causes | disability
+Sarcopenia | causes | poor quality of life
+Sarcopenia | causes | high risk of death 
+
+#####
+
+Prompt:
+ AIM We aim to inventory the primary care access barriers faced by immigrant communities through a comprehensive systematic review and develop a conceptual framework to explain the barriers, using a root cause analysis approach. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Our proposed approach of framing the barriers to identify the root causes is adapted from the root cause analysis method, which is the process of identifying and understanding the underlying causes to discover the root causes of problems. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ We used Quality-Adjusted Life Years (QALYs) to access the loss of well-being due to illness caused by HABs. 
+
+Completion:
+illness | causes | loss of well-being
+HABs | causes | illness
+
+#####
+
+Prompt:
+ Health costs included healthcare and medication expenses, loss of income due to illness, cost of pain and suffering, and cost of death. 
+
+Completion:
+illness | causes | loss of income
+
+#####
+
+Prompt:
+ This meta-analysis showed that IBD induction in rodents causes significant bone loss. 
+
+Completion:
+
+
+#####
+
+Prompt:
+PATIENTS WITH BLUNT TRAUMATIC BRAIN INJURY: A ROLE FOR COMPUTED TOMOGRAPHY ANGIOGRAPHY OF THE HEAD TO EVALUATE NONTRAUMATIC CAUSES? In the setting of trauma, the cause of intracranial hemorrhage (ICH) is frequently attributed to the physical, traumatic event. 
+
+Completion:
+physical traumatic event | causes | intracranial hemorrhage (ICH)
+
+#####
+
+Prompt:
+Caution should still be directed toward nontraumatic (or spontaneous) causes responsible for the trauma, such as hypertension, cerebral amyloid angiopathy, aneurysms, vascular malformation, and hemorrhagic infarcts. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ The therapeutic options also differ by the cause. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Among the causes of epilepsy are several that are currently preventable. 
+
+Completion:
+
+
+#####
+
+Prompt:
+In this review, we summarize the public health burden of epilepsy arising from such causes and suggest priorities for primary epilepsy prevention. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ TBI was the attributed cause in nearly 5% of epilepsy cases in HIC and LMIC. 
+
+Completion:
+TBI | causes | epilepsy
+
+#####
+
+Prompt:
+CNS infections were a more common attributed cause in LMIC, accounting for about 5% of all epilepsy cases. 
+
+Completion:
+CNS infections | causes | epilepsy
+
+#####
+
+Prompt:
+ A large proportion of the overall public health burden of epilepsy is attributable to preventable causes. 
+
+Completion:
+
+
+#####
+
+Prompt:
+The attributable fraction for perinatal causes, infections, TBI, and stroke in sum reaches nearly 25% in both LMIC and HIC. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ As one of the leading causes of heart failure, dilated cardiomyopathy (DCM) is characterized by dysfunctional muscle contraction and enlarged ventricular chamber. 
+
+Completion:
+dilated cardiomyopathy (DCM) | causes | heart failure
+
+#####
+
+Prompt:
+4 aims to reduce the premature mortality caused by non-communicable diseases through prevention and treatment. 
+
+Completion:
+non-communicable diseases | causes | premature mortality
+
+#####
+
+Prompt:
+Chronic obstructive pulmonary disease is the second leading cause of mortality and disability-adjusted life years in India. 
+
+Completion:
+chronic obstructive pulmonary disease | causes | mortality
+chronic obstructive pulmonary disease | causes | disability-adjusted life years
+
+#####
+
+Prompt:
+ Cardiovascular disease is a one of most common causes of mortality around the world. 
+
+Completion:
+cardiovascular disease | causes | mortality
+
+#####
+
+Prompt:
+ The numerous aetiological causes of PCS result in a wide spectrum of management options, each with varying success in abating symptoms. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Both the PD and a variety of healthy diets (control diets (CDs)) caused reduction in anthropometric parameters, both in the short and long term. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ All diets caused a decrease in total cholesterol (TC), low-density lipoprotein cholesterol (LDL-C), and triglycerides (TG), albeit the impact of PD was stronger. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ PD caused a decrease in fasting plasma (fP) glucose, fP insulin, and homeostasis model assessment of insulin resistance (HOMA-IR) and glycated hemoglobin (HbA1c) in the short run, contrary to CD. 
+
+Completion:
+
+
+#####
+
+Prompt:
+In the long term, only PD caused a decrease in fP glucose and fP insulin. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ We have noticed some cases with concomitant severe cerebellar ataxia due to cerebellar atrophy. 
+
+Completion:
+cerebellar atrophy | causes | severe cerebellar ataxia
+
+#####
+
+Prompt:
+ Leprosy is a chronic bacterial infection caused by Mycobacterium leprae, which may lead to physical disability, stigma, and discrimination. 
+
+Completion:
+Mycobacterium leprae | causes | leprosy
+
+#####
+
+Prompt:
+ It is one of the main causes of death and disability worldwide. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ To utilize these microstructural variations to adjust the drug release in drug delivery system (DDS), it is crucial to understand the structure variations of the LLC caused by different types of guest molecules. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Lipid-based lyotropic liquid crystal (LLC), such as lamellar (Lα), bicontinuous cubic (QII), or hexagonal (HII) phases, have attracted wide interest in the last few decades due to their practical potential in diverse applications and notable structural complexity. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Unlike other respiratory viruses, SARS-CoV-2 causes anosmia without sinonasal inflammation. 
+
+Completion:
+SARS-CoV-2 | causes | anosmia
+
+#####
+
+Prompt:
+ Although standard therapy for mycotic aneurysms consists of resection of the infected aorta and in situ graft replacement, some treat with endovascular stent-grafting because patients may not tolerate graft replacement due to underlying diseases. 
+
+Completion:
+
+
+#####
+
+Prompt:
+There are 6 more reported cases of mycotic aneurysm caused by Edwardsiella tarda. 
+
+Completion:
+Edwardsiella tarda | causes | mycotic aneurysm
+
+#####
+
+Prompt:
+ Herein we report the first case ever of mycotic aneurysm caused by E. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Cardiovascular diseases (CVD) are the most common cause of death worldwide. 
+
+Completion:
+cardiovascular diseases (CVD) | causes | death
+
+#####
+
+Prompt:
+Among CVDs, heart failure (HF) is known to be the most common cause of hospitalization in patients over 65. 
+
+Completion:
+heart failure (HF) | causes | hospitalization
+
+#####
+
+Prompt:
+ Common causes include neurogenic underactive bladder and/or bladder outlet obstruction from detrusor sphincter dyssynergia. 
+
+Completion:
+detrusor sphincter dyssynergia | causes | bladder outlet obstruction
+
+#####
+
+Prompt:
+ Hearing loss is conceptualized as any impairment of the ability to hear and/or detect speech or environment sounds, regardless of cause, type, or degree. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ It should be noted that aging is the most common cause of sensorineural hearing loss followed by noise-induced hearing loss, and both are closely related to the formation of reactive oxygen species. 
+
+Completion:
+aging | causes | sensorineural hearing loss
+noise-induced hearing loss | causes | sensorineural hearing loss
+
+#####
+
+Prompt:
+ Neuropathic pain (NP) is a common symptom caused by lesions or diseases of the somatosensory nervous system. 
+
+Completion:
+lesions of the somatosensory nervous system | causes | neuropathic pain (NP)
+diseases of the somatosensory nervous system | causes | neuropathic pain (NP)
+
+#####
+
+Prompt:
+ We aimed to assess the evidence for a causal association between psychosocial factors at work and depressive disorders. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ The combination of resulting biases is likely to have inflated observed effect estimates. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Cerebral hyperperfusion syndrome (CHS) is a preventable cause of stroke after carotid endarterectomy (CEA). 
+
+Completion:
+cerebral hyperperfusion syndrome (CHS) | causes | stroke
+
+#####
+
+Prompt:
+ Cellulitis is a common cause of hospitalization. 
+
+Completion:
+cellulitis | causes | hospitalization
+
+#####
+
+Prompt:
+ Breast cancer has recently become one of the most common causes of cancer-related deaths, and several studies have suggested that genetic polymorphisms in the folate metabolism pathway may be associated with susceptibility to breast cancer, although their results have been inconsistent or inconclusive. 
+
+Completion:
+breast cancer | causes | deaths
+
+#####
+
+Prompt:
+ The cause-and-effect relationship between stress and elevated GC levels in hairs, sampled weeks later, is however hard to prove. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ To find the underlying causes for such a high suicide rate was the basic purpose of this article. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Stress and insecurity, whether related to employment or in relationship, are the basic causes which ultimately take an individual to the verge of suicide. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ The government has already taken serious steps to minimise the death rate caused by suicide. 
+
+Completion:
+suicide | causes | death
+
+#####
+
+Prompt:
+ Some people also find suicide a mean to get rid of life due to some lethal diseases. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Acute undifferentiated febrile illness (AUFI) is caused by a multitude of diverse pathogens, with significant morbidity and mortality in the developing world. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Myocardial remodeling and dysfunction caused by accelerated oxidative damage is a widely reported phenomenon within a diabetic state. 
+
+Completion:
+accelerated oxidative damage | causes | myocardial remodeling
+accelerated oxidative damage | causes | myocardial dysfunction
+
+#####
+
+Prompt:
+Altered myocardial substrate preference appears to be the major cause of enhanced oxidative stress-mediated cell injury within a diabetic heart. 
+
+Completion:
+altered myocardial substrate preference | causes | oxidative stress-mediated myocardial injury
+
+#####
+
+Prompt:
+During this process, exacerbated free fatty acid flux causes an abnormal increase in mitochondrial membrane potential leading to the overproduction of free radical species and subsequent cell damage. 
+
+Completion:
+exacerbated free fatty acid flux | causes | abnormal increase in mitochondrial membrane potential
+abnormal increase in mitochondrial membrane potential | causes | overproduction of free radical species
+overproduction of free radical species | causes | cell damage
+
+#####
+
+Prompt:
+ Sudden cardiac death is often linked with hypertrophic cardiomyopathy in young athletes, but with a divergence of study results. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Knee osteoarthritis (OA) is a degenerative disease which is expected to become one of the leading causes of disability by the next years. 
+
+Completion:
+knee osteoarthritis (OA) | causes | disability
+
+#####
+
+Prompt:
+ But even considering this, the causes of acquired olfactory dysfunction in children are not well understood. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ A number of diseases and circumstances affect olfactory function in children and may cause acquired olfactory dysfunction in this age group. 
+
+Completion:
+diseases | causes | acquired olfactory dysfunction
+circumstances | causes | acquired olfactory dysfunction
+
+#####
+
+Prompt:
+Nevertheless, more research is needed to better understand the causes of acquired olfactory dysfunction in children. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Studies were identified using a predefined literature search, including studies if patients were ≤18 years of age and results of psychophysical olfactory testing were reported. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Spontaneous intracranial hypotension (SIH) is usually caused by a spinal cerebrospinal fluid (CSF) leak. 
+
+Completion:
+spinal cerebrospinal fluid (CSF) leak | causes | spontaneous intracranial hypotension (SIH)
+
+#####
+
+Prompt:
+ Involvement of the groin region can cause interesting presentations but, as of 2020, has rarely been investigated. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ We describe a unique variant of the flexor digitorum accessorius longus (FDAL) muscle as an apparent cause of TTS, functioning as an independent flexor of the second toe, which has not been described in the literature. 
+
+Completion:
+flexor digitorum accessorius longus (FDAL) muscle variant | causes | TTS
+
+#####
+
+Prompt:
+ The 'placebo effect' and 'nocebo effect' are phenomena whereby beneficial (placebo) or adverse (nocebo) effects result from the expectation that an inert substance will relieve or cause a particular symptom. 
+
+Completion:
+expectation that an inert substance will relieve a particular symptom | causes | beneficial (placebo) effects
+expectation that an inert substance will cause a particular symptom | causes | adverse (nocebo) effects
+
+#####
+
+Prompt:
+ Quantifying the magnitude of placebo and nocebo effects in clinical trials is problematic because it requires a 'no treatment' arm. 
+
+Completion:
+
+
+#####
+
+Prompt:
+To overcome the difficulties associated with measuring the nocebo effect, and the fact that its definition refers to inert compounds, rather than drugs, we introduce the concept of 'drucebo' (a combination of DRUg and plaCEBO or noCEBO) to relate to beneficial or adverse effects of a drug, which result from expectation and are not pharmacologically caused by the drug. 
+
+Completion:
+expectation | causes | beneficial effects of a drug
+expectation | causes | adverse effects of a drug
+
+#####
+
+Prompt:
+ To overcome the difficulties associated with measuring the nocebo effect, and the fact that its definition refers to inert compounds, rather than drugs, we introduce the concept of 'drucebo' (a combination of DRUg and plaCEBO or noCEBO) to relate to beneficial or adverse effects of a drug, which result from expectation and are not pharmacologically caused by the drug. 
+
+Completion:
+expectation | causes | beneficial effects of a drug
+expectation | causes | adverse effects of a drug
+
+#####
+
+Prompt:
+ Damage to critical brain regions causes deficits in important neurological functions. 
+
+Completion:
+critical brain region damage | causes | neurological function deficits
+
+#####
+
+Prompt:
+Chondroitinase ABC (ChABC) has been shown to promote neuroplasticity and may ameliorate neurological deficits caused by disease or trauma. 
+
+Completion:
+disease | causes | neurological deficits
+trauma | causes | neurological deficits
+
+#####
+
+Prompt:
+ Tuberculosis (TB) is the leading cause of death worldwide caused by a single infectious disease agent. 
+
+Completion:
+Tuberculosis (TB) | causes | death
+
+#####
+
+Prompt:
+ Leishmaniasis is one of the most neglected tropical diseases caused by protozoan parasites belonging to the genus Leishmania. 
+
+Completion:
+parasites belonging to the genus Leishmania | causes | Leishmaniasis
+
+#####
+
+Prompt:
+There is much evidence regarding prevalence of Leishmania RNAvirus (LRV) causing Old World leishmaniasis (OWL) and New World leishmaniasis (NWL); however, a combined evidence-based knowledge on this topic is not still available. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ The high prevalence of LRV among causative agents of NWLisolated from the metastatic clinical forms suggests potential association of LRV with metastatic clinical forms in New World endemic regions. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Elective surgery cancellation is considered a fundamental problem in health care services-it causes considerable disruption to patient flow, further eroding often already stretched operating capacity, and consequentially reduces both hospital performance and patient satisfaction. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Neurocritical diseases and conditions are common causes of long-term disability and mortality. 
+
+Completion:
+neurocritical diseases | causes | long-term disability
+neurocritical conditions | causes | long-term disability
+neurocritical diseases | causes | mortality
+neurocritical conditions | causes | mortality
+
+#####
+
+Prompt:
+ The protozoan Cryptosporidium is a leading cause of diarrhoea morbidity and mortality in children younger than 5 years. 
+
+Completion:
+Cryptosporidium | causes | diarrhoea morbidity
+Cryptosporidium | causes | diarrhoea mortality
+
+#####
+
+Prompt:
+However, the true global burden of Cryptosporidium infection in children younger than 5 years might have been underestimated in previous quantifications because it only took account of the acute effects of diarrhoea. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Nonsteroidal anti-inflammatory drugs (NSAIDs) provide effective analgesia during the post-operative period but can cause acute kidney injury (AKI) when used peri-operatively (at or around the time of surgery). 
+
+Completion:
+nonsteroidal anti-inflammatory drugs (NSAIDs) | causes | acute kidney injury (AKI)
+
+#####
+
+Prompt:
+ Thrombotic thrombocytopenic purpura (TTP) is a disease characterized by the presence of microangiopathic hemolytic anemia (MAHA) and thrombocytopenia, caused by the congenital or acquired decrease of the enzyme activity which degrades unusual large vWF multimers. 
+
+Completion:
+congenital decrease of enzyme activity | causes | thrombotic thrombocytopenic purpura (TTP)
+acquired decrease of enzyme activity | causes | thrombotic thrombocytopenic purpura (TTP)
+
+#####
+
+Prompt:
+There is no identifiable cause in half of the acquired TTP cases. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Rhabdomyolysis is a rare, potentially life-threatening condition, caused by multiple disorders. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ In this review, burn injuries caused by application of raw garlic are reported. 
+
+Completion:
+raw garlic | causes | burn injuries
+
+#####
+
+Prompt:
+ In most of the cases, garlic caused second-degree burns, although some circumstances can cause formation of necrotic tissue. 
+
+Completion:
+garlic | causes | second-degree burns
+
+#####
+
+Prompt:
+ Surgical patients may experience inadvertent perioperative hypothermia, a condition that can cause a variety of complications, including surgical site infection (SSI). 
+
+Completion:
+perioperative hypothermia | causes | complications
+perioperative hypothermia | causes | surgical site infection (SSI)
+
+#####
+
+Prompt:
+ Moyamoya disease (MMD) and moyamoya syndrome (MMS) are a rare cause of stroke commonly managed surgically. 
+
+Completion:
+moyamoya disease (MMD) | causes | stroke
+moyamoya syndrome (MMS) | causes | stroke
+
+#####
+
+Prompt:
+ However, there are some deficiencies in the past research, because the vast majority of known infertile patients were included in the study samples. 
+
+Completion:
+
+
+#####
+
+Prompt:
+Taking infertile men as the research object to analyse the impact of obesity on semen quality, which cannot accurately prove that the impact on semen quality is caused by obesity, because the impact on semen quality may also be caused by other factors. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ Meibomian gland dysfunction is one of the most common ocular disorders encountered by ophthalmologists and is the leading cause of evaporative dry eye. 
+
+Completion:
+meibomian gland dysfunction | causes | evaporative dry eye
+
+#####
+
+Prompt:
+The disease causes significant morbidity in the population such that patients seek treatment. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ For several decades, most physicians have believed that acute coronary syndrome (ACS) is caused by coronary thrombosis resulting from rupture of vulnerable plaque characterized by a thin fibrous cap overlying a large necrotic core and massive inflammatory cell infiltration. 
+
+Completion:
+
+
+#####
+
+Prompt:
+However, nearly one-third of ACS cases are caused by plaque erosion characterized by intact fibrous cap, less or absent necrotic core, less inflammation, and large lumen. 
+
+Completion:
+plaque erosion | causes | ACS
+
+#####
+
+Prompt:
+Because of the limitations of current imaging modalities, including angiography and intravascular ultrasound, the importance of plaque erosion as a cause of acute coronary events is less well known. 
+
+Completion:
+
+
+#####
+
+Prompt:
+ More importantly, the introduction of OCT to clinical practice enables us to differentiate the patients with ACS caused by plaque erosion from those caused by plaque rupture, thereby providing precise and personalized therapy based on the different underlying mechanisms. 
+
+Completion:
+plaque erosion | causes | ACS
+plaque rupture | causes | ACS
+
+#####
+
+Prompt:
+ Whipple's disease (WD) is known as an infrequent, systemic, chronic infection caused by the actinomycete Tropherima whipplei (T. 
+
+Completion:
+Tropherima whipplei | causes | Whipple's disease (WD)
+
+#####
+
