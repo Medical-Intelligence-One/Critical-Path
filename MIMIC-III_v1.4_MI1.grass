@@ -1,0 +1,115 @@
+﻿node {
+  diameter: 80px;
+  color: #A5ABB6;
+  border-color: #FFFFFF;
+  border-width: 2px;
+  text-color-internal: #000000;
+  font-size: 10px;
+}
+relationship {
+  color: #A5ABB6;
+  shaft-width: 1px;
+  font-size: 8px;
+  padding: 3px;
+  text-color-external: #000000;
+  text-color-internal: #FFFFFF;
+  caption: "<type>";
+}
+node.* {
+  color: #C990C0;
+  border-color: #FFFFFF;
+  defaultCaption: "<id>";
+}
+node.Noteevents {
+  color: #ff8700;
+  defaultCaption: "<id>";
+  caption: "{description}";
+}
+node.Problem {
+  color: #219ebc;
+  caption: "{description}";
+}
+node.Patients {
+  caption: "Patient {subject_id}";
+  color: #deff0a;
+}
+node.Admissions {
+  caption: "Hospital Admission";
+  color: #580aff;
+  text-color-internal: #FFFFFF;
+}
+node.Labevents {
+  caption: "{valuenum}{valueuom}";
+  color: #a1ff0a;
+}
+node.D_Labitems {
+  caption: "{label} in {fluid}";
+}
+node.Callout {
+  caption: "{OUTCOMETIME}";
+}
+node.Chartevents {
+  caption: "{valuenum} {valueuom}";
+}
+node.Diagnoses_Icd {
+  caption: "{ICD9_CODE}";
+}
+node.D_Icd_Diagnoses {
+  caption: "{SHORT_TITLE}";
+}
+node.Prescriptions {
+  caption: "{drug}";
+  color: #0aff99;
+}
+node.Drgcodes {
+  caption: "{DESCRIPTION}";
+}
+node.Caregivers {
+  caption: "Caregiver {label} {cgid}";
+  color: #147df5;
+}
+node.Procedureevents_Mv {
+  caption: "{ORDERCATEGORYNAME}";
+}
+node.Noteevents_Annotation {
+  caption: "Common Disease Adjudication";
+}
+node.Transfers {
+  caption: "Transferred {outtime}";
+}
+node.Icustays {
+  caption: "ICU stay";
+}
+node.Services {
+  caption: "{TRANSFERTIME}";
+}
+node.Procedures_Icd {
+  caption: "{name}";
+}
+node.D_Items {
+  caption: "{label}";
+}
+node.D_Cpt {
+  caption: "{name}";
+}
+node.Cptevents {
+  caption: "{name}";
+}
+node.Outputevents {
+  caption: "{name}";
+}
+node.Datetimeevents {
+  caption: "{name}";
+}
+node.Microbiologyevents {
+  caption: "{name}";
+}
+node.D_Icd_Procedures {
+  caption: "{name}";
+}
+node.Inputevents_Cv {
+  caption: "{name}";
+}
+node.Inputevents_Mv {
+  caption: "{name}";
+}

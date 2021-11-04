@@ -1,0 +1,348 @@
+,RELA,Description,thing,attribute
+487,has_phenotype,Has phenotype,,phenotype
+388,has_excluded_approach,Has excluded approach,,excluded_approach
+389,has_excluded_associated_finding,Has excluded associated finding,,excluded_associated_finding
+390,has_excluded_associated_procedure,Has excluded associated procedure,,excluded_associated_procedure
+391,has_excluded_component,Has excluded component,,excluded_component
+392,has_excluded_locale,Has excluded locale,,excluded_locale
+393,has_excluded_method,Has excluded method,,excluded_method
+387,has_exam,Has exam,,exam
+394,has_excluded_pathology,Has excluded pathology,,excluded_pathology
+396,has_excluded_procedure_device,Has excluded procedure device,,excluded_procedure_device
+397,has_excluded_procedure_site,Has excluded procedure site,,excluded_procedure_site
+398,has_excluded_route_of_administration,Has excluded route of administration,,excluded_route_of_administration
+399,has_excluded_specimen,Has excluded specimen,,excluded_specimen
+400,has_excluded_surgical_extent,Has excluded surgical extent,,excluded_surgical_extent
+401,has_expanded_form,Has expanded form,,expanded_form
+395,has_excluded_patient_type,Has excluded patient type,,excluded_patient_type
+402,has_expected_outcome,Has expected outcome,,expected_outcome
+386,has_evaluation,Has evaluation,,evaluation
+384,has_entry_version,Has entry version,,entry_version
+370,has_direct_morphology,Has direct morphology,,direct_morphology
+371,has_direct_procedure_site,Has direct procedure site,,direct_procedure_site
+372,has_direct_site,Has direct site,,direct_site
+373,has_direct_substance,Has direct substance,,direct_substance
+374,has_disposition,Has disposition,,disposition
+375,has_divisor,Has divisor,,divisor
+385,has_episodicity,Has episodicity,,episodicity
+376,has_dose_form_administration_method,Has dose form administration method,,dose_form_administration_method
+378,has_dose_form_release_characteristic,Has dose form release characteristic,,dose_form_release_characteristic
+379,has_dose_form_transformation,Has dose form transformation,,dose_form_transformation
+380,has_dose_form,Has dose form,,dose_form
+381,has_doseformgroup,Has dose form group,,doseformgroup
+382,has_entire_anatomy_structure,Has entire anatomy structure,,entire_anatomy_structure
+383,has_entry_combination,Has Entry Combination,,entry_combination
+377,has_dose_form_intended_site,Has dose form intended site,,dose_form_intended_site
+369,has_direct_device,Has direct device,,direct_device
+403,has_extent,Has extent,,extent
+405,has_finding_context,Has finding context,,finding_context
+424,has_indirect_morphology,Has indirect morphology,,indirect_morphology
+425,has_indirect_procedure_site,Has indirect procedure site,,indirect_procedure_site
+426,has_ingredient_characteristic,Has ingredient characteristic,,ingredient_characteristic
+427,has_ingredients,Has ingredients,,ingredients
+428,has_ingredient,Has ingredient,,ingredient
+429,has_inherent_3d_shape,Has inherent 3-D shape,,inherent_3d_shape
+423,has_indirect_device,Has indirect device,,indirect_device
+430,has_inherent_attribute,Has inherent attribute,,inherent_attribute
+432,has_inheritance_type,Has inheritance type,,inheritance_type
+433,has_insertion,has insertion,,insertion
+434,has_instrumentation,Has instrumentation,,instrumentation
+435,has_intent,Has intent,,intent
+436,has_interpretation,Has interpretation,,interpretation
+437,has_lab_number,Has lab number,,lab_number
+431,has_inherent_location,Has inherent location,,inherent_location
+404,has_filling,Has filling,,filling
+422,has_inc_parent,has inc parent,,inc_parent
+420,has_imaging_focus,Has imaging focus,,imaging_focus
+406,has_finding_informer,Has finding informer,,finding_informer
+407,has_finding_method,Has finding method,,finding_method
+408,has_finding_site,Has finding_site,,finding_site
+409,has_focus,Has focus,,focus
+410,has_form,Has form,,form
+411,has_fragments_for_synonyms,Has fragments for synonyms,,fragments_for_synonyms
+421,has_inactive_ingredient,Has Inactive Ingredient,,inactive_ingredient
+412,has_free_acid_or_base_form,has free acid or base form,,free_acid_or_base_form
+414,has_fusion,has fusion,,fusion
+415,has_gene_product_element,has gene product element,,gene_product_element
+416,has_germ_origin,Has germ origin,,germ_origin
+417,has_given_pharmaceutical_substance,Has given pharmaceutical substance,,given_pharmaceutical_substance
+418,has_grade,has grade,,grade
+419,has_imaged_location,Has imaged location,,imaged_location
+413,has_full_grown_phenotype,has full grown phenotype,,full_grown_phenotype
+438,has_lateral_anatomic_location,Has lateral anatomic location,,lateral_anatomic_location
+368,has_direct_cell_shape,has direct cell shape,,direct_cell_shape
+366,has_device_intended_site,Has device intended site,,device_intended_site
+316,has_associated_etiologic_finding,Has associated etiologic finding,,associated_etiologic_finding
+317,has_associated_finding,Has associated finding,,associated_finding
+318,has_associated_function,Has associated function,,associated_function
+319,has_associated_morphology,Has associated morphology,,associated_morphology
+320,has_associated_observation,Has associated observation,,associated_observation
+321,has_associated_procedure,Has associated procedure,,associated_procedure
+315,has_associated_condition,has_associated_condition,,associated_condition
+322,has_at_risk_population,Has at risk population,,at_risk_population
+324,has_basis_of_strength_substance,Has basis of strength substance,,basis_of_strength_substance
+325,has_branch,Has branch,,branch
+326,has_british_form,Has British form,,british_form
+327,has_causative_agent,Has causative agent,,causative_agent
+328,has_challenge,Has challenge,,challenge
+329,has_class,Has class,,class
+323,has_basic_dose_form,Has basic dose form,,basic_dose_form
+330,has_clinical_course,Has clinical course,,clinical_course
+314,has_arterial_supply,Has arterial supply,,arterial_supply
+312,has_approach,Has approach,,approach
+298,has_action_guidance,Has action guidance,,action_guidance
+299,has_active_ingredient,Has active ingredient,,active_ingredient
+300,has_active_metabolites,Has active metabolites,,active_metabolites
+301,has_active_moiety,Has Active Moiety,,active_moiety
+302,has_actual_outcome,Has actual outcome,,actual_outcome
+303,has_add_on_code,Has add on code (Report with),,add_on_code
+313,has_archetype,Has archetype,,archetype
+304,has_adherent,Has adherent,,adherent
+306,has_aggregation_view,Has aggregation view,,aggregation_view
+307,has_alias,Has alias,,alias
+308,has_allelic_variant,Has allelic variant,,allelic_variant
+309,has_alternative,Has alternative,,alternative
+310,has_answer,has answer,,answer
+311,has_approach_guidance,Has approach guidance,,approach_guidance
+305,has_adjustment,Has adjustment,,adjustment
+367,has_diagnostic_criteria,ICD has DSM-5 diagnostic criteria,,diagnostic_criteria
+331,has_clinician_form,Has clinician form,,clinician_form
+333,has_communication_with_wound,Has communication with wound,,communication_with_wound
+352,has_count,Has count,,count
+353,has_course,Has course,,course
+354,has_ctcae_5_parent,has ctcae_5 parent,,ctcae_5_parent
+355,has_ctdc_value,has ctdc value,,ctdc_value
+356,has_data_element,has data element,,data_element
+357,has_default_inpatient_classification,Has default inpatient classification,,default_inpatient_classification
+351,has_count_of_base_of_active_ingredient,Has count of base of active ingredient,,count_of_base_of_active_ingredient
+358,has_default_outpatient_classification,Has default outpatient classification,,default_outpatient_classification
+360,has_definitional_manifestation,Has definitional manifestation,,definitional_manifestation
+361,has_degree,Has degree,,degree
+362,has_dependent,Has dependent,,dependent
+363,has_development_type,has development type,,development_type
+364,has_developmental_stage,has developmental stage,,developmental_stage
+365,has_device_characteristic,Has device characteristic,,device_characteristic
+359,has_defining_characteristic,Has defining characteristic,,defining_characteristic
+332,has_common_name,Has common name,,common_name
+350,has_count_of_active_ingredient,Has count of active ingredient,,count_of_active_ingredient
+348,has_contraindicated_mechanism_of_action,Has contraindicated mechanism of action,,contraindicated_mechanism_of_action
+334,has_component,Has component,,component
+335,has_compositional_material,Has compositional material,,compositional_material
+336,has_concentration_strength_denominator_unit,Has concentration strength denominator unit,,concentration_strength_denominator_unit
+337,has_concentration_strength_denominator_value,Has concentration strength denominator value,,concentration_strength_denominator_value
+338,has_concentration_strength_numerator_unit,Has concentration strength numerator unit,,concentration_strength_numerator_unit
+339,has_concentration_strength_numerator_value,Has concentration strength numerator value,,concentration_strength_numerator_value
+349,has_contraindicated_physiologic_effect,Has contraindicated physiologic effect,,contraindicated_physiologic_effect
+340,has_conceptual_part,Has conceptual part,,conceptual_part
+342,has_constitutional_part,Has constitutional part,,constitutional_part
+343,has_consumer_friendly_form,Has consumer friendly form,,consumer_friendly_form
+344,has_context_binding,Has context binding,,context_binding
+345,has_continuation_branch,Has continuation branch,,continuation_branch
+346,has_contraindicated_class,Has contraindicated class,,contraindicated_class
+347,has_contraindicated_drug,Has contraindicated drug,,contraindicated_drug
+341,has_connection_type,has connection type,,connection_type
+439,has_lateral_location_presence,Has lateral location presence,,lateral_location_presence
+440,has_laterality,Has laterality,,laterality
+441,has_life_circumstance,Has life circumstance,,life_circumstance
+534,has_revision_status,Has revision status,,revision_status
+535,has_risk_factor,Has risk factor,,risk_factor
+536,has_route_of_administration,Has route of administration,,route_of_administration
+537,has_salt_form,has salt form,,salt_form
+538,has_scale_type,Has scale type,,scale_type
+539,has_scale,Has scale,,scale
+533,has_result,Has result,,result
+540,has_secondary_segmental_supply,Has secondary segmental supply,,secondary_segmental_supply
+542,has_segmental_supply,Has segmental supply,,segmental_supply
+543,has_severity,Has severity,,severity
+544,has_sign_or_symptom,Has sign or symptom,,sign_or_symptom
+545,has_single_level_category,Has single level category,,single_level_category
+546,has_sort_version,Has sort version,,sort_version
+547,has_specialty,Has specialty,,specialty
+541,has_segmental_composition,Has segmental composition,,segmental_composition
+548,has_specimen_procedure,Has specimen procedure,,specimen_procedure
+532,has_related_factor,Has related factor,,related_factor
+530,has_regional_part,Has regional part,,regional_part
+516,has_procedure_context,Has procedure context,,procedure_context
+517,has_procedure_device,Has procedure device,,procedure_device
+518,has_procedure_morphology,Has procedure morphology,,procedure_morphology
+519,has_procedure_site,Has procedure site,,procedure_site
+520,has_process_duration,Has process duration,,process_duration
+521,has_process_output,Has process output,,process_output
+531,has_related_developmental_entity,has related developmental entity,,related_developmental_entity
+522,has_product_characteristic,Has product characteristic,,product_characteristic
+524,has_projection,has projection,,projection
+525,has_property_type,Has property type,,property_type
+526,has_property,Has property,,property
+527,has_quantified_form,Has quantified form,,quantified_form
+528,has_realization,Has realization,,realization
+529,has_recipient_category,Has recipient category,,recipient_category
+523,has_product_monograph_title,has product monograph title,,product_monograph_title
+515,has_priority,Has priority,,priority
+549,has_specimen_source_identity,Has specimen source identity,,specimen_source_identity
+551,has_specimen_source_topography,Has specimen source topography,,specimen_source_topography
+570,has_temporal_context,Has temporal context,,temporal_context
+571,has_therapeutic_class,Has therapeutic class,,therapeutic_class
+572,has_time_aspect,Has time aspect,,time_aspect
+573,has_time_modifier,Has time modifier,,time_modifier
+574,has_timing_of,Has timing of,,timing_of
+575,has_tradename,Has tradename,,tradename
+569,has_technique,Has technique,,technique
+576,has_translation,Has translation,,translation
+578,has_tributary,Has tributary,,tributary
+579,has_unit_of_presentation,Has unit of presentation,,unit_of_presentation
+580,has_units,Has units,,units
+581,has_venous_drainage,Has venous drainage,,venous_drainage
+582,has_version,Has version,,version
+583,has_view_type,Has view type,,view_type
+577,has_transliterated_form,Has transliterated form,,transliterated_form
+550,has_specimen_source_morphology,Has specimen source morphology,,specimen_source_morphology
+568,has_target,has target,,target
+566,has_surgical_extent,Has surgical extent,,surgical_extent
+552,has_specimen_substance,Has specimen substance,,specimen_substance
+553,has_specimen,Has specimen,,specimen
+554,has_stage,Has stage,,stage
+555,has_state_of_matter,Has state of matter,,state_of_matter
+556,has_structural_class,Has structural class,,structural_class
+557,has_subject_of_information,Has subject of information,,subject_of_information
+567,has_system,Has system,,system
+558,has_subject_relationship_context,Has subject relationship context,,subject_relationship_context
+560,has_suffix,Has suffix,,suffix
+561,has_supersystem,Has supersystem,,supersystem
+562,has_supported_concept_property,Has supported concept property,,supported_concept_property
+563,has_supported_concept_relationship,Has supported concept relationship,,supported_concept_relationship
+564,has_surface_characteristic,Has surface characteristic,,surface_characteristic
+565,has_surgical_approach,has surgical approach,,surgical_approach
+559,has_subject,Has subject,,subject
+514,has_print_name,Has print name,,print_name
+513,has_primary_segmental_supply,Has primary segmental supply,,primary_segmental_supply
+512,has_prev_symbol,Has previous symbol,,prev_symbol
+460,has_observed_anatomical_entity,has observed anatomical entity,,observed_anatomical_entity
+461,has_occurrence,Has occurrence,,occurrence
+462,has_onset,Has onset,,onset
+463,has_origin,Has origin,,origin
+464,has_owning_affiliate,Has owning affiliate,,owning_affiliate
+465,has_owning_section,Has owning section,,owning_section
+459,has_object_guidance,Has object guidance,,object_guidance
+466,has_owning_subsection,Has owning subsection,,owning_subsection
+468,has_parent_group,Has parent group,,parent_group
+469,has_parent,Has parent,,parent
+470,has_part_anatomy_structure,Has part anatomy structure,,part_anatomy_structure
+471,has_part,Has part,,part
+472,has_pathological_process,Has pathological process,,pathological_process
+473,has_pathology,Has pathology,,pathology
+467,has_panel_element,CPT laboratory panel code has laboratory panel test member,,panel_element
+474,has_patient_type,Has patient type,,patient_type
+458,has_nerve_supply,Has nerve supply,,nerve_supply
+456,has_multi_level_category,Has multi-level category,,multi_level_category
+442,has_locale,Has locale,,locale
+443,has_location,Has location,,location
+444,has_loinc_number,Has Loinc number,,loinc_number
+445,has_lymphatic_drainage,Has lymphatic drainage,,lymphatic_drainage
+446,has_manifestation,Has manifestation,,manifestation
+447,has_mapping_qualifier,Has mapping qualifier,,mapping_qualifier
+457,has_multipart,Has multipart,,multipart
+448,has_measured_component,has_measured_component,,measured_component
+450,has_mechanism_of_action,Has mechanism of action,,mechanism_of_action
+451,has_member,Has member,,member
+452,has_method,Has method,,method
+453,has_modality_subtype,Has modality subtype,,modality_subtype
+454,has_modality_type,has modality type,,modality_type
+455,has_modification,Has modification,,modification
+449,has_measurement_method,Has measurement method,,measurement_method
+475,has_pcdc_aml_permissable_value,has pcdc aml permissable value,,pcdc_aml_permissable_value
+476,has_pcdc_aml_permissible_value,has pcdc aml permissible value,,pcdc_aml_permissible_value
+477,has_pcdc_data_type,has pcdc data type,,pcdc_data_type
+498,has_possibly_included_patient_type,Has possibly included patient type,,possibly_included_patient_type
+499,has_possibly_included_procedure_device,Has possibly included procedure device,,possibly_included_procedure_device
+500,has_possibly_included_procedure_site,Has possibly included procedure site,,possibly_included_procedure_site
+501,has_possibly_included_route_of_administration,Has possibly included route of administration,,possibly_included_route_of_administration
+502,has_possibly_included_surgical_extent,Has possibly included surgical extent,,possibly_included_surgical_extent
+503,has_precise_active_ingredient,Has precise active ingredient,,precise_active_ingredient
+497,has_possibly_included_pathology,Has possibly included pathology,,possibly_included_pathology
+504,has_precise_ingredient,Has precise ingredient,,precise_ingredient
+506,has_presence_guidance,Has presence guidance,,presence_guidance
+507,has_presentation_strength_denominator_unit,Has presentation strength denominator unit,,presentation_strength_denominator_unit
+508,has_presentation_strength_denominator_value,Has presentation strength denominator value,,presentation_strength_denominator_value
+509,has_presentation_strength_numerator_unit,Has presentation strength numerator unit,,presentation_strength_numerator_unit
+510,has_presentation_strength_numerator_value,Has presentation strength numerator value,,presentation_strength_numerator_value
+511,has_prev_name,Has previous name,,prev_name
+505,has_precondition,Has precondition,,precondition
+496,has_possibly_included_panel_element,CPT laboratory panel code has possibly included laboratory panel test member,,possibly_included_panel_element
+495,has_possibly_included_method,Has possibly included method,,possibly_included_method
+494,has_possibly_included_component,Has possibly included component,,possibly_included_component
+478,has_permuted_term,Has permuted term,,permuted_term
+479,has_pharmaceutical_administration_method,has pharmaceutical administration method,,pharmaceutical_administration_method
+480,has_pharmaceutical_basic_dose_form,has pharmaceutical basic dose form,,pharmaceutical_basic_dose_form
+481,has_pharmaceutical_intended_site,has pharmaceutical intended site,,pharmaceutical_intended_site
+482,has_pharmaceutical_release_characteristics,has pharmaceutical release characteristics,,pharmaceutical_release_characteristics
+483,has_pharmaceutical_route,Has_pharmaceutical_route,,pharmaceutical_route
+484,has_pharmaceutical_state_of_matter,has pharmaceutical state of matter,,pharmaceutical_state_of_matter
+485,has_pharmaceutical_transformation,has pharmaceutical transformation,,pharmaceutical_transformation
+486,has_pharmacokinetics,Has pharmacokinetics,,pharmacokinetics
+488,has_physical_part_of_anatomic_structure,has physical part of anatomic structure,,physical_part_of_anatomic_structure
+489,has_physiologic_effect,Has physiologic effect,,physiologic_effect
+490,has_physiologic_state,Has physiologic state,,physiologic_state
+491,has_possibly_included_approach,Has possibly included approach,,possibly_included_approach
+492,has_possibly_included_associated_finding,Has possibly included associated finding,,possibly_included_associated_finding
+493,has_possibly_included_associated_procedure,Has possibly included associated procedure,,possibly_included_associated_procedure
+297,has_access,Has access,,access
+296,has_access_instrument,Has access instrument,,access_instrument
+18,allele_has_abnormality,allele has abnormality,allele_,abnormality
+19,allele_has_activity,allele has activity,allele_,activity
+27,anatomic_structure_has_location,anatomic structure has location,anatomic_structure_,location
+66,biological_process_has_result_chemical_or_drug,biological process has result chemical or drug,biological_process_,result_chemical_or_drug
+65,biological_process_has_result_biological_process,biological process has result biological process,biological_process_,result_biological_process
+63,biological_process_has_initiator_process,biological process has initiator process,biological_process_,initiator_process
+62,biological_process_has_initiator_chemical_or_drug,biological process has initiator chemical or drug,biological_process_,initiator_chemical_or_drug
+61,biological_process_has_associated_location,biological process has associated location,biological_process_,associated_location
+64,biological_process_has_result_anatomy,biological process has result anatomy,biological_process_,result_anatomy
+87,chemical_or_drug_has_mechanism_of_action,chemical or drug has mechanism of action,chemical_or_drug_,mechanism_of_action
+88,chemical_or_drug_has_physiologic_effect,chemical or drug has physiologic effect,chemical_or_drug_,physiologic_effect
+94,chemotherapy_regimen_has_component,chemotherapy regimen has component,chemotherapy_regimen_,component
+110,completely_excised_anatomy_has_procedure,completely excised anatomy has procedure,completely_excised_anatomy_,procedure
+112,complex_has_physical_part,complex has physical part,complex_,physical_part
+198,disease_has_primary_anatomic_site,disease has primary anatomic site,disease_,primary_anatomic_site
+197,disease_has_normal_tissue_origin,disease has normal tissue origin,disease_,normal_tissue_origin
+196,disease_has_normal_cell_origin,disease has normal cell origin,disease_,normal_cell_origin
+195,disease_has_molecular_abnormality,disease has molecular abnormality,disease_,molecular_abnormality
+194,disease_has_metastatic_anatomic_site,disease has metastatic anatomic site,disease_,metastatic_anatomic_site
+193,disease_has_finding,disease has finding,disease_,finding
+190,disease_has_associated_disease,disease has associated disease,disease_,associated_disease
+189,disease_has_associated_anatomic_site,disease has associated anatomic site,disease_,associated_anatomic_site
+192,disease_has_cytogenetic_abnormality,disease has cytogenetic abnormality,disease_,cytogenetic_abnormality
+187,disease_has_abnormal_cell,disease has abnormal cell,disease_,abnormal_cell
+188,disease_has_accepted_treatment_with_regimen,Disease Has Accepted Treatment With Regimen,disease_,accepted_treatment_with_regimen
+191,disease_has_associated_gene,disease has associated gene,disease_,associated_gene
+235,eo_disease_has_property_or_attribute,eo disease has property or attribute,eo_disease_,property_or_attribute
+233,eo_disease_has_associated_cell_type,eo disease has associated cell type,eo_disease_,associated_cell_type
+234,eo_disease_has_associated_eo_anatomy,eo disease has associated eo anatomy,eo_disease_,associated_eo_anatomy
+239,excised_anatomy_has_procedure,excised anatomy has procedure,excised_anatomy_,procedure
+264,gene_has_physical_location,gene has physical location,gene_,physical_location
+263,gene_has_abnormality,gene has abnormality,gene_,abnormality
+283,gene_product_has_structural_domain_or_motif,gene product has structural domain or motif,gene_product_,structural_domain_or_motif
+282,gene_product_has_organism_source,gene product has organism source,gene_product_,organism_source
+281,gene_product_has_gene_product_variant,gene product has gene product variant,gene_product_,gene_product_variant
+279,gene_product_has_biochemical_function,gene product has biochemical function,gene_product_,biochemical_function
+280,gene_product_has_chemical_classification,gene product has chemical classification,gene_product_,chemical_classification
+278,gene_product_has_associated_anatomy,gene product has associated anatomy,gene_product_,associated_anatomy
+277,gene_product_has_abnormality,gene product has abnormality,gene_product_,abnormality
+589,imaged_anatomy_has_procedure,imaged anatomy has procedure,imaged_anatomy_,procedure
+741,mth_has_expanded_form,MTH has expanded form,mth_,expanded_form
+743,mth_has_xml_form,"Has XML form, Metathesaurus-asserted",mth_,xml_form
+740,mth_has_british_form,MTH has British form,mth_,british_form
+742,mth_has_plain_text_form,"Has plain text form, Metathesaurus-asserted",mth_,plain_text_form
+751,neoplasm_has_special_category,neoplasm has special category,neoplasm_,special_category
+758,organism_has_gene,organism has gene,organism_,gene
+772,partially_excised_anatomy_has_procedure,partially excised anatomy has procedure,partially_excised_anatomy_,procedure
+779,pathway_has_gene_element,pathway has gene element,pathway_,gene_element
+830,procedure_has_target_anatomy,procedure has target anatomy,procedure_,target_anatomy
+829,procedure_has_partially_excised_anatomy,procedure has partially excised anatomy,procedure_,partially_excised_anatomy
+828,procedure_has_imaged_anatomy,procedure has imaged anatomy,procedure_,imaged_anatomy
+826,procedure_has_completely_excised_anatomy,procedure has completely excised anatomy,procedure_,completely_excised_anatomy
+827,procedure_has_excised_anatomy,procedure has excised anatomy,procedure_,excised_anatomy
+863,regimen_has_accepted_use_for_disease,Regimen Has Accepted Use For Disease,regimen_,accepted_use_for_disease
+882,role_has_domain,role has domain,role_,domain
+883,role_has_parent,role has parent,role_,parent
+884,role_has_range,role has range,role_,range
+939,target_anatomy_has_procedure,target anatomy has procedure,target_anatomy_,procedure
+975,wound_has_communication_with,Wound has communication with,wound_,communication_with
