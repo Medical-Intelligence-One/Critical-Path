@@ -21,26 +21,26 @@ node.* {
   defaultCaption: "<id>";
 }
 node.Noteevents {
-  color: #ff8700;
+  color: #be0aff;
   defaultCaption: "<id>";
   caption: "{description}";
 }
 node.Problem {
-  color: #219ebc;
+  color: #ffd300;
   caption: "{description}";
 }
 node.Patients {
   caption: "Patient {subject_id}";
-  color: #deff0a;
-}
-node.Admissions {
-  caption: "Hospital Admission";
   color: #580aff;
   text-color-internal: #FFFFFF;
 }
+node.Admissions {
+  caption: "Hospital Admission";
+  color: #0aff99;
+}
 node.Labevents {
   caption: "{valuenum}{valueuom}";
-  color: #a1ff0a;
+  color: #ff8700;
 }
 node.D_Labitems {
   caption: "{label} in {fluid}";
@@ -55,18 +55,18 @@ node.Diagnoses_Icd {
   caption: "{ICD9_CODE}";
 }
 node.D_Icd_Diagnoses {
-  caption: "{SHORT_TITLE}";
+  caption: "{short_title}";
 }
 node.Prescriptions {
   caption: "{drug}";
-  color: #0aff99;
+  color: #ff0000;
 }
 node.Drgcodes {
   caption: "{DESCRIPTION}";
 }
 node.Caregivers {
   caption: "Caregiver {label} {cgid}";
-  color: #147df5;
+  color: #0aefff;
 }
 node.Procedureevents_Mv {
   caption: "{ORDERCATEGORYNAME}";
@@ -112,4 +112,8 @@ node.Inputevents_Cv {
 }
 node.Inputevents_Mv {
   caption: "{name}";
+}
+node.Concept {
+  caption: "{term}";
+  color: #a1ff0a;
 }
