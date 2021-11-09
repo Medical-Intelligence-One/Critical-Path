@@ -1,4 +1,7 @@
 # MI-1 Product Critical Path
+![Scottish Highlands](https://bikepacking.com/wp-content/uploads/2016/07/highland-trail-550-00.jpg)
+
+Mission: Develop a flexible framweork for applying AI in healthcare and a set of use cases that prove value as defined by key stakeholders. 
 
 Signs to help you get around:  
 
@@ -12,7 +15,7 @@ Signs to help you get around:
 ## Knowledge graph
 ---
 - ☑️ Prove that GPT3 can extract relationships accurately [🔗](https://github.com/Medical-Intelligence-One/knowledge-graph/blob/main/GPT_fine-tuning.ipynb#performance_assessment)
-- 🟢 Engineer a knowledge model to enable a simple, flexible reasoning framework to operate on it to fulfill use cases (🔁Iterate with reasoning framework and use cases)
+- 🟢 Engineer a knowledge model on which a simple, flexible reasoning framework can operate to fulfill use cases (🔁Iterate with reasoning framework and use cases)
 - 🟢 Fine-tune GPT3 to extract knowledge according to the knowledge model
 - 🟢 Peform extraction from key sources:
     - 🟢 PubMed
@@ -51,7 +54,6 @@ Signs to help you get around:
     |🟢| Find associations between outcome concepts and possible treatments, ordered by strongest association first | Empiric treatments and other associations |  
     |🟢| Find shortest paths between possible treatments and the pathologic path | Rationalizations for empiric treatment |
 
-  
 ## Use Cases
 ---
 
