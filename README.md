@@ -7,10 +7,11 @@ Signs to help you get around:
 - 🚦 Dependency marker
 - 🔁 Part of iteration loop
 - ☑️ Done
+- 🔗 Link to notebook or website
 
 ## Knowledge graph
 ---
-- ☑️ Prove that GPT3 can extract relationships accurately
+- ☑️ Prove that GPT3 can extract relationships accurately [🔗](https://github.com/Medical-Intelligence-One/knowledge-graph/blob/main/GPT_fine-tuning.ipynb#performance_assessment)
 - 🟢 Engineer a knowledge model to enable a simple, flexible reasoning framework to operate on it to fulfill use cases (🔁Iterate with reasoning framework and use cases)
 - 🟢 Fine-tune GPT3 to extract knowledge according to the knowledge model
 - 🟢 Peform extraction from key sources:
