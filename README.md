@@ -14,9 +14,9 @@ Signs to help you get around:
 
 ## Knowledge graph
 ---
-- ☑️ Prove that GPT3 can extract relationships accurately [🔗](https://github.com/Medical-Intelligence-One/knowledge-graph/blob/main/GPT_fine-tuning.ipynb#performance_assessment)
+- ☑️ Develop method to use GPT3 to extract conceptual relationships from the medical literature [🔗Fine-tuning/Performance](https://github.com/Medical-Intelligence-One/knowledge-graph/blob/main/GPT_fine-tuning.ipynb#performance_assessment)
 - 🟢 Engineer a knowledge model on which a simple, flexible reasoning framework can operate to fulfill use cases (🔁Iterate with reasoning framework and use cases)
-- 🟢 Fine-tune GPT3 to extract knowledge according to the knowledge model
+- 🟢 Fine-tune GPT3 to extract knowledge according to the knowledge model [🔗Fine-tuning/Performance](https://github.com/Medical-Intelligence-One/knowledge-graph/blob/main/GPT_fine-tuning.ipynb#performance_assessment) [🔗Annotation Tool](Annotation_Tool.ipynb)
 - 🟢 Peform extraction from key sources:
     - 🟢 PubMed
     - 🟡 UpToDate (🚦Partner with UpToDate)
