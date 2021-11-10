@@ -1,7 +1,7 @@
 # MI-1 Product Critical Path
 ![Scottish Highlands](https://bikepacking.com/wp-content/uploads/2016/07/highland-trail-550-00.jpg)
 
-Mission: Develop a flexible framweork for applying AI in healthcare and a set of use cases that prove value as defined by key stakeholders. 
+Mission: Develop a flexible framework for applying AI in healthcare and a set of use cases that prove value as defined by key stakeholders. 
 
 Signs to help you get around:  
 
