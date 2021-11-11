@@ -5,6 +5,15 @@
 Develop a flexible framework for applying AI in healthcare and a set of use cases that prove value as defined by key stakeholders. 
 
 ### Current top priorities
+- Fulfill Dr. Stein's use case
+    - Develop a reasoning framework
+    - Develop a knowledge model
+    - Fine-tune GPT3 for the knowledge model
+    - Collect all relevant literature
+    - Extract relationships from relevant literature
+    - Import GPT-extracted relationships into the graph
+    - Test the system on MIMIC-III patients
+    - Demo for Dr. Stein
 
 ### Trail markers  
 
@@ -78,4 +87,4 @@ Consider using [Max De Marzi's methods to create dynamic rule-based decision tre
 ## Use Cases
 ---
 
-- 🟢 "I have a patient with AFib. Should I anticoagulate?" Contributed by Dr. Stein, Scripps CMIO-Inpatient. [🔗](Documents/P2_Prototype/UseCase_AntiCoag_AF.ipynb)
+- 🟢 "I have a patient with AFib. Should I anticoagulate?" Contributed by Dr. Stein, Scripps CMIO-Inpatient. [🔗](UseCase_AntiCoag_AF.ipynb)
