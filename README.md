@@ -15,15 +15,35 @@ Develop a flexible framework for applying AI in healthcare and a set of use case
     - Test the system on MIMIC-III patients
     - Demo for Dr. Stein
 
-### Trail markers  
+### Immediate next steps:
+- Reformat the knowledge graph to have all synonyms point to a central "preferred term" (☑️ UMLS_test, 🟢 MIMIC-III_v1.4_MI-1)
+- 🔁 Develop pathologic pathfinding methods using existing `CAUSE_OF` relationships from UMLS
+- 🔁 Develop intervention pathfinding methods using pathologic paths and `MAY_TREAT` or `MAY_PREVENT` relationships
+- ☑️ set up the annotator to display UMLS concept capture for each sentence
+- ☑️ pull all the literature relevant to atrial fibrillation, stroke, anticoagulation, and hemorrhage/bleeding ([UseCase_AntiCoag_AF.ipynb](UseCase_AntiCoag_AF.ipynb))
+- ☑️ create a csv of sentences that have causal relationships from the Afib literature
+- 🔁 create a knowledge model that anchors on UMLS terms or their existance-state opposites (e.g. "no atrial fibrillation") connected to literature-provided terms with `STATE_OF` relationships
+- import human-annotated relationships into the graph to test pathologic and treatment pathfinding
+- fine-tune GPT3 on the new knowledge model to import more literature
+- develop methods to weight relationships based on number of publications and quality of publications
 
-- 🟢 Directly on critical path 
-- 🟡 Ancillary to critical path  
-- 🚦 Dependency marker
-- 🔁 Part of iteration loop
-- ☑️ Done
-- 🔗 Link to notebook or website
+### Trail markers 
+  
+🟢 Directly on critical path   
+🟡 Ancillary to critical path    
+🚦 Dependency marker  
+🔁 Part of iteration loop  
+☑️ Done  
+🔗 Link to notebook or website  
 
+### Contents:  
+[Knowledge Graph](#kg)  
+[Connected patient-level data](#cpld)  
+[Virtualized Population](#vp)  
+[Reasoning Framework](#rf)  
+[Use Cases](#uc)  
+
+<a id='kg'></a>
 ## Knowledge graph
 ---
 ### Basic knowledge
@@ -37,6 +57,7 @@ Develop a flexible framework for applying AI in healthcare and a set of use case
     - 🟡 UpToDate (🚦Partner with UpToDate)
     - 🟡 Medical textbooks (🚦Partners with a publisher like Elsevier)
 
+<a id='cpld'></a>
 ### Clinical Practice Guidelines
 - 🟡 Consider partnering with [EvidenceCare](https://apporchard.epic.com/Gallery?id=1594), who have already started to build this integration for Epic
 - 🟡 Identify guidelines of interest to users (e.g. [Anticoagulation guidelines for patients with atrial fibrillation](https://www.jacc.org/doi/pdf/10.1016/j.jacc.2019.01.011))
@@ -60,6 +81,7 @@ Develop a flexible framework for applying AI in healthcare and a set of use case
 - 🟡 MIMIC-III procedures to UMLS concepts (e.g. EKG)
 - 🟡 MIMIC-III imaging to UMLS concepts
 
+<a id='vp'></a>
 ## Virtualized Population
 ---
 - 🟡 Develop model to accurately and precisely represent populations
@@ -70,9 +92,10 @@ Develop a flexible framework for applying AI in healthcare and a set of use case
 - 🟡 Update a global virtual population from a local version
 - 🟡 Automate updates as part of an MLOps process
   
+<a id='rf'></a>
 ## Reasoning Framework
 ---
-- 🟢 Design a set of reasoning methods that can flexibly interact with the knowledge graph and patient data to fulfill use cases (🔁 with knowledge graph and use cases)
+- 🟢 Design a set of reasoning methods that can flexibly interact with the knowledge graph and patient data to fulfill use cases [🔗](Reasoning_Framework.ipynb) (🔁 with knowledge graph and use cases)
 
     | Status | Process      | Output |
     | :---: | :---- |:---|  
@@ -84,6 +107,7 @@ Develop a flexible framework for applying AI in healthcare and a set of use case
 
 Consider using [Max De Marzi's methods to create dynamic rule-based decision trees in Neo4j.](https://maxdemarzi.com/2018/01/14/dynamic-rule-based-decision-trees-in-neo4j/#more-4189) 
 
+<a id='uc'></a>
 ## Use Cases
 ---
 
