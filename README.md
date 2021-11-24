@@ -6,16 +6,18 @@ Develop a flexible framework for applying AI in healthcare and a set of use case
 
 ### Current top priorities
 - Fulfill Dr. Stein's use case
-    - Develop a reasoning framework
-    - Develop a knowledge model
+    - 🔁 Develop a reasoning framework
+    - 🔁 Develop a knowledge model
     - Fine-tune GPT3 for the knowledge model
-    - Collect all relevant literature
+    - ☑️ Collect all relevant literature
     - Extract relationships from relevant literature
     - Import GPT-extracted relationships into the graph
     - Test the system on MIMIC-III patients
     - Demo for Dr. Stein
 
 ### Immediate next steps:
+- Add 2-3 more use cases 
+- Share Neo4j's embedding webinar with Nikesh
 - Reformat the knowledge graph to have all synonyms point to a central "preferred term" (☑️ UMLS_test, 🟢 MIMIC-III_v1.4_MI-1)
 - 🔁 Develop pathologic pathfinding methods using existing `CAUSE_OF` relationships from UMLS
 - 🔁 Develop intervention pathfinding methods using pathologic paths and `MAY_TREAT` or `MAY_PREVENT` relationships
@@ -23,9 +25,10 @@ Develop a flexible framework for applying AI in healthcare and a set of use case
 - ☑️ pull all the literature relevant to atrial fibrillation, stroke, anticoagulation, and hemorrhage/bleeding ([UseCase_AntiCoag_AF.ipynb](UseCase_AntiCoag_AF.ipynb))
 - ☑️ create a csv of sentences that have causal relationships from the Afib literature
 - 🔁 create a knowledge model that anchors on UMLS terms or their existance-state opposites (e.g. "no atrial fibrillation") connected to literature-provided terms with `STATE_OF` relationships
+- develop methods to weight relationships based on number of publications and quality of publications
 - import human-annotated relationships into the graph to test pathologic and treatment pathfinding
 - fine-tune GPT3 on the new knowledge model to import more literature
-- develop methods to weight relationships based on number of publications and quality of publications
+
 
 ### Trail markers 
   
@@ -111,4 +114,14 @@ Consider using [Max De Marzi's methods to create dynamic rule-based decision tre
 ## Use Cases
 ---
 
+- Mock-up the workflow from MIS global summit in an environment like EvidenceCare's Epic App. Due January 1.
+    - List content for our app (Due by Nov 23) TJM
+    - Define the workflow between user, website, and service (Due by Nov 23) TJM & NS workshop session
+    - Define interface between UI and service (Due by Nov 30) TJM & NS workshop session
+    - Make a webpage that looks like an Epic screen (Due by Dec 7) TJM
+    - Flask configuration (due by Nov 30) TJM (Nikesh's static IP: 122:169:102:165)
+    - Port configuration (due by Dec 7) TJM & NS
+    - Write & test the code (Due by Dec 23) TJM & NS
+    - Provide instructions, documentation, supporting information to make it (Due by Dec 23) BED
+  
 - 🟢 "I have a patient with AFib. Should I anticoagulate?" Contributed by Dr. Stein, Scripps CMIO-Inpatient. [🔗](UseCase_AntiCoag_AF.ipynb)
