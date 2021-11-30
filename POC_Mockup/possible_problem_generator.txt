@@ -49,7 +49,7 @@ def comorbidities_of_CUI(cui_prob_list):
     comorbidities['Odds_Ratio'] = (comorbidities['Comorbidities_proportion']/comorbidities['Gen_pop_proportion'])
     comorbidities.sort_values(by='Odds_Ratio', ascending=False, inplace=True)
     
-    return comorbidities.loc[:,['Potential_Problem', 'Odds_Ratio']].head(10)
+    return comorbidities.loc[:,['CUI','Potential_Problem', 'Odds_Ratio']].head(10)
     
     
 # Run the function
