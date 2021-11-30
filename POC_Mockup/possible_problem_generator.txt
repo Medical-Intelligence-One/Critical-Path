@@ -1,0 +1,66 @@
+def comorbidities_of_CUI(cui_prob_list):
+    
+    query = '''
+    MATCH (prob1:Problem)<-[:HAD_PROBLEM]-(pt:Patients)
+    WHERE prob1.cui in {cui_prob_list}
+    WITH distinct(pt) AS patients
+    MATCH (patients)-[:HAD_PROBLEM]->(prob2:Problem)
+    WITH prob2.cui AS CUIs, count(prob2) AS Number
+    MATCH (c:Concept)
+    WHERE c.cui IN CUIs AND c.cui_pref_term IS NOT NULL 
+    RETURN c.term as Potential_Problem, c.cui AS CUI, Number
+    ORDER BY Number DESC
+    '''.format(cui_prob_list=cui_prob_list)
+    comorbidities = session.run(query)
+    comorbidities = pd.DataFrame([dict(record) for record in comorbidities])
+    
+    query = '''
+    MATCH (excluded:Problem)
+    WHERE excluded.cui in {cui_prob_list}
+    WITH collect(excluded) as excluded
+    MATCH (pt:Patients)-[:HAD_PROBLEM]->(prob:Problem)
+    WITH excluded, pt, collect(prob) as problems
+    WHERE NONE (prob in problems where prob in excluded)
+    MATCH (pt)-[:HAD_PROBLEM]-(prob2:Problem)
+    WITH prob2.cui AS CUIs, count(prob2) AS Number
+    MATCH (c:Concept)
+    WHERE c.cui IN CUIs AND c.cui_pref_term IS NOT NULL 
+    RETURN c.term as Potential_Problem, c.cui AS CUI, Number
+    ORDER BY Number DESC
+    '''.format(cui_prob_list=cui_prob_list)
+    gen_problems = session.run(query)
+    gen_problems = pd.DataFrame([dict(record) for record in gen_problems])
+    
+    gen_pop_total = sum(gen_problems['Number'])
+    gen_problems['Gen_pop_proportion'] = gen_problems['Number']/gen_pop_total
+    
+    gen_problems = gen_problems[gen_problems['Number'] > 25]
+    
+    comorb_total = sum(comorbidities['Number'])
+    comorbidities['Comorbidities_proportion'] = comorbidities['Number']/comorb_total
+    
+    comorbidities = comorbidities[comorbidities['Number'] > 75/len(cui_prob_list)]
+    
+    # Merge the "Gen_pop_proportion" column from gen_problems into comorbidities
+    comorbidities = pd.merge(comorbidities, gen_problems, on=['CUI', 'Potential_Problem'])
+    
+    comorbidities.head()
+    
+    comorbidities['Odds_Ratio'] = (comorbidities['Comorbidities_proportion']/comorbidities['Gen_pop_proportion'])
+    comorbidities.sort_values(by='Odds_Ratio', ascending=False, inplace=True)
+    
+    return comorbidities.loc[:,['Potential_Problem', 'Odds_Ratio']].head(10)
+    
+    
+# Run the function
+start_time = time.time()
+
+cui_prob_list = ['C1565489', 'C0085762']
+result_df = comorbidities_of_CUI(cui_prob_list)
+
+print("Total runtime:", time.time() - start_time, "seconds")
+result_df
+
+from neo4j import GraphDatabase
+driver=GraphDatabase.driver(uri="bolt://76.251.77.235:7687", auth=('neo4j',))
+session=driver.session()

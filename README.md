@@ -17,7 +17,6 @@ Develop a flexible framework for applying AI in healthcare and a set of use case
 
 ### Immediate next steps:
 - Add 2-3 more use cases 
-- Share Neo4j's embedding webinar with Nikesh
 - Reformat the knowledge graph to have all synonyms point to a central "preferred term" (☑️ UMLS_test, 🟢 MIMIC-III_v1.4_MI-1)
 - 🔁 Develop pathologic pathfinding methods using existing `CAUSE_OF` relationships from UMLS
 - 🔁 Develop intervention pathfinding methods using pathologic paths and `MAY_TREAT` or `MAY_PREVENT` relationships
