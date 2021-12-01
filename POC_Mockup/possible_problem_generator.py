@@ -1,4 +1,9 @@
+from neo4j import GraphDatabase
+
 def comorbidities_of_CUI(cui_prob_list):
+    
+    driver=GraphDatabase.driver(uri="bolt://localhost:7687", auth=('neo4j','NikeshIsCool'))
+    session=driver.session()
     
     query = '''
     MATCH (prob1:Problem)<-[:HAD_PROBLEM]-(pt:Patients)
@@ -51,16 +56,3 @@ def comorbidities_of_CUI(cui_prob_list):
     
     return comorbidities.loc[:,['CUI','Potential_Problem', 'Odds_Ratio']].head(10)
     
-    
-# Run the function
-start_time = time.time()
-
-cui_prob_list = ['C1565489', 'C0085762']
-result_df = comorbidities_of_CUI(cui_prob_list)
-
-print("Total runtime:", time.time() - start_time, "seconds")
-result_df
-
-from neo4j import GraphDatabase
-driver=GraphDatabase.driver(uri="bolt://76.251.77.235:7687", auth=('neo4j', 'NikeshIsCool'))
-session=driver.session()
