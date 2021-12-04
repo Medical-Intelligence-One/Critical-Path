@@ -52,10 +52,10 @@ def PotentialComorbidities(cui_prob_list):
     
     comorbidities.head()
     
-    comorbidities['Odds Ratio'] = (comorbidities['Comorbidities_proportion']/comorbidities['Gen_pop_proportion'])
-    comorbidities.sort_values(by='Odds Ratio', ascending=False, inplace=True)
+    comorbidities['OddsRatio'] = (comorbidities['Comorbidities_proportion']/comorbidities['Gen_pop_proportion'])
+    comorbidities.sort_values(by='OddsRatio', ascending=False, inplace=True)
     
-    return comorbidities.loc[:,['CUI','Potential Problem', 'Odds Ratio']].head(10)
+    return comorbidities.loc[:,['CUI','Potential Problem', 'OddsRatio']].head(10)
 
 def LikelyAbnormalLabs(cui_prob_list):
     
@@ -93,10 +93,10 @@ def LikelyAbnormalLabs(cui_prob_list):
     # Merge the "Gen_pop_proportion" column from gen_problems into comorbidities
     with_prob_labs = pd.merge(with_prob_labs, without_prob_labs, on=['ITEMID'])
     
-    with_prob_labs['Odds Ratio'] = (with_prob_labs['with_prob_proportion_abnl']/with_prob_labs['without_prob_proportion_abnl'])
-    with_prob_labs.sort_values(by='Odds Ratio', ascending=False, inplace=True)
+    with_prob_labs['OddsRatio'] = (with_prob_labs['with_prob_proportion_abnl']/with_prob_labs['without_prob_proportion_abnl'])
+    with_prob_labs.sort_values(by='OddsRatio', ascending=False, inplace=True)
     
-    return with_prob_labs.loc[:,['Abnormal Lab', 'Source', 'Odds Ratio']].head(10)
+    return with_prob_labs.loc[:,['Abnormal Lab', 'Source', 'OddsRatio']].head(10)
 
 def LikelyPrescriptions(cui_prob_list):
         
@@ -135,7 +135,7 @@ def LikelyPrescriptions(cui_prob_list):
     # Merge the "Gen_pop_proportion" column from gen_problems into comorbidities
     with_prob_Rx = pd.merge(with_prob_Rx, without_prob_Rx, on=['Drug'])
     
-    with_prob_Rx['Odds Ratio'] = (with_prob_Rx['with_prob_proportion']/with_prob_Rx['without_prob_proportion'])
-    with_prob_Rx.sort_values(by='Odds Ratio', ascending=False, inplace=True)
+    with_prob_Rx['OddsRatio'] = (with_prob_Rx['with_prob_proportion']/with_prob_Rx['without_prob_proportion'])
+    with_prob_Rx.sort_values(by='OddsRatio', ascending=False, inplace=True)
     
-    return with_prob_Rx.loc[:,['Drug','Odds Ratio']].head(10)
+    return with_prob_Rx.loc[:,['Drug','OddsRatio']].head(10)

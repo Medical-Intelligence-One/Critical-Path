@@ -86,10 +86,10 @@ Develop a flexible framework for applying AI in healthcare and a set of use case
 <a id='vp'></a>
 ## Virtualized Population
 ---
-- 🟡 Develop model to accurately and precisely represent populations
+- 🟢 Develop model to accurately and precisely represent populations
     - 🟡 Include temporal information
-- 🟡 Apply the model to virtualize MIMIC-III
-- 🟡 Adapt use case code to run on virtual population
+- 🟢 Apply the model to virtualize MIMIC-III
+- 🟢 Adapt use case code to run on virtual population
 - 🟡 Update virtual population from new incoming patient data
 - 🟡 Update a global virtual population from a local version
 - 🟡 Automate updates as part of an MLOps process
