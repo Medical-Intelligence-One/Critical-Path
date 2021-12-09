@@ -57,85 +57,26 @@ def PotentialComorbidities(cui_prob_list):
     
     return comorbidities.loc[:,['CUI','PotentialProblem', 'OddsRatio']].head(10)
 
-def LikelyAbnormalLabs(cui_prob_list):
-    
-    query = '''
-    MATCH (prob1:Problem)<-[:HAD_PROBLEM]-(pt:Patients)
-    WHERE prob1.cui in {cui_prob_list}
-    WITH distinct(pt) AS patients
-    MATCH (d:D_Labitems)-[:DESCRIBES]->(n:Labevents)<-[:HAD]-(patients)
-    RETURN d.itemid AS ITEMID, d.label as `AbnormalLab`, d.fluid as `Source`, COUNT(n.flag = 'abnormal') AS abnormal, COUNT(n) as total
-    ORDER BY total DESC
-    '''.format(cui_prob_list=cui_prob_list)
-    with_prob_labs = session.run(query)
-    with_prob_labs = pd.DataFrame([dict(record) for record in with_prob_labs])
-    
-    query = '''
-    MATCH (excluded:Problem)
-    WHERE excluded.cui in {cui_prob_list}
-    WITH collect(excluded) as excluded
-    MATCH (pt:Patients)-[:HAD_PROBLEM]->(prob:Problem)
-    WITH excluded, pt, collect(prob) as problems
-    WHERE NONE (prob in problems where prob in excluded)
-    MATCH (d:D_Labitems)-[:DESCRIBES]->(n:Labevents)<-[:HAD]-(pt)
-    RETURN d.itemid AS ITEMID, COUNT(n.flag = 'abnormal') AS abnormal, COUNT(n) as total
-    ORDER BY total DESC
-    '''.format(cui_prob_list=cui_prob_list)
-    without_prob_labs = session.run(query)
-    without_prob_labs = pd.DataFrame([dict(record) for record in without_prob_labs])
-    
-    without_prob_labs = without_prob_labs[without_prob_labs['abnormal'] > 10]
-    without_prob_labs['without_prob_proportion_abnl'] = without_prob_labs['abnormal']/without_prob_labs['total']
-    
-    with_prob_labs = with_prob_labs[with_prob_labs['abnormal'] > 10]
-    with_prob_labs['with_prob_proportion_abnl'] = with_prob_labs['abnormal']/with_prob_labs['total']
-        
-    # Merge the "Gen_pop_proportion" column from gen_problems into comorbidities
-    with_prob_labs = pd.merge(with_prob_labs, without_prob_labs, on=['ITEMID'])
-    
-    with_prob_labs['OddsRatio'] = (with_prob_labs['with_prob_proportion_abnl']/with_prob_labs['without_prob_proportion_abnl'])
-    with_prob_labs.sort_values(by='OddsRatio', ascending=False, inplace=True)
-    
-    return with_prob_labs.loc[:,['AbnormalLab', 'Source', 'OddsRatio']].head(10)
-
-def LikelyPrescriptions(cui_prob_list):
+def LikelyOrders(cui_prob_list):
         
     query = '''
-    MATCH (prob1:Problem)<-[:HAD_PROBLEM]-(pt:Patients)
-    WHERE prob1.cui in {cui_prob_list}
-    WITH distinct(pt) AS patients
-    MATCH (patients)-[:HAD]->(rx:Prescriptions)
-    RETURN rx.drug AS Drug, count(rx.drug) as Number
-    ORDER BY Number DESC
+    MATCH p=(ord:Concept)-[r:OCCURS_WITH]->(c:Concept) 
+    WHERE c.cui IN {cui_prob_list}
+    WITH round(r.co_occurrance_probability, 3)*1000 AS Score, ord, r
+    WHERE Score > 20
+    RETURN ord.term AS `Order`, ord.description AS AlternateDescription, Score
+    ORDER BY r.co_occurrance_probability DESC
     '''.format(cui_prob_list=cui_prob_list)
-    with_prob_Rx = session.run(query)
-    with_prob_Rx = pd.DataFrame([dict(record) for record in with_prob_Rx])
+    data = session.run(query)
+    LikelyOrders = pd.DataFrame([dict(record) for record in data])
     
-    query = '''
-    MATCH (prob1:Problem)<-[:HAD_PROBLEM]-(pt:Patients)
-    WHERE NOT prob1.cui in {cui_prob_list}
-    WITH distinct(pt) AS patients
-    MATCH (patients)-[:HAD]->(rx:Prescriptions)
-    RETURN rx.drug AS Drug, count(rx.drug) as Number
-    ORDER BY Number DESC
-    '''.format(cui_prob_list=cui_prob_list)
-    without_prob_Rx = session.run(query)
-    without_prob_Rx = pd.DataFrame([dict(record) for record in without_prob_Rx])
-       
-    without_prob_total = sum(without_prob_Rx['Number'])
-    without_prob_Rx['without_prob_proportion'] = without_prob_Rx['Number']/without_prob_total
+    # Assign prescriptions to a dataframe
+    orders_likely_rx = LikelyOrders[LikelyOrders.AlternateDescription.isnull()]
+    orders_likely_rx = orders_likely_rx.loc[:,['Order', 'Score']]
     
-    without_prob_Rx = without_prob_Rx[without_prob_Rx['Number'] > 30]
-        
-    with_prob_total = sum(with_prob_Rx['Number'])
-    with_prob_Rx['with_prob_proportion'] = with_prob_Rx['Number']/with_prob_total
-        
-    with_prob_Rx = with_prob_Rx[with_prob_Rx['Number'] > 20]
+    # Assign labs likely to be abnormal to a dataframe
+    orders_likely_lab = LikelyOrders[LikelyOrders.AlternateDescription.notnull()]
+    orders_likely_lab = orders_likely_lab.loc[:,['AlternateDescription', 'Score']]
+    orders_likely_lab.columns = ['Order', 'Score']
     
-    # Merge the "Gen_pop_proportion" column from gen_problems into comorbidities
-    with_prob_Rx = pd.merge(with_prob_Rx, without_prob_Rx, on=['Drug'])
-    
-    with_prob_Rx['OddsRatio'] = (with_prob_Rx['with_prob_proportion']/with_prob_Rx['without_prob_proportion'])
-    with_prob_Rx.sort_values(by='OddsRatio', ascending=False, inplace=True)
-    
-    return with_prob_Rx.loc[:,['Drug','OddsRatio']].head(10)
+    return orders_likely_rx, orders_likely_lab

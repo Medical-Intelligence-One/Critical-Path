@@ -12,8 +12,8 @@ app.config["DEBUG"] = True
 
 @app.route('/', methods=['GET'])
 def home():
-    return '''<h1>Distant Reading Archive</h1>
-<p>A prototype API for distant reading of science fiction novels.</p>'''
+    return '''<h1>MI-1 Sherlock</h1>
+<p>A prototype API for Medical Intelligence One's cognitive computing platform.</p>'''
 
 @app.route('/api/PotentialComorbidities', methods=['GET'])
 def api_PotentialComorbidities(): 
@@ -29,33 +29,24 @@ def api_PotentialComorbidities():
     res = json.dumps(parsed, indent=4) 
     return jsonify(parsed)
 
-@app.route('/api/LikelyAbnormalLabs', methods=['GET'])
-def api_LikelyAbnormalLabs(): 
+@app.route('/api/LikelyOrders', methods=['GET'])
+def api_LikelyOrders(): 
     pproblem = request.data
     parsed = json.loads(pproblem)
     cui_prob_list=[]
     for item in parsed['CUIs']:
         cui_prob_list.append(item['CUI'])
     
-    apidata = fetchData.LikelyAbnormalLabs(cui_prob_list)
-    result = apidata.to_json(orient="records")
-    parsed = json.loads(result)
-    res = json.dumps(parsed, indent=4) 
-    return jsonify(parsed)
-
-@app.route('/api/LikelyPrescriptions', methods=['GET'])
-def api_LikelyPrescriptions(): 
-    pproblem = request.data
-    parsed = json.loads(pproblem)
-    cui_prob_list=[]
-    for item in parsed['CUIs']:
-        cui_prob_list.append(item['CUI'])
+    rx, lab = fetchData.LikelyOrders(cui_prob_list)
+    # Parse labs into json
+    result_lab = lab.to_json(orient="records")
+    parsed_lab = json.loads(result_lab)
     
-    apidata = fetchData.LikelyPrescriptions(cui_prob_list)
-    result = apidata.to_json(orient="records")
-    parsed = json.loads(result)
-    res = json.dumps(parsed, indent=4) 
-    return jsonify(parsed)
+    # Parse prescriptions into json
+    result_rx = rx.to_json(orient="records")
+    parsed_rx = json.loads(result_rx)
+    
+    return jsonify(prescriptions=parsed_rx, labs=parsed_lab)
 
 if __name__ == '__main__':
     app.debug = True
