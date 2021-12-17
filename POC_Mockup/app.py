@@ -29,7 +29,7 @@ def api_PotentialComorbidities():
     res = json.dumps(parsed, indent=4) 
     return jsonify(parsed)
 
-@app.route('/api/LikelyOrders', methods=['GET'])
+@app.route('/api/LikelyOrders', methods=['GET']) 
 def api_LikelyOrders(): 
     pproblem = request.data
     parsed = json.loads(pproblem)
@@ -37,7 +37,7 @@ def api_LikelyOrders():
     for item in parsed['CUIs']:
         cui_prob_list.append(item['CUI'])
     
-    rx, lab = fetchData.LikelyOrders(cui_prob_list)
+    rx, lab, procedures = fetchData.LikelyOrders(cui_prob_list)
     # Parse labs into json
     result_lab = lab.to_json(orient="records")
     parsed_lab = json.loads(result_lab)
@@ -46,7 +46,11 @@ def api_LikelyOrders():
     result_rx = rx.to_json(orient="records")
     parsed_rx = json.loads(result_rx)
     
-    return jsonify(prescriptions=parsed_rx, labs=parsed_lab)
+    # Parse procedures into json
+    result_proc = procedures.to_json(orient="records")
+    parsed_proc = json.loads(result_proc)
+    
+    return jsonify(prescriptions=parsed_rx, labs=parsed_lab, procedures=parsed_proc)
 
 if __name__ == '__main__':
     app.debug = True

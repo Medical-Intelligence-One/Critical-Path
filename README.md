@@ -2,31 +2,23 @@
 ![Scottish Highlands](https://bikepacking.com/wp-content/uploads/2016/07/highland-trail-550-00.jpg)
 
 ### Mission
-Develop a flexible framework for applying AI in healthcare and a set of use cases that prove value as defined by key stakeholders. 
+Develop a flexible framework for applying AI in healthcare and a set of use cases that prove value to healthcare system CMIOs in terms of patient safety/quality of care. 
 
-### Current top priorities
-- Fulfill Dr. Stein's use case
-    - 🔁 Develop a reasoning framework
-    - 🔁 Develop a knowledge model
-    - Fine-tune GPT3 for the knowledge model
-    - ☑️ Collect all relevant literature
-    - Extract relationships from relevant literature
-    - Import GPT-extracted relationships into the graph
-    - Test the system on MIMIC-III patients
-    - Demo for Dr. Stein
+### 🟢 Current top priorities
+- 🟢 [Develop initial POC hosted on Wix website](Documents/P2_Prototype/POC_Mockup/POC_Mockup_python_script_drafting.ipynb)
+- 🟢 Define scope of use cases, list them by priority and track their progress. Draw from [GrApH AI list](https://github.com/MIS-GrApH-AI/mis-graph-ai.github.io/discussions) and notes in the Graph Algorithms book. 
 
 ### Immediate next steps:
-- Add 2-3 more use cases 
-- Reformat the knowledge graph to have all synonyms point to a central "preferred term" (☑️ UMLS_test, 🟢 MIMIC-III_v1.4_MI-1)
+- ☑️ Reformat the knowledge graph to have all synonyms point to a central "preferred term"
 - 🔁 Develop pathologic pathfinding methods using existing `CAUSE_OF` relationships from UMLS
 - 🔁 Develop intervention pathfinding methods using pathologic paths and `MAY_TREAT` or `MAY_PREVENT` relationships
 - ☑️ set up the annotator to display UMLS concept capture for each sentence
-- ☑️ pull all the literature relevant to atrial fibrillation, stroke, anticoagulation, and hemorrhage/bleeding ([UseCase_AntiCoag_AF.ipynb](UseCase_AntiCoag_AF.ipynb))
-- ☑️ create a csv of sentences that have causal relationships from the Afib literature
+- ☑️ 🟡 pull all the literature relevant to atrial fibrillation, stroke, anticoagulation, and hemorrhage/bleeding ([UseCase_AntiCoag_AF.ipynb](UseCase_AntiCoag_AF.ipynb))
+- ☑️ 🟡 create a csv of sentences that have causal relationships from the Afib literature
 - 🔁 create a knowledge model that anchors on UMLS terms or their existance-state opposites (e.g. "no atrial fibrillation") connected to literature-provided terms with `STATE_OF` relationships
-- develop methods to weight relationships based on number of publications and quality of publications
-- import human-annotated relationships into the graph to test pathologic and treatment pathfinding
-- fine-tune GPT3 on the new knowledge model to import more literature
+- 🟢 Develop methods to weight relationships based on number of publications and quality of publications
+- 🟢 Import human-annotated relationships into the graph to test pathologic and treatment pathfinding
+- 🟢 Fine-tune GPT3 on the new knowledge model to import more literature
 
 
 ### Trail markers 
@@ -50,7 +42,8 @@ Develop a flexible framework for applying AI in healthcare and a set of use case
 ---
 ### Basic knowledge
 - ☑️ Develop method to use GPT3 to extract conceptual relationships from the medical literature [🔗](GPT_fine-tuning.ipynb#performance_assessment)
-- 🟢 Engineer a knowledge model on which a simple, flexible reasoning framework can operate to fulfill use cases (🔁Iterate with reasoning framework and use cases)
+- 🟢 Engineer a knowledge model on which a simple, flexible reasoning framework can operate to fulfill use cases (🔁Iterate with [reasoning framework](#rf) and [use cases](#uc))
+    - 🟢 Develop method to incorporate patient preferences into a knowledge graph. Build it into the workflows.
 - 🟢 Fine-tune GPT3 to extract knowledge according to the knowledge model 
     - Manually annotate training data for fine-tuning [🔗](Annotation_Tool.ipynb#annotator_tool)
     - Perform fine-tuning [🔗](Annotation_Tool.ipynb#GPT3_fine_tuner)
@@ -88,6 +81,7 @@ Develop a flexible framework for applying AI in healthcare and a set of use case
 ---
 - 🟢 Develop model to accurately and precisely represent populations
     - 🟡 Include temporal information
+    - 🟡 Create OCCURS_WITH relationships with z-scores for labs and other continuous variables
 - 🟢 Apply the model to virtualize MIMIC-III
 - 🟢 Adapt use case code to run on virtual population
 - 🟡 Update virtual population from new incoming patient data
@@ -123,4 +117,4 @@ Consider using [Max De Marzi's methods to create dynamic rule-based decision tre
     - Write & test the code (Due by Dec 23) TJM & NS
     - Provide instructions, documentation, supporting information to make it (Due by Dec 23) BED
   
-- 🟢 "I have a patient with AFib. Should I anticoagulate?" Contributed by Dr. Stein, Scripps CMIO-Inpatient. [🔗](UseCase_AntiCoag_AF.ipynb)
+- 🟡 "I have a patient with AFib. Should I anticoagulate?" Contributed by Dr. Stein, Scripps CMIO-Inpatient. [🔗](UseCase_AntiCoag_AF.ipynb)

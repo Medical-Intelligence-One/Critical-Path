@@ -84,7 +84,7 @@ node.Services {
   caption: "{TRANSFERTIME}";
 }
 node.Procedures_Icd {
-  caption: "{name}";
+  caption: "Procedure event";
 }
 node.D_Items {
   caption: "{label}";
@@ -105,7 +105,7 @@ node.Microbiologyevents {
   caption: "{name}";
 }
 node.D_Icd_Procedures {
-  caption: "{name}";
+  caption: "{long_title}";
 }
 node.Inputevents_Cv {
   caption: "{name}";
