@@ -1,0 +1,12 @@
+{
+  "name": "m1a-mvp-prototype-frontend",
+  "version": "0.0.1",
+  "description": "manny hacking",
+  "main": "index.js",
+  "scripts": {
+    "start": "firefox index.html",
+    "test": "echo TODO"
+  },
+  "author": "m1a Engineering",
+  "license": "PROPRIETARY"
+}
