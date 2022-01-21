@@ -12,8 +12,5 @@
   "license": "PROPRIETARY",
   "devDependencies": {
     "esbuild": "^0.14.12"
-  },
-  "dependencies": {
-    "codemirror": "^5.65.1"
   }
 }
