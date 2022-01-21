@@ -5,11 +5,15 @@
   "main": "index.js",
   "scripts": {
     "start": "firefox index.html",
-    "test": "echo TODO"
+    "test": "echo TODO",
+    "clean": "rm -rf node_modules"
   },
   "author": "m1a Engineering",
   "license": "PROPRIETARY",
   "devDependencies": {
     "esbuild": "^0.14.12"
+  },
+  "dependencies": {
+    "codemirror": "^5.65.1"
   }
 }
