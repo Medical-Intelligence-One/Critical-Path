@@ -11,14 +11,21 @@ we'll just have to change the html when we do so.
 1. [ Install nvm ](https://github.com/nvm-sh/nvm#installing-and-updating) to
    manage javascript versions (like `pyenv` for having virtualenvs with
    multiple python versions, kinda).
-2. Use latest node long term support release
-3. [Install `esbuild`](https://esbuild.github.io/getting-started/#install-esbuild) to
-   bundle the javascript.
+1. Use latest node long term support release
 ```
 nvm i --lts
 nvm use --lts
 ```
-3. Run the frontend locally
+1. Install javascript modules `npm i` (short for `npm install`).
+1. Run the frontend locally in firefox.
 ```
 npm start
 ```
+
+# What it does
+
+It's a blank [codemirror](https://codemirror.net/6/) editor instance. Building
+out support for the order language and syncing to the backend are totally
+ignored so far.
+
+

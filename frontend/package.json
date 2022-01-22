@@ -11,7 +11,7 @@
   "author": "m1a Engineering",
   "license": "PROPRIETARY",
   "devDependencies": {
-    "esbuild": "^0.14.12"
+    "snowpack": "^3.8.8"
   },
   "dependencies": {
     "@codemirror/basic-setup": "^0.19.1"
