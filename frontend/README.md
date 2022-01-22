@@ -1,11 +1,10 @@
 # What
 
 A shell for mi1 engineers to iterate on frontend concepts. Minimal decisions
-made. This is deliberately incomplete. It makes no decisions about deployment.
+made.
 
-The main thing this ignores is that we'll need something other than `js/app.js`
-to serve the javascript bundle to the frontend. This can be worked out later,
-we'll just have to change the html when we do so.
+I've chosen snowpack for a bundler since it uses `esbuild` under the hood and
+gives us the niceties of using something more unwieldy like `webpack`.
 
 # Set up
 1. [ Install nvm ](https://github.com/nvm-sh/nvm#installing-and-updating) to
