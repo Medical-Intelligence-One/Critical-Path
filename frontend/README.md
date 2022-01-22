@@ -16,7 +16,7 @@ nvm i --lts
 nvm use --lts
 ```
 1. Install javascript modules `npm i` (short for `npm install`).
-1. Run the frontend locally in firefox.
+1. Run the frontend locally:
 ```
 npm start
 ```
