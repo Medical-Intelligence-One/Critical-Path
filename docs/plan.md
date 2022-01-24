@@ -9,4 +9,4 @@ System Components:
 
 Frontend system diagram:
 
-[](./fig_01.svg)
+![frontend system](./fig_01.svg)
