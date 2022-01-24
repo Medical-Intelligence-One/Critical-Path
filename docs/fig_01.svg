@@ -25,13 +25,13 @@
      showgrid="false"
      inkscape:zoom="2.6681047"
      inkscape:cx="561.25984"
-     inkscape:cy="397.09837"
+     inkscape:cy="396.72357"
      inkscape:window-width="3840"
      inkscape:window-height="2160"
      inkscape:window-x="2160"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      inkscape:snap-global="false" />
   <defs
      id="defs9">
@@ -54,6 +54,18 @@
        height="88.896045"
        id="rect32470" />
   </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="background">
+    <rect
+       id="rect263426"
+       width="296.80356"
+       height="195.62825"
+       x="0.79961687"
+       y="8.1874628"
+       style="stroke-width:0.264583;fill:#f2f2f2" />
+  </g>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
@@ -149,7 +161,7 @@
        style="font-size:16px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;white-space:pre;shape-inside:url(#rect65482)"><tspan
          x="136.72266"
          y="311.63878"
-         id="tspan250673">Parser</tspan></text>
+         id="tspan263569">Parser</tspan></text>
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
@@ -157,9 +169,9 @@
        style="font-size:16px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';letter-spacing:0px;white-space:pre;shape-inside:url(#rect92008)"><tspan
          x="241.04102"
          y="464.44543"
-         id="tspan250677"><tspan
+         id="tspan263573"><tspan
            dx="0 9.6015625 9.6015625"
-           id="tspan250675">ccc</tspan></tspan></text>
+           id="tspan263571">ccc</tspan></tspan></text>
     <path
        id="path116459"
        d="m 44.133089,91.63442 c 0.01373,0.840256 -0.0028,1.680183 0.02434,2.520344 0.01095,0.339675 -0.04492,0.69128 0.04698,1.018469 0.09775,0.348048 0.338788,0.638746 0.50818,0.958119 0,0 0.07097,-0.03693 0.07097,-0.03693 v 0 c 0.103039,-0.457708 0.239117,-0.909211 0.309118,-1.373124 0.05326,-0.352951 0.03497,-0.713086 0.0594,-1.069197 0.05996,-0.873749 0.144338,-1.745914 0.17865,-2.621484 0,0 -1.197637,0.603798 -1.197637,0.603798 z"
@@ -197,45 +209,45 @@
        transform="translate(3.6828305,-0.7631851)"><tspan
          x="29.147137"
          y="115.9017"
-         id="tspan250681"><tspan
+         id="tspan263577"><tspan
            style="font-size:3.52778px"
-           id="tspan250679">Event log:
+           id="tspan263575">Event log:
 </tspan></tspan><tspan
          x="29.147137"
          y="121.19337"
-         id="tspan250685"><tspan
+         id="tspan263581"><tspan
            style="font-size:3.52778px"
-           id="tspan250683">- New Condition: xxxOOmia
+           id="tspan263579">- New Condition: xxxOOmia
 </tspan></tspan><tspan
          x="29.147137"
          y="126.48503"
-         id="tspan250689"><tspan
+         id="tspan263585"><tspan
            style="font-size:3.52778px"
-           id="tspan250687">- Remove condition: xxxOOmia
+           id="tspan263583">- Remove condition: xxxOOmia
 </tspan></tspan><tspan
          x="29.147137"
          y="131.77669"
-         id="tspan250693"><tspan
+         id="tspan263589"><tspan
            style="font-size:3.52778px"
-           id="tspan250691">- Change condition: Atherosclerosis -&gt; Congestive heart failure
+           id="tspan263587">- Change condition: Atherosclerosis -&gt; Congestive heart failure
 </tspan></tspan><tspan
          x="29.147137"
          y="137.06834"
-         id="tspan250697"><tspan
+         id="tspan263593"><tspan
            style="font-size:3.52778px"
-           id="tspan250695">- Change focus: Semantic tab
+           id="tspan263591">- Change focus: Semantic tab
 </tspan></tspan><tspan
          x="29.147137"
          y="142.36"
-         id="tspan250701"><tspan
+         id="tspan263597"><tspan
            style="font-size:3.52778px"
-           id="tspan250699">- Backend call start (used to set spinner state in UI)
+           id="tspan263595">- Backend call start (used to set spinner state in UI)
 </tspan></tspan><tspan
          x="29.147137"
          y="147.65166"
-         id="tspan250705"><tspan
+         id="tspan263601"><tspan
            style="font-size:3.52778px"
-           id="tspan250703">- Backend call complete: Interventinons[statins, exercise ...]</tspan></tspan></text>
+           id="tspan263599">- Backend call complete: Interventinons[statins, exercise ...]</tspan></tspan></text>
     <path
        id="path151778"
        d="m 74.742656,32.745439 c 1.122571,0.188052 2.260028,0.244313 3.39503,0.300125 1.218938,0.04832 2.437773,0.09559 3.655983,0.160411 1.651638,0.120693 3.308464,0.106802 4.963303,0.117999 2.432005,0.02847 4.862978,-0.04958 7.294991,-0.0287 1.465426,0.01408 2.926805,0.158856 4.39185,0.180705 0.948391,0.01413 1.280105,-0.01585 2.249667,-0.05895 1.00371,-0.0745 2.01418,-0.0863 3.01597,-0.188992 0.24939,-0.02556 0.50273,-0.03828 0.74511,-0.102341 0.30845,-0.08151 0.59849,-0.221213 0.89774,-0.331819 0,0 0.0643,-0.04758 0.0643,-0.04758 v 0 c -0.0401,-0.08094 -0.0342,-0.215908 -0.1204,-0.24283 -0.15194,-0.04743 -1.49127,0.08465 -1.49588,0.08503 -1.30315,0.107283 -0.8279,0.07048 -2.19075,0.157461 -0.8716,0.02941 -1.35851,0.05598 -2.219299,0.04713 -1.475962,-0.01516 -2.948583,-0.150794 -4.424865,-0.159877 -1.233035,-0.01757 -1.265333,-0.02577 -2.503795,-0.01215 -1.581766,0.01741 -3.163998,0.06515 -4.745712,0.008 -1.641927,-0.02955 -3.285778,-0.0033 -4.924094,-0.141179 -1.244751,-0.05052 -2.491161,-0.04563 -3.735829,-0.10291 -1.125951,-0.05108 -2.25669,-0.09604 -3.367413,-0.30281 0,0 -0.945917,0.663265 -0.945917,0.663265 z"
