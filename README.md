@@ -13,10 +13,8 @@ Develop a flexible framework for applying AI in healthcare and a set of use case
 - 🔁 Develop pathologic pathfinding methods using existing `CAUSE_OF` relationships from UMLS
 - 🔁 Develop intervention pathfinding methods using pathologic paths and `MAY_TREAT` or `MAY_PREVENT` relationships
 - ☑️ set up the annotator to display UMLS concept capture for each sentence
-- ☑️ 🟡 pull all the literature relevant to atrial fibrillation, stroke, anticoagulation, and hemorrhage/bleeding ([UseCase_AntiCoag_AF.ipynb](UseCase_AntiCoag_AF.ipynb))
-- ☑️ 🟡 create a csv of sentences that have causal relationships from the Afib literature
 - 🔁 create a knowledge model that anchors on UMLS terms or their existance-state opposites (e.g. "no atrial fibrillation") connected to literature-provided terms with `STATE_OF` relationships
-- 🟢 Develop methods to weight relationships based on number of publications and quality of publications
+- 🟢 Develop methods to weight relationships based on number of publications and quality of publications - start with each relationship statement as a single relationship in a separate KG, then use graph projections to summarize the relationship and write it into a patient-connected graph
 - 🟢 Import human-annotated relationships into the graph to test pathologic and treatment pathfinding
 - 🟢 Fine-tune GPT3 on the new knowledge model to import more literature
 
@@ -63,6 +61,9 @@ Develop a flexible framework for applying AI in healthcare and a set of use case
 - 🟡 Present the data for verification to the clinician/patient
 - 🟡 Execute the decision-making process to produce a recommendation
 - 🟡 Present the guideline recommendations with links to the evidence behind the recommendation
+
+### Formulary and pricing
+- 🟡 Incorporate formulary and pricing information into UMLS concepts via RxNorm codes. See [data download page for info.](https://www.cms.gov/research-statistics-data-systems/prescription-drug-plan-formulary-pharmacy-network-and-pricing-information-files-download)
 
 ## Connected patient-level data
 ---
