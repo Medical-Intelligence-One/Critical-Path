@@ -1,3 +1,6 @@
 MRCONSO_for_import.csv
 # Jupyter Notebook
 .ipynb_checkpoints
+
+venv
+.venv
