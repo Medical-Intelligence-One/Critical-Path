@@ -101,7 +101,7 @@ Develop a flexible framework for applying AI in healthcare and a set of use case
     |🟢| Find associations between outcome concepts and possible treatments, ordered by strongest association first | Empiric treatments and other associations |  
     |🟢| Find shortest paths between possible treatments and the pathologic path | Rationalizations for empiric treatment |
 
-Consider using [Max De Marzi's methods to create dynamic rule-based decision trees in Neo4j.](https://maxdemarzi.com/2018/01/14/dynamic-rule-based-decision-trees-in-neo4j/#more-4189) 
+Consider using ideas from [Brady Neal's Causal Inference course](https://www.youtube.com/c/BradyNealCausalInference) or [Max De Marzi's methods to create dynamic rule-based decision trees in Neo4j.](https://maxdemarzi.com/2018/01/14/dynamic-rule-based-decision-trees-in-neo4j/#more-4189) 
 
 <a id='uc'></a>
 ## Use Cases
