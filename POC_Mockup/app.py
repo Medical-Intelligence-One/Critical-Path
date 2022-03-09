@@ -120,12 +120,39 @@ def api_nodedisplay():
     
 @app.route('/graphdisplay', methods=['GET', 'POST'])
 def graphdisplay():
-    iframe_url = fetchData.graphdisplay()
-#     response.headers.add("Access-Control-Allow-Origin", "*")
+    if request.args.get('kp'):
+        kp = list(request.args.get('kp').split(","))
+    else:
+        kp = ['C0948008']
+        
+    if request.args.get('p'):
+        p = str(request.args.get('p'))
+    else:
+        p = 'C0948008'
+    #p = list(request.args.get('p', default = "").split(","))
+    #code = request.args.get('code')
+    if request.args.get('code'):
+        code = str(request.args.get('code'))
+    else:
+        code = 'C0004238'
+    #type = request.args.get('type')
+    if request.args.get('type'):
+        type = request.args.get('type')
+    else:
+        type = 'Problem'
+
+    iframe_url = fetchData.graphdisplay(kp, p, code, type)
     return f'<iframe src={iframe_url} name="iframe_a" height="100%" width="100%" title="Iframe Example"></iframe>'
+
+@app.route('/htmldisplay', methods=['GET'])
+def html_display():
+    return render_template("test.html")
 
 if __name__ == '__main__':
     app.debug = True
     app.run(host="76.251.77.235", port=5000) #host="0.0.0.0" will make the page accessable
                             #by going to http://[ip]:5000/ on any computer in 
                             #the network.
+
+#76.251.77.235
+#ssl_context='adhoc'
