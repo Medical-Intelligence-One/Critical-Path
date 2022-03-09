@@ -1,0 +1,34 @@
+#header {
+	background: hsl(210, 50%, 70%);
+	height: 10vh; /* TODO: css variables */
+	display: flex;
+}
+
+#header > h1 {
+	margin: auto;
+}
+
+#app-container {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	gap: 10px;
+	height: 80vh;
+}
+
+/* not-inclusive; takes blocks 1-2. */
+#editor-container {
+	grid-column: 1/3 ;
+	border: solid;
+}
+
+#sidebar-container {
+	grid-column: 3/3;
+	border: solid;
+	background: hsl(210, 20%, 80%);
+}
+
+.cm-editor {
+	height: 100%;
+	background: hsl(0, 0%, 100%);
+}
+

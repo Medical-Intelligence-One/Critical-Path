@@ -1,0 +1,4 @@
+Add element to html. Insert element codemirror from app.js. Divide screen into
+two containers.
+
+Add basic CSS to get us started with something looking like the thing.
