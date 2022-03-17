@@ -1,0 +1,6 @@
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix ns1: <http://example.com/> .
+
+ns1:drewp a foaf:Person ;
+    ns1:says "Hello World" .
+

@@ -36,35 +36,38 @@ def autocompleteProblems(startingtext):
    
 def PotentialComorbidities(cui_prob_list):
     
-    # Get NLP-derived problem matches
-    query = '''
-    MATCH p=(ord:Concept)-[r:OCCURS_WITH]->(c:Concept) 
-    WHERE c.cui IN {cui_prob_list} AND ord.semantic_type IN ["['Pathologic Function']", "['Disease or Syndrome']", "['Mental or Behavioral Dysfunction']", "['Sign or Symptom']", "['Injury or Poisoning']", "['Neoplastic Process']"]
-    WITH round(r.co_occurrence_probability, 5) AS Score, ord, r, c
-    RETURN c.cui AS `Known_CUI`, c.term AS `Known_Problem`, ord.cui AS `CUI`, ord.term AS `Problem`, Score
-    ORDER BY r.co_occurrence_probability DESC
-    LIMIT 10
-    '''.format(cui_prob_list=cui_prob_list)
-    data = session.run(query)
-    likely_comorbidities_NLP = pd.DataFrame([dict(record) for record in data])
-    
-    # Get ICD-coded problem matches
-    query = '''
-    MATCH p=(ord:D_Icd_Diagnoses)-[r:OCCURS_WITH]->(c:Concept) 
-    WHERE c.cui IN {cui_prob_list} 
-    WITH round(r.co_occurrence_probability, 5) AS Score, ord, r, c
-    RETURN c.cui AS `Known_CUI`, c.term AS `Known_Problem`, ord.icd9_code AS `CUI`, ord.long_title AS `Problem`, Score
-    ORDER BY r.co_occurrence_probability DESC
-    LIMIT 10
-    '''.format(cui_prob_list=cui_prob_list)
-    data = session.run(query)
-    likely_comorbidities_ICD = pd.DataFrame([dict(record) for record in data])
-    
-    # Combine the NLP-derived and ICD-coded dataframes for output
-    likely_comorbidities = likely_comorbidities_NLP.append(likely_comorbidities_ICD)
-    likely_comorbidities.sort_values(by='Score', ascending=False, inplace=True)
-    
-    return likely_comorbidities.head(10)
+    try:
+        # Get NLP-derived problem matches
+        query = '''
+        MATCH p=(ord:Concept)-[r:OCCURS_WITH]->(c:Concept) 
+        WHERE c.cui IN {cui_prob_list} AND ord.semantic_type IN ["['Pathologic Function']", "['Disease or Syndrome']", "['Mental or Behavioral Dysfunction']", "['Sign or Symptom']", "['Injury or Poisoning']", "['Neoplastic Process']"]
+        WITH round(r.co_occurrence_probability, 5) AS Score, ord, r, c
+        RETURN c.cui AS `Known_CUI`, c.term AS `Known_Problem`, ord.cui AS `CUI`, ord.term AS `Problem`, Score
+        ORDER BY r.co_occurrence_probability DESC
+        LIMIT 10
+        '''.format(cui_prob_list=cui_prob_list)
+        data = session.run(query)
+        likely_comorbidities_NLP = pd.DataFrame([dict(record) for record in data])
+
+        # Get ICD-coded problem matches
+        query = '''
+        MATCH p=(ord:D_Icd_Diagnoses)-[r:OCCURS_WITH]->(c:Concept) 
+        WHERE c.cui IN {cui_prob_list} 
+        WITH round(r.co_occurrence_probability, 5) AS Score, ord, r, c
+        RETURN c.cui AS `Known_CUI`, c.term AS `Known_Problem`, ord.icd9_code AS `CUI`, ord.long_title AS `Problem`, Score
+        ORDER BY r.co_occurrence_probability DESC
+        LIMIT 10
+        '''.format(cui_prob_list=cui_prob_list)
+        data = session.run(query)
+        likely_comorbidities_ICD = pd.DataFrame([dict(record) for record in data])
+
+        # Combine the NLP-derived and ICD-coded dataframes for output
+        likely_comorbidities = likely_comorbidities_NLP.append(likely_comorbidities_ICD)
+        likely_comorbidities.sort_values(by='Score', ascending=False, inplace=True)
+
+        return likely_comorbidities.head(10)
+    except:
+        return "No results available for this query. Try a"
 
 def LikelyOrders(cui_prob_list):
     
