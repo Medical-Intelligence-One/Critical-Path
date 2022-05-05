@@ -1,0 +1,18 @@
+{
+	'Disease_Name': <name>,
+	'Disease_CUI': <cui>,
+	'Disease_Definition': <definition>,
+	'Disease_Finding_Assoc_Evidence': <evidence list>,
+	'Disease_Prevalence': <value>,
+	'Disease_Probability': <float>,
+	'Matched_Findings': [
+		{'CUI': <cui>, 'Frequency': <float>, 'Name': <name>},
+		{'CUI': <cui>, 'Frequency': <float>, 'Name': <name>}],
+	'Unmatched_Findings': [
+		{'CUI': <cui>, 'Frequency': <float>, 'Name': <name>},
+		{'CUI': <cui>, 'Frequency': <float>, 'Name': <name>}]
+},
+{
+	Disease 2 ... n
+	
+	
