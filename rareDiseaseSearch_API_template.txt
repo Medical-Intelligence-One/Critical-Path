@@ -3,16 +3,22 @@
 	'Disease_CUI': <cui>,
 	'Disease_Definition': <definition>,
 	'Disease_Finding_Assoc_Evidence': <evidence list>,
-	'Disease_Prevalence': <value>,
+	'Disease_Point_Prevalence': <float>,
+	'Disease_Birth_Prevalence': <float>,
+	'Disease_Lifetime_Prevalence': <float>,
+	'Disease_Annual_Incidence': <float>,
 	'Disease_Probability': <float>,
 	'Matched_Findings': [
 		{'CUI': <cui>, 'Frequency': <float>, 'Name': <name>},
 		{'CUI': <cui>, 'Frequency': <float>, 'Name': <name>}],
+	'Negative_Matched_Findings': [
+		{'CUI': <cui>, 'Frequency': <float>, 'Name': <name>},
+		{'CUI': <cui>, 'Frequency': <float>, 'Name': <name>}]
 	'Unmatched_Findings': [
 		{'CUI': <cui>, 'Frequency': <float>, 'Name': <name>},
 		{'CUI': <cui>, 'Frequency': <float>, 'Name': <name>}]
 },
 {
 	Disease 2 ... n
-	
+
 	

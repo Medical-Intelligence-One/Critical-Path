@@ -1,0 +1,2061 @@
+﻿Disease,Upper_Prevalence_Estimate,UMLS_CUI,Count
+Hydrops fetalis,0.001,C0020305,20
+Cartilage-hair hypoplasia,0.001,C0220748,79
+Amish lethal microcephaly,0.001,C1846648,25
+Bowen-Conradi syndrome,0.001,C1859405,20
+"Distal myopathy, Welander type",0.001,C2931290,13
+Fetal alcohol syndrome,0.001,C3146244,32
+Fetal and neonatal alloimmune thrombocytopenia,0.001,C3854603,16
+Cleft lip with or without cleft palate,0.000875,C0008924,9
+Congenital hypothyroidism,0.0007624999999999999,C0010308,50
+Down syndrome,0.0007624999999999999,C0013080,48
+Ectodermal dysplasia syndrome,0.00075,C0013575,48
+Systemic primary carnitine deficiency,0.00075,C0342788,9
+Autosomal recessive spastic ataxia of Charlevoix-Saguenay,0.00075,C1849140,38
+Noonan syndrome,0.00075,C0028326,55
+Cleft lip and alveolus,0.00075,C1298692,11
+Cleft palate,0.00073125,C0008925,2
+Holoprosencephaly,0.00073125,C3711749,93
+Microtia,0.00073125,C0152423,8
+Peripartum cardiomyopathy,0.00073125,C0877208,38
+Steinert myotonic dystrophy,0.0007128125,C2931688,97
+Sarcoidosis,0.0007128125,C0036202,72
+Amelogenesis imperfecta,0.0007,C0002452,14
+Beta-thalassemia major,0.00065,C0002875,45
+Sickle cell anemia,0.00065,C0002895,24
+Vernal keratoconjunctivitis,0.00065,C0022577,10
+Scleroderma,0.00065,C0852007,62
+Congenital toxoplasmosis,0.0005875,C0040560,26
+Cystic fibrosis,0.0005875,C0010674,8
+Behçet disease,0.000550625,C0004943,68
+Familial Mediterranean fever,0.000550625,C0585274,37
+Propionic acidemia,0.000550625,C2717876,11
+Tetralogy of Fallot,0.000525,C0039685,12
+Charcot-Marie-Tooth disease type 1A,0.000525,C0270911,18
+Oculopharyngeal muscular dystrophy,0.000525,C0270952,10
+Non-functioning pituitary adenoma,0.000525,C0338078,52
+Dermatitis herpetiformis,0.000525,C0011608,14
+Brugada syndrome,0.000525,C1955837,12
+Congenital hydrocephalus,0.000525,C0020256,20
+Rare cutaneous lupus erythematosus,0.000525,C0024137,48
+Alpha-1-antitrypsin deficiency,0.000525,C3501835,6
+Cleft lip/palate,0.000525,C0158646,20
+Prolactinoma,0.000525,C0033375,47
+Glutaryl-CoA dehydrogenase deficiency,0.000525,C0268595,41
+Ellis Van Creveld syndrome,0.00051375,C0013903,51
+Multiple osteochondromas,0.00051375,C0206641,47
+MELAS,0.00051375,C0162671,85
+"46,XY disorder of sex development due to 17-beta-hydroxysteroid dehydrogenase 3 deficiency",0.0005025,C0268296,8
+Lymphatic filariasis,0.0005005,C0013884,28
+Oculocutaneous albinism type 2,0.0004625,C0268495,22
+Charcot-Marie-Tooth disease/Hereditary motor and sensory neuropathy,0.0004625,C0007959,13
+Aorta coarctation,0.0004625,C2930803,18
+Congenital pulmonary valvar stenosis,0.0004625,C0162164,3
+Turner syndrome,0.0004625,C0242526,114
+Non-syndromic anorectal malformation,0.0004625,C3495676,14
+GNE myopathy,0.0004,C1853926,26
+ATTRV30M amyloidosis,0.00038875,C0206245,14
+Interstitial cystitis,0.0003,C3160917,12
+Pudendal neuralgia,0.0003,C3178970,13
+Gastrointestinal stromal tumor,0.0003,C3179349,18
+22q11.2 deletion syndrome,0.0003,C3266101,131
+"47,XYY syndrome",0.0003,C3266843,32
+Hemophilia A,0.0003,C3494187,12
+Renal dysplasia,0.0003,C3536714,25
+Beckwith-Wiedemann syndrome,0.0003,C0004903,73
+Bronchopulmonary dysplasia,0.0003,C0006287,21
+Isolated cleft lip,0.0003,C0008924,17
+Recessive X-linked ichthyosis,0.0003,C2720163,9
+Isolated spina bifida,0.0003,C0080178,22
+Trisomy X,0.0003,C0221033,21
+Hereditary spherocytosis,0.0003,C0221409,24
+Carcinoma of gallbladder and extrahepatic biliary tract,0.0003,C0235782,7
+Lennox-Gastaut syndrome,0.0003,C0238111,19
+Acute lung injury,0.0003,C0242488,16
+Necrotizing enterocolitis,0.0003,C0520459,26
+Carcinoma of esophagus,0.0003,C0546837,13
+Hereditary breast and ovarian cancer syndrome,0.0003,C0677776,6
+Fragile X syndrome,0.0003,C0751156,27
+Narcolepsy type 1,0.0003,C0751362,11
+Stüve-Wiedemann syndrome,0.0003,C0796176,44
+Infant acute respiratory distress syndrome,0.0003,C0852283,15
+McKusick-Kaufman syndrome,0.0003,C0948368,27
+Hirschsprung disease,0.0003,C3661523,16
+Complete atrioventricular septal defect,0.0003,C0344787,23
+Fetal cytomegalovirus syndrome,0.0003,C0349499,7
+Dermatofibrosarcoma protuberans,0.0003,C0392784,6
+Aicardi-Goutières syndrome,0.0003,C0393591,68
+Radiation proctitis,0.0003,C0400827,12
+"Congenital nephrotic syndrome, Finnish type",0.0003,C0403399,5
+Congenital bilateral absence of vas deferens,0.0003,C0403814,5
+Stargardt disease,0.0003,C1855465,13
+Uremic pruritus,0.0003,C1262019,16
+Atopic keratoconjunctivitis,0.0003,C1274788,9
+Congenital sucrase-isomaltase deficiency,0.0003,C1283620,4
+Supravalvular aortic stenosis,0.0003,C1305147,2
+Herpes simplex virus stromal keratitis,0.0003,C1318020,11
+Cleft velum,0.0003,C0432098,13
+Syndactyly type 1,0.0003,C1861380,3
+Hypocalcemic vitamin D-dependent rickets,0.0003,C0268689,40
+Gastroschisis,0.0003,C0265706,3
+Thyroid ectopia,0.0003,C0266283,18
+Hypermobile Ehlers-Danlos syndrome,0.0003,C0268337,56
+Non-acquired isolated growth hormone deficiency,0.0003,C0271561,3
+Indolent systemic mastocytosis,0.0003,C0272203,15
+Aplasia cutis congenita,0.0003,C0282160,10
+Triploidy,0.0003,C0333693,34
+Septo-optic dysplasia spectrum,0.0003,C0338503,33
+Cardiogenic shock,0.0003,C0036980,21
+Tenosynovial giant cell tumor,0.0003,C0039106,19
+Buerger disease,0.0003,C0040021,10
+Essential thrombocythemia,0.0003,C0040028,17
+Tuberculosis,0.0003,C0041296,5
+Von Willebrand disease,0.0003,C0042974,6
+Hepatocellular carcinoma,0.0003,C2239176,44
+Neurotrophic keratopathy,0.0003,C0339296,15
+Idiopathic bronchiectasis,0.0003,C0339985,15
+Familial isolated dilated cardiomyopathy,0.0003,C0340427,8
+Eosinophilic esophagitis,0.0003,C0341106,9
+MODY,0.0003,C0342276,21
+Central precocious puberty,0.0003,C0342543,15
+Partial atrioventricular septal defect,0.0003,C0344735,22
+Double outlet right ventricle,0.0003,C0013069,25
+Duane retraction syndrome,0.0003,C0013261,55
+Familial dysautonomia,0.0003,C0013364,37
+Hereditary elliptocytosis,0.0003,C0013902,19
+Esophageal atresia,0.0003,C0014850,57
+Osteogenesis imperfecta,0.0003,C1859069,108
+Idiopathic hypersomnia,0.0003,C0751757,3
+Hemorrhagic fever-renal syndrome,0.0003,C2930957,54
+Congenital primary aphakia,0.0003,C1853230,6
+Charcot-Marie-Tooth disease type 4G,0.0003,C1854449,27
+Hodgkin lymphoma,0.0003,C0019829,21
+Follicular lymphoma,0.0003,C0024301,12
+Dentinogenesis imperfecta,0.0003,C2973527,19
+Marfan syndrome,0.0003,C0024796,59
+Multiple myeloma,0.0003,C0026764,26
+Myasthenia gravis,0.0003,C0026896,25
+Nephroblastoma,0.0003,C0027708,11
+Neurofibromatosis type 1,0.0003,C0027831,69
+Osteochondritis dissecans,0.0003,C0029421,13
+Neovascular glaucoma,0.0003,C0017609,15
+Primary membranoproliferative glomerulonephritis,0.0003,C0017662,14
+Partial chromosome Y deletion,0.0003,C2931163,6
+Oligoarticular juvenile idiopathic arthritis,0.0003,C2931171,16
+Neuroblastoma,0.0003,C2931189,2
+Familial cerebral cavernous malformation,0.0003,C2931263,16
+Alpha-thalassemia,0.0003,C1456873,12
+Chronic actinic dermatitis,0.0003,C1510437,9
+Neuralgic amyotrophy,0.0003,C1510479,16
+Limbal stem cell deficiency,0.0003,C1561989,13
+Renal agenesis,0.0003,C1619700,16
+Catecholaminergic polymorphic ventricular tachycardia,0.0003,C1631597,4
+Mayer-Rokitansky-Küster-Hauser syndrome,0.0003,C1698581,10
+Asherman syndrome,0.0003,C1704274,10
+Alopecia totalis,0.0003,C0263504,1
+Alopecia universalis,0.0003,C0263505,4
+Bullous pemphigoid,0.0003,C0030805,10
+Placental insufficiency,0.0003,C0032051,20
+Polycythemia vera,0.0003,C0032463,27
+Familial adenomatous polyposis,0.0003,C0032580,35
+Preeclampsia,0.0003,C0032914,23
+Idiopathic intracranial hypertension,0.0003,C0033845,21
+Retinitis pigmentosa,0.0003,C0035334,26
+Retinopathy of prematurity,0.0003,C0035344,8
+Romano-Ward syndrome,0.0003,C0035828,12
+Mucopolysaccharidosis type 4,0.0003,C0086651,34
+Iniencephaly,0.0003,C0152234,31
+Central retinal vein occlusion,0.0003,C0154841,12
+Nasolacrimal duct cyst,0.0003,C0155241,18
+X-linked adrenoleukodystrophy,0.0003,C0162309,36
+Acute liver failure,0.0003,C0162557,47
+1p36 deletion syndrome,0.0003,C1842870,99
+American trypanosomiasis,0.000194875,C0041234,26
+Systemic sclerosis,0.000175,C0036421,55
+Infantile spasms syndrome,0.000175,C0037769,6
+Progressive supranuclear palsy,0.000175,C0038868,26
+Hereditary hemorrhagic telangiectasia,0.000175,C0039445,34
+Truncus arteriosus,0.000175,C0041207,31
+Oculocutaneous albinism,0.000175,C0078918,23
+Juvenile idiopathic arthritis,0.000175,C3495559,25
+Williams syndrome,0.000175,C0175702,187
+Smith-Lemli-Opitz syndrome,0.000175,C2713347,105
+Best vitelliform macular dystrophy,0.000175,C2745945,6
+Acromegaly,0.000175,C0001206,60
+Congenital adrenal hyperplasia,0.000175,C0001627,8
+Amyotrophic lateral sclerosis,0.000175,C0002736,19
+Autoimmune hemolytic anemia,0.000175,C0002880,16
+Ataxia-telangiectasia,0.000175,C0004135,37
+Isolated biliary atresia,0.000175,C0005411,25
+Boutonneuse fever,0.000175,C0006060,22
+Choanal atresia,0.000175,C0008297,13
+Systemic mastocytosis,0.000175,C0221013,34
+Dermatomyositis,0.000175,C0221056,48
+Congenital diaphragmatic hernia,0.000175,C0235833,8
+Facioscapulohumeral dystrophy,0.000175,C0238288,10
+Autoimmune hepatitis,0.000175,C0241910,29
+Multiple system atrophy,0.000175,C0393571,25
+Hereditary neuropathy with liability to pressure palsies,0.000175,C0393814,10
+Chronic inflammatory demyelinating polyneuropathy,0.000175,C0393819,14
+Immune thrombocytopenia,0.000175,C0398650,10
+Primary biliary cholangitis,0.000175,C0859942,32
+Idiopathic achalasia,0.000175,C0859976,8
+Congenital isolated hyperinsulinism,0.000175,C3888018,4
+Omphalocele,0.000175,C0795690,2
+Addison disease,0.000175,C0271737,46
+Mastocytosis,0.000175,C0334664,28
+Isolated split hand-split foot malformation,0.000175,C0265554,6
+Duodenal atresia,0.000175,C0266174,5
+Atresia of small intestine,0.000175,C0266175,9
+AL amyloidosis,0.000175,C0268381,40
+Histidinemia,0.000175,C0268642,7
+Cystinuria,0.000175,C0268646,5
+Duchenne muscular dystrophy,0.000175,C0013264,15
+Trisomy 18,0.000175,C0152096,67
+Hypoplastic left heart syndrome,0.000175,C0152101,8
+Porphyria cutanea tarda,0.000175,C0162566,30
+Angelman syndrome,0.000175,C0162635,70
+Wilson disease,0.000175,C0019202,32
+Trisomy 13,0.000175,C2936830,59
+Dysbetalipoproteinemia,0.000175,C0020479,23
+Biotinidase deficiency,0.000175,C1854698,35
+Giant cell arteritis,0.000175,C1956391,55
+Pemphigus vulgaris,0.000175,C0030809,10
+Isolated Pierre Robin syndrome,0.000175,C0031900,6
+Rett syndrome,0.000175,C0035372,27
+Arthrogryposis multiplex congenita,0.000175,C2931264,15
+Tricuspid atresia,0.000175,C0243002,10
+Meckel syndrome,0.000175,C0265215,45
+Tibial muscular dystrophy,0.000175,C1838244,18
+Idiopathic pulmonary fibrosis,0.000175,C1800706,8
+Hermansky-Pudlak syndrome,0.0001525,C0079504,38
+Burkitt lymphoma,0.0001525,C0079770,13
+Sjögren-Larsson syndrome,0.0001525,C0037231,28
+Fabry disease,0.0001525,C0002986,65
+X-linked hypohidrotic ectodermal dysplasia,0.0001525,C0162359,14
+Acute intermittent porphyria,0.0001525,C0162565,48
+Isolated permanent neonatal diabetes mellitus,0.0001525,C1833104,34
+Corpus callosum agenesis-neuronopathy syndrome,0.0001505,C0795950,14
+Tyrosinemia type 1,0.00010125,C0268490,6
+Tay-Sachs disease,0.00010125,C1848922,67
+Granulomatosis with polyangiitis,0.00010125,C3495801,66
+Duchenne and Becker muscular dystrophy,0.00010125,C3542021,13
+"Renal agenesis, bilateral",0.00010125,C1609433,18
+Primary sclerosing cholangitis,0.00010125,C0566602,52
+Classic homocystinuria,0.00010125,C0751202,42
+Fetal valproate spectrum disorder,0.00010125,C0236026,8
+Medium chain acyl-CoA dehydrogenase deficiency,0.00010125,C0220710,34
+Mucopolysaccharidosis type 1,0.00010125,C2713321,57
+GM1 gangliosidosis,0.00010125,C2718068,84
+Sirenomelia,0.00010125,C0037205,10
+Classic galactosemia,0.00010125,C0268151,51
+Annular pancreas,0.00010125,C0149955,3
+Congenital pulmonary airway malformation,0.00010125,C0158641,5
+Huntington disease,0.00010125,C0020179,44
+Proximal myotonic myopathy,0.00010125,C2931689,2
+Glycogen storage disease due to acid maltase deficiency,0.00010125,C0017921,57
+Ebstein malformation of the tricuspid valve,0.00010125,C0013481,18
+Stickler syndrome,0.00010125,C0265253,67
+Neuromyelitis optica spectrum disorder,0.00010125,C0027873,14
+Phenylketonuria,0.00010125,C0031485,3
+Mucolipidosis type II,0.00007675,C2931894,61
+Monosomy 5p,0.00005,C2931860,27
+Acatalasemia,0.00005,C2931868,16
+Pfeiffer syndrome,0.00005,C2931888,22
+"46,XX testicular disorder of sex development",0.00005,C2936419,4
+"46,XY complete gonadal dysgenesis",0.00005,C2936694,4
+"48,XXYY syndrome",0.00005,C2936741,61
+Lysosomal acid lipase deficiency,0.00005,C2936797,49
+Classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency,0.00005,C2936858,45
+Glycogen storage disease due to glycogen debranching enzyme deficiency,0.00005,C2936915,7
+Pulmonary arterial hypertension,0.00005,C2973725,15
+Juvenile glaucoma,0.00005,C2981140,14
+Kaposi sarcoma,0.00005,C0036220,26
+Scimitar syndrome,0.00005,C0036400,36
+Localized scleroderma,0.00005,C0036420,49
+Sturge-Weber syndrome,0.00005,C0038505,37
+Classic progressive supranuclear palsy syndrome,0.00005,C0038868,27
+Thanatophoric dysplasia,0.00005,C0039743,41
+Thymoma,0.00005,C0040100,31
+Tuberous sclerosis complex,0.00005,C0041341,60
+Tularemia,0.00005,C0041351,29
+Niemann-Pick disease type C,0.00005,C0220756,81
+Cushing disease,0.00005,C0221406,52
+Porphyria,0.00005,C0235387,23
+Childhood disintegrative disorder,0.00005,C0236791,16
+Medullary thyroid carcinoma,0.00005,C0238462,13
+Smith-Magenis syndrome,0.00005,C0795864,75
+Kabuki syndrome,0.00005,C0796004,63
+Zellweger syndrome,0.00005,C0043459,54
+Zollinger-Ellison syndrome,0.00005,C0043515,31
+Severe combined immunodeficiency,0.00005,C0085110,18
+Adult-onset Still disease,0.00005,C0085253,28
+Alagille syndrome,0.00005,C0085280,43
+Li-Fraumeni syndrome,0.00005,C0085390,33
+Reactive arthritis,0.00005,C0085435,26
+Autosomal recessive polycystic kidney disease,0.00005,C0085548,47
+Polymyositis,0.00005,C0085655,41
+Large congenital melanocytic nevus,0.00005,C1842036,14
+Neurofibromatosis type 2,0.00005,C1136041,45
+Recurrent respiratory papillomatosis,0.00005,C1168198,20
+Tracheal agenesis,0.00005,C1261567,5
+SUNCT syndrome,0.00005,C1262087,16
+Acquired idiopathic sideroblastic anemia,0.00005,C1264195,27
+Inherited epidermolysis bullosa,0.00005,C1274224,16
+Acute interstitial pneumonia,0.00005,C1279945,22
+Butyrylcholinesterase deficiency,0.00005,C1283400,8
+Systemic mastocytosis with associated hematologic neoplasm,0.00005,C1301365,41
+Severe combined immunodeficiency due to complete RAG1/2 deficiency,0.00005,C1832322,26
+Mayer-Rokitansky-Küster-Hauser syndrome type 2,0.00005,C1832817,12
+Atypical progressive supranuclear palsy syndrome,0.00005,C1850077,26
+EEC syndrome,0.00005,C1851841,53
+Cryoglobulinemic vasculitis,0.00005,C1852456,29
+Pulmonary atresia-intact ventricular septum syndrome,0.00005,C0344975,5
+Malignant peritoneal mesothelioma,0.00005,C0346109,10
+Uveal melanoma,0.00005,C0346388,15
+PMM2-CDG,0.00005,C0349653,82
+Dengue fever,0.00005,C0376300,22
+Early-onset cerebellar ataxia with retained tendon reflexes,0.00005,C0393520,24
+Early infantile epileptic encephalopathy,0.00005,C0393706,52
+Posterior urethral valve,0.00005,C0542520,22
+Neurocutaneous melanocytosis,0.00005,C0544862,27
+Mantle cell lymphoma,0.00005,C0555202,9
+Isolated epispadias,0.00005,C0563449,5
+Gyrate atrophy of choroid and retina,0.00005,C0599035,15
+Nephronophthisis,0.00005,C0687120,3
+Central diabetes insipidus,0.00005,C0687720,17
+Cholangiocarcinoma,0.00005,C0740277,8
+Dravet syndrome,0.00005,C0751122,44
+Leigh syndrome,0.00005,C0751267,93
+X-linked Emery-Dreifuss muscular dystrophy,0.00005,C0751337,42
+Kyphoscoliotic Ehlers-Danlos syndrome due to lysyl hydroxylase 1 deficiency,0.00005,C0268342,57
+Gitelman syndrome,0.00005,C0268450,64
+Oculocutaneous albinism type 1,0.00005,C0268494,18
+Ornithine transcarbamylase deficiency,0.00005,C0268542,6
+Argininosuccinic aciduria,0.00005,C0268547,11
+Sarcosinemia,0.00005,C0268563,22
+Isovaleric acidemia,0.00005,C0268575,3
+3-methylcrotonyl-CoA carboxylase deficiency,0.00005,C0268600,10
+Cystathioninuria,0.00005,C0268616,8
+Lysinuric protein intolerance,0.00005,C0268647,62
+Iminoglycinuria,0.00005,C0268654,6
+Mowat-Wilson syndrome,0.00005,C1856113,132
+NARP syndrome,0.00005,C1328349,27
+Pleural mesothelioma,0.00005,C1377913,15
+Systemic-onset juvenile idiopathic arthritis,0.00005,C1384600,15
+Apert syndrome,0.00005,C1510455,48
+Currarino syndrome,0.00005,C1531773,9
+Central areolar choroidal dystrophy,0.00005,C1536451,12
+Alport syndrome,0.00005,C1567741,34
+Usher syndrome type 2,0.00005,C1568249,23
+Glioblastoma,0.00005,C1621958,14
+Macular corneal dystrophy,0.00005,C1636149,11
+Milroy disease,0.00005,C1704423,18
+Hypohidrotic ectodermal dysplasia,0.00005,C1706004,31
+VACTERL/VATER association,0.00005,C1735591,41
+Fragile X-associated tremor/ataxia syndrome,0.00005,C3164069,31
+Waardenburg syndrome,0.00005,C3266898,30
+Enthesitis-related juvenile idiopathic arthritis,0.00005,C3495919,31
+X-linked hypophosphatemia,0.00005,C3540852,37
+Canavan disease,0.00005,C3542499,18
+Congenital alveolar capillary dysplasia,0.00005,C2677362,23
+Hereditary angioedema type 1,0.00005,C2717906,24
+Spondyloepiphyseal dysplasia congenita,0.00005,C2745959,38
+Juvenile neuronal ceroid lipofuscinosis,0.00005,C0751383,40
+Cerebral autosomal dominant arteriopathy-subcortical infarcts-leukoencephalopathy,0.00005,C0751587,37
+Semilobar holoprosencephaly,0.00005,C0751617,68
+Progressive non-fluent aphasia,0.00005,C0751706,30
+Glycine encephalopathy,0.00005,C0751748,13
+Citrullinemia type I,0.00005,C0751751,28
+Progressive myoclonic epilepsy type 1,0.00005,C0751785,10
+Spinocerebellar ataxia type 1,0.00005,C0752120,35
+Spinocerebellar ataxia type 2,0.00005,C0752121,24
+Jacobsen syndrome,0.00005,C0795841,76
+Trisomy 12p,0.00005,C0795845,31
+Dyschromatosis symmetrica hereditaria,0.00005,C0406775,4
+Psoriasis-related juvenile idiopathic arthritis,0.00005,C0409672,23
+Neonatal lupus erythematosus,0.00005,C0409979,32
+"Congenital muscular dystrophy, Fukuyama type",0.00005,C0410174,30
+X-linked centronuclear myopathy,0.00005,C0410203,19
+Hypochondroplasia,0.00005,C0410529,20
+Pseudoachondroplasia,0.00005,C0410538,43
+Lobar holoprosencephaly,0.00005,C0431362,68
+Alobar holoprosencephaly,0.00005,C0431363,68
+"Short rib-polydactyly syndrome, Verma-Naumoff type",0.00005,C0432197,47
+17q21.31 microdeletion syndrome,0.00005,C1864871,122
+Monosomy 18p,0.00005,C0432442,38
+Adenine phosphoribosyltransferase deficiency,0.00005,C3665382,17
+Acquired generalized lipodystrophy,0.00005,C3665770,28
+Inverted duplicated chromosome 15 syndrome,0.00005,C3711376,41
+Very long chain acyl-CoA dehydrogenase deficiency,0.00005,C3887523,38
+Autosomal dominant hyper-IgE syndrome,0.00005,C3887645,35
+Early-onset generalized limb-onset dystonia,0.00005,C3888090,5
+GRACILE syndrome,0.00005,C1864002,11
+Muenke syndrome,0.00005,C1864436,21
+Worster-Drought syndrome,0.00005,C0796204,8
+Gorlin syndrome,0.00005,C0812437,29
+Moebius syndrome,0.00005,C0853240,42
+Benign schwannoma,0.00005,C0854906,24
+Becker muscular dystrophy,0.00005,C0917713,15
+Leber hereditary optic neuropathy,0.00005,C0917796,14
+Cerebral arteriovenous malformation,0.00005,C0917804,3
+Androgen insensitivity syndrome,0.00005,C0936016,15
+"46,XX gonadal dysgenesis",0.00005,C0949595,26
+Saethre-Chotzen syndrome,0.00005,C0175699,52
+"Autoimmune hemolytic anemia, cold type",0.00005,C0175816,8
+Klatskin tumor,0.00005,C0206702,9
+Classical Ehlers-Danlos syndrome,0.00005,C0220679,60
+Diastrophic dysplasia,0.00005,C0220726,43
+Fryns syndrome,0.00005,C0220730,51
+Neurogenic arthrogryposis multiplex congenita,0.00005,C1859721,31
+Leber congenital amaurosis,0.00005,C0339527,16
+Usher syndrome type 1,0.00005,C0339533,22
+Carnitine palmitoyltransferase II deficiency,0.00005,C0342790,40
+Microscopic polyangiitis,0.00005,C0343192,37
+Congenitally corrected transposition of the great arteries,0.00005,C0344616,46
+Eosinophilic gastroenteritis,0.00005,C2062326,21
+Femur-fibula-ulna complex,0.00005,C2363814,10
+Antisynthetase syndrome,0.00005,C2609059,28
+Caudal regression sequence,0.00005,C2609260,29
+Charcot-Marie-Tooth disease type 1B,0.00005,C0270912,14
+X-linked retinoschisis,0.00005,C0271091,6
+Usher syndrome,0.00005,C0271097,34
+Pendred syndrome,0.00005,C0271829,15
+"Autoimmune hemolytic anemia, warm type",0.00005,C0272118,16
+Familial hemophagocytic lymphohistiocytosis,0.00005,C0272199,41
+Severe hemophilia A,0.00005,C0272322,25
+Early-onset autosomal dominant Alzheimer disease,0.00005,C0276496,25
+Squamous cell carcinoma of the esophagus,0.00005,C0279626,8
+Adenocarcinoma of the esophagus,0.00005,C0279628,10
+Neonatal adrenoleukodystrophy,0.00005,C0282525,29
+Rhizomelic chondrodysplasia punctata,0.00005,C0282529,20
+Congenital disorder of glycosylation,0.00005,C0282577,26
+Porencephaly,0.00005,C0302892,8
+Undifferentiated pleomorphic sarcoma,0.00005,C0334463,8
+Posterior polymorphous corneal dystrophy,0.00005,C0339284,18
+Oculocutaneous albinism type 1B,0.00005,C1847024,17
+Classic glucose transporter type 1 deficiency syndrome,0.00005,C1847501,33
+Waardenburg syndrome type 1,0.00005,C1847800,32
+Oculocutaneous albinism type 4,0.00005,C1847836,14
+Hereditary spastic paraplegia,0.00005,C2931355,6
+Sternal cleft,0.00005,C2931507,4
+T-B+ severe combined immunodeficiency due to gamma chain deficiency,0.00005,C2931540,27
+Poland syndrome,0.00005,C0032357,55
+Prader-Willi syndrome,0.00005,C0032897,71
+Pseudomyxoma peritonei,0.00005,C0033822,12
+Pseudoxanthoma elasticum,0.00005,C0033847,42
+Retinoblastoma,0.00005,C0035335,23
+IgG4-related retroperitoneal fibrosis,0.00005,C0035357,40
+Rubinstein-Taybi syndrome,0.00005,C0035934,45
+Paroxysmal nocturnal hemoglobinuria,0.00005,C0024790,34
+Meconium aspiration syndrome,0.00005,C0025048,16
+Medulloblastoma,0.00005,C0025149,34
+Mal de Meleda,0.00005,C0025221,10
+Multiple endocrine neoplasia type 1,0.00005,C0025267,66
+Multiple endocrine neoplasia type 2,0.00005,C0025268,39
+Meningococcal meningitis,0.00005,C0025294,31
+Mercury poisoning,0.00005,C0025427,21
+Mixed connective tissue disease,0.00005,C0026272,41
+Multiple epiphyseal dysplasia,0.00005,C0026760,27
+Primary myelofibrosis,0.00005,C0026987,30
+Nail-patella syndrome,0.00005,C0027341,67
+Osteosarcoma,0.00005,C0029463,10
+Mucous membrane pemphigoid,0.00005,C0030804,7
+Hereditary angioedema,0.00005,C0019243,8
+Von Hippel-Lindau disease,0.00005,C0019562,37
+Hydranencephaly,0.00005,C0020225,26
+Congenital glaucoma,0.00005,C0020302,4
+Darier disease,0.00005,C0022595,13
+Isolated Klippel-Feil syndrome,0.00005,C0022738,24
+Chronic myeloid leukemia,0.00005,C0023473,11
+Krabbe disease,0.00005,C0023521,23
+Spinocerebellar ataxia type 3,0.00005,C0024408,16
+Waldenström macroglobulinemia,0.00005,C0024419,45
+Malaria,0.00005,C0024530,16
+Non-epidermolytic palmoplantar keratoderma,0.00005,C1838359,6
+Kennedy disease,0.00005,C1839259,13
+Marden-Walker syndrome,0.00005,C0796033,61
+"46,XX ovotesticular disorder of sex development",0.00005,C2748895,14
+Glycogen storage disease due to liver phosphorylase kinase deficiency,0.00005,C2751643,48
+Glycogen storage disease due to glucose-6-phosphatase deficiency,0.00005,C2919796,11
+Nijmegen breakage syndrome,0.00005,C2930831,49
+Immunoglobulin A vasculitis,0.00005,C0086922,34
+Cutaneous small vessel vasculitis,0.00005,C0151436,14
+Thyroid hypoplasia,0.00005,C0151516,15
+Achromatopsia,0.00005,C0152200,15
+Tritanopia,0.00005,C0155017,5
+Isolated polycystic liver disease,0.00005,C0158683,14
+Hidrotic ectodermal dysplasia,0.00005,C0162361,24
+Kallmann syndrome,0.00005,C0162809,43
+Juvenile absence epilepsy,0.00005,C2930918,8
+Cat-eye syndrome,0.00005,C0265493,20
+"48,XXXY syndrome",0.00005,C0265498,62
+Isolated trigonocephaly,0.00005,C0265535,6
+Congenital tracheal stenosis,0.00005,C0265767,32
+Congenital lobar emphysema,0.00005,C0265797,3
+Colonic atresia,0.00005,C0266190,8
+Schizencephaly,0.00005,C0266484,10
+Glycogen storage disease due to phosphorylase kinase deficiency,0.00005,C0268147,45
+Primary hyperoxaluria type 1,0.00005,C0268164,19
+Craniopharyngioma,0.00005,C0010276,42
+Crigler-Najjar syndrome,0.00005,C0010324,11
+Cushing syndrome,0.00005,C0010481,40
+Cystinosis,0.00005,C0010690,33
+Isolated Dandy-Walker malformation,0.00005,C0010964,9
+Ollier disease,0.00005,C0014084,20
+Friedreich ataxia,0.00005,C0016719,33
+Hereditary fructose intolerance,0.00005,C0016751,24
+Galactosemia,0.00005,C0016952,44
+Gardner syndrome,0.00005,C0017097,29
+Graft versus host disease,0.00005,C0018133,36
+Hallermann-Streiff syndrome,0.00005,C0018522,50
+Hartnup disease,0.00005,C0018609,28
+Hemimelia,0.00005,C0018987,6
+Multiple symmetric lipomatosis,0.00005,C2931642,10
+Blue cone monochromatism,0.00005,C2931753,6
+Atypical hemolytic uremic syndrome,0.00005,C2931788,11
+Ring chromosome 13 syndrome,0.00005,C2931808,41
+Weill-Marchesani syndrome,0.00005,C0265313,16
+CHARGE syndrome,0.00005,C0265354,88
+Tetrasomy 12p,0.00005,C0265449,29
+MALT lymphoma,0.00005,C0242647,17
+Pemphigus foliaceus,0.00005,C0263313,16
+Solar urticaria,0.00005,C0263610,14
+Eosinophilic fasciitis,0.00005,C0264005,16
+Hydrocephalus with stenosis of the aqueduct of Sylvius,0.00005,C0265216,15
+Miller-Dieker syndrome,0.00005,C0265219,18
+Walker-Warburg syndrome,0.00005,C0265221,49
+Schinzel-Giedion syndrome,0.00005,C0265227,89
+BOR syndrome,0.00005,C0265234,19
+Coffin-Lowry syndrome,0.00005,C0265252,72
+Lethal congenital contracture syndrome type 1,0.00005,C1854664,18
+Amoebic keratitis,0.00005,C0000880,15
+Achondrogenesis,0.00005,C0001079,23
+Achondroplasia,0.00005,C0001080,36
+Amyloidosis,0.00005,C0002726,23
+Isolated aniridia,0.00005,C0003076,7
+Bartter syndrome,0.00005,C0004775,2
+Bladder exstrophy,0.00005,C0005689,13
+Bloom syndrome,0.00005,C0005859,60
+Cutaneous neuroendocrine carcinoma,0.00005,C0007129,12
+Cholesteryl ester storage disease,0.00005,C0008384,13
+Choroideremia,0.00005,C0008525,8
+Hemophilia B,0.00005,C0008533,12
+Eosinophilic granulomatosis with polyangiitis,0.00005,C0008728,53
+Enlarged parietal foramina,0.00005,C1868598,18
+Wolf-Hirschhorn syndrome,0.00005,C1956097,85
+Gaucher disease type 1,0.00005,C1961835,34
+Acute inflammatory demyelinating polyradiculoneuropathy,0.00005,C1963929,12
+Primary lateral sclerosis,0.00005,C1968845,18
+Long chain 3-hydroxyacyl-CoA dehydrogenase deficiency,0.00005,C1969443,24
+Mitochondrial trifunctional protein deficiency,0.00005,C1969443,44
+Legius syndrome,0.00005,C1969623,38
+Hydrolethalus,0.00005,C2931104,27
+Monosomy 18q,0.00005,C2931249,65
+FKRP-related  limb-girdle muscular dystrophy R9,0.0000275,C1846672,15
+Combined deficiency of factor V and factor VIII,0.0000275,C1856883,17
+Infant botulism,0.0000275,C0238027,28
+Mucolipidosis type IV,0.0000275,C0238286,27
+Hypokalemic periodic paralysis,0.0000275,C0238358,15
+Aspartylglucosaminuria,0.0000275,C2931840,43
+Thomsen and Becker disease,0.0000275,C2936781,2
+Scrub typhus,0.0000275,C0036472,27
+Takayasu arteritis,0.0000275,C0039263,38
+Werner syndrome,0.0000275,C0043119,59
+Wolfram syndrome,0.0000275,C0043207,39
+Xeroderma pigmentosum,0.0000275,C0043346,59
+Epidermolysis bullosa simplex,0.0000275,C0079298,14
+Maple syrup urine disease,0.0000275,C0268576,11
+Pyridoxine-dependent epilepsy,0.0000275,C1849508,33
+Multifocal motor neuropathy,0.0000275,C0393847,12
+Cornelia de Lange syndrome,0.0000275,C0270972,100
+Shwachman-Diamond syndrome,0.0000275,C0272170,63
+Metachromatic leukodystrophy,0.0000275,C2713319,40
+Mucopolysaccharidosis type 2,0.0000275,C2718304,72
+Usher syndrome type 3,0.0000275,C1568248,17
+Albers-Schönberg osteopetrosis,0.0000275,C3179239,29
+Idiopathic pulmonary arterial hypertension,0.0000275,C3203102,17
+Autoimmune polyendocrinopathy type 1,0.0000275,C3494489,16
+Inclusion body myositis,0.0000275,C0751713,13
+Spinocerebellar ataxia type 6,0.0000275,C0752124,17
+Bardet-Biedl syndrome,0.0000275,C0752166,25
+Budd-Chiari syndrome,0.0000275,C0856761,18
+"Glycogen storage disease due to acid maltase deficiency, infantile onset",0.0000275,C3888924,28
+Incessant infant ventricular tachycardia,0.0000275,C0340487,10
+Hemolytic anemia due to red cell pyruvate kinase deficiency,0.0000275,C0340968,14
+X-linked recessive ocular albinism,0.0000275,C0342684,14
+Silver-Russell syndrome,0.0000275,C0175693,53
+Sotos syndrome,0.0000275,C0175695,100
+Van der Woude syndrome,0.0000275,C0175697,6
+Aicardi syndrome,0.0000275,C0175713,50
+Calpain-3-related  limb-girdle muscular dystrophy R1,0.0000275,C1869123,20
+Cleidocranial dysplasia,0.0000275,C0008928,55
+Incontinentia pigmenti,0.0000275,C2930820,67
+Neuronal ceroid lipofuscinosis,0.0000275,C0027877,19
+Moyamoya disease,0.0000275,C2931384,5
+Orofaciodigital syndrome type 1,0.0000275,C2931426,65
+Polyarteritis nodosa,0.0000275,C0031036,24
+Peutz-Jeghers syndrome,0.0000275,C0031269,32
+Sandhoff disease,0.0000275,C0036161,19
+Kearns-Sayre syndrome,0.0000275,C0022541,14
+Menkes disease,0.0000275,C0022716,55
+Lambert-Eaton myasthenic syndrome,0.0000275,C0022972,12
+Lead poisoning,0.0000275,C0023176,57
+Mucopolysaccharidosis type 3,0.0000275,C0086648,100
+Porphyria variegata,0.0000275,C0162532,47
+Autosomal erythropoietic protoporphyria,0.0000275,C0162568,10
+Alkaptonuria,0.0000275,C2931645,30
+Infantile neuronal ceroid lipofuscinosis,0.0000275,C2931673,34
+Fanconi anemia,0.0000275,C0015625,106
+Gaucher disease,0.0000275,C0017205,68
+Jeune syndrome,0.0000275,C0265275,24
+Prune belly syndrome,0.0000275,C0265363,34
+Treacher-Collins syndrome,0.0000275,C0265241,61
+Cerebrotendinous xanthomatosis,0.0000255,C0238052,88
+Jalili syndrome,0.0000255,C3495589,9
+Congenital rubella syndrome,0.00001425,C0035921,31
+Mucopolysaccharidosis type 6,0.00001425,C0026709,26
+Common variable immunodeficiency,0.00001425,C0009447,26
+Late infantile neuronal ceroid lipofuscinosis,0.00001425,C0022340,52
+Hurler syndrome,0.00001425,C0086795,58
+Aortic arch interruption,0.000005,C0152419,24
+Nephrogenic diabetes insipidus,0.000005,C0162283,21
+Hereditary coproporphyria,0.000005,C0162531,31
+Acquired partial lipodystrophy,0.000005,C0220989,17
+Cyclic neutropenia,0.000005,C0221023,23
+X-linked agammaglobulinemia,0.000005,C0221026,35
+Acrodermatitis enteropathica,0.000005,C0221036,31
+Pycnodysostosis,0.000005,C0238402,64
+Anaplastic thyroid carcinoma,0.000005,C0238461,23
+McCune-Albright syndrome,0.000005,C0242292,49
+Hereditary chronic pancreatitis,0.000005,C0341474,8
+Maternally-inherited diabetes and deafness,0.000005,C0342289,22
+Homozygous familial hypercholesterolemia,0.000005,C0342881,31
+Alström syndrome,0.000005,C0268425,106
+Holocarboxylase synthetase deficiency,0.000005,C0268581,20
+Aggressive systemic mastocytosis,0.000005,C1112486,33
+Laminin subunit alpha 2-related congenital muscular dystrophy,0.000005,C1263858,52
+Cardiofaciocutaneous syndrome,0.000005,C1275081,79
+Tumor necrosis factor receptor 1 associated periodic syndrome,0.000005,C1275126,40
+Ondine syndrome,0.000005,C1275808,10
+Fetal akinesia deformation sequence,0.000005,C1276035,24
+Imerslund-Gräsbeck syndrome,0.000005,C1306856,25
+Autosomal recessive malignant osteopetrosis,0.000005,C1318518,43
+Acute monoblastic/monocytic leukemia,0.000005,C1318544,17
+Congenital amegakaryocytic thrombocytopenia,0.000005,C1327915,11
+Pyruvate carboxylase deficiency,0.000005,C2931141,56
+Tetrasomy 18p,0.000005,C0795868,18
+Wiskott-Aldrich syndrome,0.000005,C0043194,57
+Wolman disease,0.000005,C0043208,17
+Autosomal dominant epidermolytic ichthyosis,0.000005,C0079153,11
+Congenital non-bullous ichthyosiform erythroderma,0.000005,C0079154,13
+Epidermolysis bullosa acquisita,0.000005,C0079293,10
+Dystrophic epidermolysis bullosa,0.000005,C0079294,50
+Severe generalized junctional epidermolysis bullosa,0.000005,C0079683,59
+Localized epidermolysis bullosa simplex,0.000005,C0080333,20
+Hurler-Scheie syndrome,0.000005,C0086431,17
+Isolated agammaglobulinemia,0.000005,C0086438,28
+Cloacal exstrophy,0.000005,C1850321,24
+Miyoshi myopathy,0.000005,C1850808,23
+Dysferlin-related  limb-girdle muscular dystrophy R2,0.000005,C1850889,27
+Dopa-responsive dystonia,0.000005,C1851920,48
+Transient neonatal diabetes mellitus,0.000005,C1832386,20
+Autosomal dominant optic atrophy plus syndrome,0.000005,C1832466,25
+Delta-sarcoglycan-related  limb-girdle muscular dystrophy R6,0.000005,C1832525,6
+Syndromic diarrhea,0.000005,C1857276,49
+Pentalogy of Cantrell,0.000005,C0559483,25
+Barth syndrome,0.000005,C0574083,4
+Parathyroid carcinoma,0.000005,C0687150,37
+Juvenile Huntington disease,0.000005,C0751208,23
+"Metachromatic leukodystrophy, juvenile form",0.000005,C0751276,34
+"Metachromatic leukodystrophy, late infantile form",0.000005,C0751278,32
+"Metachromatic leukodystrophy, adult form",0.000005,C0751279,45
+Distal myopathy,0.000005,C0751336,1
+Neurodegeneration with brain iron accumulation,0.000005,C2931845,10
+Blackfan-Diamond anemia,0.000005,C2931850,55
+Beta-mannosidosis,0.000005,C2931893,6
+Pure autonomic failure,0.000005,C2931939,9
+Cryptogenic organizing pneumonia,0.000005,C0242770,18
+Seckel syndrome,0.000005,C0265202,26
+Fraser syndrome,0.000005,C0265233,58
+Nager syndrome,0.000005,C0265245,29
+Townes-Brocks syndrome,0.000005,C0265246,66
+Crouzon syndrome-acanthosis nigricans syndrome,0.000005,C2677099,28
+Birt-Hogg-Dubé syndrome,0.000005,C0346010,10
+Pituitary carcinoma,0.000005,C0346300,21
+TSH-secreting pituitary adenoma,0.000005,C0346303,63
+Idiopathic aplastic anemia,0.000005,C0348890,10
+Severe combined immunodeficiency due to adenosine deaminase deficiency,0.000005,C0392607,18
+Anti-glomerular basement membrane disease,0.000005,C0403529,19
+Progressive pseudorheumatoid arthropathy of childhood,0.000005,C0432215,41
+Infantile myofibromatosis,0.000005,C0432284,28
+Thalidomide embryopathy,0.000005,C0432365,17
+Ataxia with vitamin E deficiency,0.000005,C1848533,28
+Bartsocas-Papas syndrome,0.000005,C1849718,26
+Laron syndrome,0.000005,C0271568,29
+Evans syndrome,0.000005,C0272126,13
+Paroxysmal cold hemoglobinuria,0.000005,C0272129,11
+X-linked dominant chondrodysplasia punctata,0.000005,C0282102,43
+Landau-Kleffner syndrome,0.000005,C0282512,37
+Alternating hemiplegia of childhood,0.000005,C0338488,59
+Autosomal dominant spastic paraplegia type 4,0.000005,C1866855,19
+Gamma-sarcoglycan-related  limb-girdle muscular dystrophy R5,0.000005,C0410173,24
+"Congenital muscular dystrophy, Ullrich type",0.000005,C0410179,31
+Emery-Dreifuss muscular dystrophy,0.000005,C0410189,42
+Chronic nonbacterial osteomyelitis/Chronic recurrent multifocal osteomyelitis,0.000005,C0410422,27
+Proximal Xq28 duplication syndrome,0.000005,C3714043,18
+Adamantinoma,0.000005,C1367554,3
+Retinitis punctata albescens,0.000005,C1405854,16
+Generalized pseudohypoaldosteronism type 1,0.000005,C1449843,19
+POEMS syndrome,0.000005,C1510415,46
+Beta-ketothiolase deficiency,0.000005,C1536500,41
+Glycogen storage disease due to glycogen branching enzyme deficiency,0.000005,C1563715,28
+Familial paroxysmal ataxia,0.000005,C1720416,14
+Pitt-Hopkins syndrome,0.000005,C1970431,68
+Autoimmune pulmonary alveolar proteinosis,0.000005,C1970472,15
+Autosomal recessive dopa-responsive dystonia,0.000005,C2673535,32
+Tibial aplasia-ectrodactyly syndrome,0.000005,C1861553,18
+Pyridoxal phosphate-responsive seizures,0.000005,C1864723,27
+Mitochondrial neurogastrointestinal encephalomyopathy,0.000005,C0872218,46
+6-pyruvoyl-tetrahydropterin synthase deficiency,0.000005,C0878676,31
+Lymphangioleiomyomatosis,0.000005,C0751674,36
+Dentatorubral pallidoluysian atrophy,0.000005,C0751781,25
+Lafora disease,0.000005,C0751783,31
+Congenital myasthenic syndrome,0.000005,C0751882,64
+"Pelizaeus-Merzbacher disease, classic form",0.000005,C0751916,22
+Central core disease,0.000005,C0751951,22
+Spinocerebellar ataxia type 7,0.000005,C0752125,32
+Pemphigoid gestationis,0.000005,C0019343,6
+Hereditary sensory and autonomic neuropathy type 4,0.000005,C0020074,53
+Primary hyperoxaluria,0.000005,C0020501,29
+Insulinoma,0.000005,C0021670,34
+Jervell and Lange-Nielsen syndrome,0.000005,C0022387,10
+Leishmaniasis,0.000005,C0023281,24
+Leptospirosis,0.000005,C0023364,34
+Lesch-Nyhan syndrome,0.000005,C0023374,11
+Acute myelomonocytic leukemia,0.000005,C0023479,9
+Alpha-mannosidosis,0.000005,C0024748,42
+Congenital absence of upper arm and forearm with hand present,0.000005,C0031575,17
+Pityriasis rubra pilaris,0.000005,C0032027,14
+Relapsing polychondritis,0.000005,C0032453,41
+Refsum disease,0.000005,C0034960,38
+Axenfeld-Rieger syndrome,0.000005,C3495488,21
+Carnosinase deficiency,0.000005,C3495555,5
+Infantile nephropathic cystinosis,0.000005,C3537440,27
+Holt-Oram syndrome,0.000005,C0265264,29
+Metatropic dysplasia,0.000005,C0265281,26
+Greig cephalopolysyndactyly syndrome,0.000005,C0265306,22
+Dubowitz syndrome,0.000005,C0175691,81
+Johanson-Blizzard syndrome,0.000005,C0175692,37
+Aarskog-Scott syndrome,0.000005,C0175701,49
+Thrombocytopenia-absent radius syndrome,0.000005,C0175703,34
+Cold agglutinin disease,0.000005,C0175816,14
+Alpers-Huttenlocher syndrome,0.000005,C0205710,19
+Pelizaeus-Merzbacher disease,0.000005,C0205711,32
+Placental site trophoblastic tumor,0.000005,C0206666,4
+Adrenocortical carcinoma,0.000005,C0206686,22
+Paramyotonia congenita of Von Eulenburg,0.000005,C1868617,18
+Paroxysmal kinesigenic dyskinesia,0.000005,C1868682,9
+Paroxysmal non-kinesigenic dyskinesia,0.000005,C1869117,14
+Frontonasal dysplasia,0.000005,C1876203,24
+Trichothiodystrophy,0.000005,C1955934,87
+Hypoplasminogenemia,0.000005,C1968804,14
+Whipple disease,0.000005,C2930851,47
+Severe hereditary thrombophilia due to congenital protein C deficiency,0.000005,C2930896,10
+C syndrome,0.000005,C0796095,54
+Multiple acyl-CoA dehydrogenase deficiency,0.000005,C2931346,55
+Autosomal dominant spastic paraplegia type 3,0.000005,C2931355,19
+Angioosteohypertrophic syndrome,0.000005,C2931360,42
+"49,XXXXY syndrome",0.000005,C0265499,64
+Acheiropodia,0.000005,C0265559,8
+Tibial hemimelia,0.000005,C0265633,32
+Netherton syndrome,0.000005,C0265962,31
+Dyskeratosis congenita,0.000005,C0265965,62
+Glucose-galactose malabsorption,0.000005,C0268186,13
+Galactosialidosis,0.000005,C0268233,9
+Niemann-Pick disease type B,0.000005,C0268243,45
+Congenital adrenal hyperplasia due to 17-alpha-hydroxylase deficiency,0.000005,C0268285,34
+Congenital adrenal hyperplasia due to 11-beta-hydroxylase deficiency,0.000005,C0268292,26
+Acalvaria,0.000005,C2930936,14
+Familial pancreatic carcinoma,0.000005,C2931038,23
+Criss-cross heart,0.000005,C0010334,13
+Cutis laxa,0.000005,C0010495,73
+Eisenmenger syndrome,0.000005,C0013743,52
+Progressive hemifacial atrophy,0.000005,C0015458,11
+Congenital factor V deficiency,0.000005,C0015499,17
+Congenital factor VII deficiency,0.000005,C0015503,12
+Congenital factor X deficiency,0.000005,C0015519,17
+Congenital factor XI deficiency,0.000005,C0015523,9
+"Fructose-1,6-bisphosphatase deficiency",0.000005,C0016756,33
+Fucosidosis,0.000005,C0016788,31
+Chronic granulomatous disease,0.000005,C0018203,22
+Pantothenate kinase-associated neurodegeneration,0.000005,C0018523,55
+Cowden syndrome,0.000005,C0018553,57
+Beta-thalassemia,0.000005,C0005283,21
+Myoclonus-dystonia syndrome,0.000005,C1834570,9
+Oculocerebrorenal syndrome of Lowe,0.000005,C0028860,120
+Papillon-Lefèvre syndrome,0.000005,C0030360,29
+Birdshot chorioretinopathy,0.000005,C1853959,19
+MYH9-related disease,0.000005,C1854520,16
+Larsen syndrome,0.000005,C2931648,27
+Acquired angioedema,0.000005,C2931758,9
+WAGR syndrome,0.000005,C2931803,18
+Autosomal recessive spastic paraplegia type 11,0.000005,C2931821,44
+Aceruloplasminemia,0.000003,C0878682,39
+Nasu-Hakola disease,0.000003,C1857316,28
+Argininemia,0.000003,C0268548,10
+Congenital generalized lipodystrophy,0.000003,C0221032,36
+Spinocerebellar ataxia type 17,0.000003,C1846707,19
+Mucopolysaccharidosis type 7,0.000003,C0085132,26
+Stiff person spectrum disorder,0.000003,C0085292,15
+3-hydroxy-3-methylglutaric aciduria,0.000003,C1533587,54
+Andersen-Tawil syndrome,0.000003,C1563715,48
+Mucolipidosis type III,0.000003,C0033788,23
+Rabies,0.000003,C0034494,19
+Carbamoyl-phosphate synthetase 1 deficiency,0.000003,C0751753,7
+Sporadic Creutzfeldt-Jakob disease,0.000003,C0022336,27
+X-linked dystonia-parkinsonism,0.000003,C1839130,18
+Hyperkalemic periodic paralysis,0.000003,C2930895,29
+Beta-sarcoglycan-related  limb-girdle muscular dystrophy R4,0.000003,C2930900,13
+Cockayne syndrome,0.000003,C0009207,117
+Bethlem myopathy,0.000003,C1834674,37
+Fibrodysplasia ossificans progressiva,0.000003,C0016037,20
+Congenital factor XIII deficiency,0.000001,C0015530,21
+Focal dermal hypoplasia,0.000001,C0016395,68
+Glucagonoma,0.000001,C0017689,38
+Glycogen storage disease due to muscle phosphofructokinase deficiency,0.000001,C0017926,6
+Gamma-heavy chain disease,0.000001,C0018854,20
+Crimean-Congo hemorrhagic fever,0.000001,C0019099,68
+Postaxial acrofacial dysostosis,0.000001,C0265257,20
+Femoral-facial syndrome,0.000001,C0265263,36
+Lacrimoauriculodentodigital syndrome,0.000001,C0265269,61
+"Spondylometaphyseal dysplasia, Kozlowski type",0.000001,C0265280,43
+Fibrochondrogenesis,0.000001,C0265282,29
+Atelosteogenesis type I,0.000001,C0265283,31
+Dyggve-Melchior-Clausen disease,0.000001,C0265286,56
+Acromicric dysplasia,0.000001,C0265287,22
+Frontometaphyseal dysplasia,0.000001,C0265293,62
+Sclerosteosis,0.000001,C0265301,14
+Baller-Gerold syndrome,0.000001,C0265308,43
+Wyburn-Mason syndrome,0.000001,C0265321,27
+Moynahan syndrome,0.000001,C0265328,10
+Autosomal dominant hypohidrotic ectodermal dysplasia,0.000001,C0265331,15
+Tricho-dento-osseous syndrome,0.000001,C0265333,13
+Coffin-Siris syndrome,0.000001,C0265338,64
+Borjeson-Forssman-Lehmann syndrome,0.000001,C0265339,34
+Cerebrocostomandibular syndrome,0.000001,C0265342,26
+Leprechaunism,0.000001,C0265344,46
+Trisomy 9p,0.000001,C0265428,27
+"Brachyolmia, Maroteaux type",0.000001,C3159322,8
+Adult-onset autosomal dominant leukodystrophy,0.000001,C3164344,60
+Congenital factor II deficiency,0.000001,C3203356,18
+Waardenburg-Shah syndrome,0.000001,C3266898,23
+Craniosynostosis-hydrocephalus-Arnold-Chiari malformation type I-radioulnar synostosis syndrome,0.000001,C3267187,41
+Congenital bile acid synthesis defect type 4,0.000001,C3280428,26
+Congenital intrauterine infection-like syndrome,0.000001,C3489725,7
+Acrorenal syndrome,0.000001,C3495490,11
+Acrocephalopolydactyly,0.000001,C3495588,19
+Noonan syndrome-like disorder with loose anagen hair,0.000001,C3501846,29
+DNAJB6-related  limb-girdle muscular dystrophy D1,0.000001,C3501858,11
+"Mitochondrial DNA depletion syndrome, myopathic form",0.000001,C3501891,38
+Microcephaly-lymphedema-chorioretinopathy syndrome,0.000001,C3501946,66
+Atrial septal defect-atrioventricular conduction defects syndrome,0.000001,C3502353,3
+BRESEK syndrome,0.000001,C3502469,29
+3q13 microdeletion syndrome,0.000001,C2931338,17
+Autosomal recessive spastic paraplegia type 5A,0.000001,C2931356,24
+Thumb deformity-alopecia-pigmentation anomaly syndrome,0.000001,C2931366,23
+Hearing loss-familial salivary gland insensitivity to aldosterone syndrome,0.000001,C2931369,3
+Ulna hypoplasia-intellectual disability syndrome,0.000001,C2931370,20
+Umbilical cord ulceration-intestinal atresia syndrome,0.000001,C2931371,9
+Anonychia-microcephaly syndrome,0.000001,C2931373,8
+Primary hypergonadotropic hypogonadism-partial alopecia syndrome,0.000001,C2931374,41
+Extensor tendons of finger anomalies,0.000001,C2931376,6
+X-linked intellectual disability-seizures-psoriasis syndrome,0.000001,C2931381,5
+Oculocerebrocutaneous syndrome,0.000001,C2931390,40
+Cataract-intellectual disability-anal atresia-urinary defects syndrome,0.000001,C2931391,12
+Arachnodactyly-abnormal ossification-intellectual disability syndrome,0.000001,C2931398,15
+Cystic fibrosis-gastritis-megaloblastic anemia syndrome,0.000001,C2931402,18
+FLOTCH syndrome,0.000001,C2931411,9
+Foix-Chavany-Marie syndrome,0.000001,C2931412,8
+Brachytelephalangy-dysmorphism-Kallmann syndrome,0.000001,C2931421,19
+Infantile-onset ascending hereditary spastic paralysis,0.000001,C2931441,11
+Hirschsprung disease-deafness-polydactyly syndrome,0.000001,C2931452,7
+Conductive deafness-malformed external ear syndrome,0.000001,C2931454,13
+Cardiospondylocarpofacial syndrome,0.000001,C2931461,11
+Fowler urethral sphincter dysfunction syndrome,0.000001,C2931462,12
+Cystic hamartoma of lung and kidney,0.000001,C2931468,5
+Sialuria,0.000001,C2931471,36
+Pili torti-onychodysplasia syndrome,0.000001,C2931483,18
+Trichodermodysplasia-dental alterations syndrome,0.000001,C2931485,19
+MEHMO syndrome,0.000001,C2931496,25
+Corneodermatoosseous syndrome,0.000001,C2931506,20
+Steroid dehydrogenase deficiency-dental anomalies syndrome,0.000001,C2931508,4
+Non-eruption of teeth-maxillary hypoplasia-genu valgum syndrome,0.000001,C2931509,8
+Thumb stiffness-brachydactyly-intellectual disability syndrome,0.000001,C2931515,6
+X-linked intellectual disability-plagiocephaly syndrome,0.000001,C2931516,14
+Facial dysmorphism-shawl scrotum-joint laxity syndrome,0.000001,C2931522,24
+"Microcephaly-microcornea syndrome, Seemanova type",0.000001,C2931524,15
+Microcephaly-seizures-intellectual disability-heart disease syndrome,0.000001,C2931529,24
+Spontaneous periodic hypothermia,0.000001,C2931542,16
+Thin ribs-tubular bones-dysmorphism syndrome,0.000001,C2931543,8
+Eng-Strom syndrome,0.000001,C2931545,9
+Intellectual disability-polydactyly-uncombable hair syndrome,0.000001,C2931547,33
+Cardiomyopathy-cataract-hip spine disease syndrome,0.000001,C2931548,14
+Grubben-de Cock-Borghgraef syndrome,0.000001,C2931551,15
+Ring chromosome 4 syndrome,0.000001,C2931556,4
+Trisomy 4p,0.000001,C2931571,30
+Congenital muscular dystrophy-infantile cataract-hypogonadism syndrome,0.000001,C2931578,14
+Epilepsy-microcephaly-skeletal dysplasia syndrome,0.000001,C2931579,7
+Gaucher disease-ophthalmoplegia-cardiovascular calcification syndrome,0.000001,C2931585,59
+Gemignani syndrome,0.000001,C2931587,13
+Glaucoma-ectopia lentis-microspherophakia-stiff joints-short stature syndrome,0.000001,C2931588,3
+Caudal appendage-deafness syndrome,0.000001,C2931593,7
+Oculocutaneous albinism type 3,0.000001,C2931599,12
+Aase-Smith syndrome,0.000001,C0220686,14
+Hypertelorism-microtia-facial clefting syndrome,0.000001,C0220742,15
+Keratoderma hereditarium mutilans with ichthyosis,0.000001,C1858805,13
+Cleft palate-stapes fixation-oligodontia syndrome,0.000001,C1859081,9
+Verloove Vanhorick-Brubakk syndrome,0.000001,C1859082,18
+Infantile choroidocerebral calcification syndrome,0.000001,C1859092,5
+Blomstrand lethal chondrodysplasia,0.000001,C1859148,37
+Griscelli syndrome type 1,0.000001,C1859194,16
+Cerebrofaciothoracic dysplasia,0.000001,C1859252,35
+Cenani-Lenz syndrome,0.000001,C1859309,41
+Autosomal recessive palmoplantar keratoderma and congenital alopecia,0.000001,C1859316,10
+Congenital cataract-hypertrophic cardiomyopathy-mitochondrial myopathy syndrome,0.000001,C1859317,10
+Heart defects-limb shortening syndrome,0.000001,C1859327,14
+Camptodactyly-fibrous tissue hyperplasia-skeletal dysplasia syndrome,0.000001,C1859357,8
+"Campomelia, Cumming type",0.000001,C1859371,27
+Branchioskeletogenital syndrome,0.000001,C1859384,54
+"Bone dysplasia, lethal Holmgren type",0.000001,C1859407,39
+Blepharophimosis-ptosis-esotropia-syndactyly-short stature syndrome,0.000001,C1859432,13
+"Microcephalic primordial dwarfism, Montreal type",0.000001,C1859468,29
+Beemer-Ertbruggen syndrome,0.000001,C1859526,13
+Haddad syndrome,0.000001,C1859587,20
+Cooper-Jabs syndrome,0.000001,C1859591,26
+Congenital atransferrinemia,0.000001,C1859593,6
+Kuskokwim syndrome,0.000001,C1859709,10
+Arthrogryposis multiplex congenita-whistling face syndrome,0.000001,C1859711,24
+Arterial tortuosity syndrome,0.000001,C1859726,61
+Aplasia cutis congenita-intestinal lymphangiectasia syndrome,0.000001,C1859753,13
+Aphalangy-hemivertebrae-urogenital-intestinal dysgenesis syndrome,0.000001,C1859754,18
+Anophthalmia/microphthalmia-esophageal atresia syndrome,0.000001,C1859773,22
+Aniridia-renal agenesis-psychomotor retardation syndrome,0.000001,C1859782,16
+Microcephaly-albinism-digital anomalies syndrome,0.000001,C1859910,6
+Alar cartilages hypoplasia-coloboma-telecanthus syndrome,0.000001,C1859964,7
+Acrofrontofacionasal dysostosis,0.000001,C1860118,29
+"Acrofacial dysostosis, Rodríguez type",0.000001,C1860119,20
+Acrocraniofacial dysostosis,0.000001,C1860145,44
+Neuroectodermal melanolysosomal disease,0.000001,C1860157,29
+Acro-renal-mandibular syndrome,0.000001,C1860166,37
+Achalasia-microcephaly syndrome,0.000001,C1860212,10
+Ablepharon macrostomia syndrome,0.000001,C1860224,39
+"Primary dystonia, DYT4 type",0.000001,C1860315,17
+Ptosis-vocal cord paralysis syndrome,0.000001,C1860403,6
+Posterior fusion of lumbosacral vertebrae-blepharoptosis syndrome,0.000001,C1860464,6
+Double uterus-hemivagina-renal agenesis syndrome,0.000001,C1860549,10
+Upington disease,0.000001,C1860596,5
+KID syndrome,0.000001,C3665333,50
+IRVAN syndrome,0.000001,C3665812,10
+Atelosteogenesis type III,0.000001,C3668942,27
+Fatty acid hydroxylase-associated neurodegeneration,0.000001,C3668943,30
+"Autosomal recessive ataxia, Beauce type",0.000001,C3683483,39
+15q24 microdeletion syndrome,0.000001,C3697269,50
+Silent sinus syndrome,0.000001,C3698095,3
+Cap myopathy,0.000001,C3710589,28
+Monosomy 9q22.3,0.000001,C3711390,46
+X-linked intellectual disability-psychosis-macroorchidism syndrome,0.000001,C3713418,26
+TEMPI syndrome,0.000001,C3854394,14
+German syndrome,0.000001,C3887495,32
+Craniometaphyseal dysplasia,0.000001,C3887594,13
+Apparent mineralocorticoid excess,0.000001,C3887949,17
+L-2-hydroxyglutaric aciduria,0.000001,C3888081,12
+Fibronectin glomerulopathy,0.000001,C3888104,10
+Sialidosis type 2,0.000001,C3888317,31
+Osteosclerosis-ichthyosis-premature ovarian failure syndrome,0.000001,C1864942,5
+Majeed syndrome,0.000001,C1864997,32
+"Familial scaphocephaly syndrome, McGillivray type",0.000001,C1865070,14
+"Spondyloepiphyseal dysplasia, Nishimura type",0.000001,C1865134,41
+MPI-CDG,0.000001,C1865145,21
+"Spondyloepimetaphyseal dysplasia, Shohat type",0.000001,C1865185,32
+Grange syndrome,0.000001,C1865267,10
+Megalencephaly-capillary malformation-polymicrogyria syndrome,0.000001,C1865285,35
+Auriculocondylar syndrome,0.000001,C1865295,31
+Ethylmalonic encephalopathy,0.000001,C1865349,18
+Amyotrophic lateral sclerosis type 4,0.000001,C1865409,8
+Desmosterolosis,0.000001,C1865596,57
+Axial spondylometaphyseal dysplasia,0.000001,C1865695,46
+RHYNS syndrome,0.000001,C1865794,18
+"Spondyloepimetaphyseal dysplasia, Missouri type",0.000001,C1865832,11
+Episodic ataxia type 5,0.000001,C1866039,6
+Rhombencephalosynapsis,0.000001,C1866130,30
+"Acrofacial dysostosis, Palagonia type",0.000001,C1866168,28
+Colobomatous microphthalmia-obesity-hypogenitalism-intellectual disability syndrome,0.000001,C1866256,14
+"Deaf blind hypopigmentation syndrome, Yemenite type",0.000001,C1866425,22
+Holoprosencephaly-radial heart renal anomalies syndrome,0.000001,C1866649,28
+"Spondylometaphyseal dysplasia, Schmidt type",0.000001,C1866688,30
+Czeizel-Losonci syndrome,0.000001,C1866739,31
+Splenogonadal fusion-limb defects-micrognathia syndrome,0.000001,C1866745,28
+Spastic paraplegia-precocious puberty syndrome,0.000001,C1866850,6
+Spastic paraplegia-neuropathy-poikiloderma syndrome,0.000001,C1866851,8
+"Omphalocele syndrome, Shprintzen-Goldberg type",0.000001,C1866958,21
+Flat face-microstomia-ear anomaly syndrome,0.000001,C1866962,32
+Intellectual disability-balding-patella luxation-acromicria syndrome,0.000001,C1866985,53
+Scalp-ear-nipple syndrome,0.000001,C1867020,25
+Scalp defects-postaxial polydactyly syndrome,0.000001,C1867021,4
+Cleft palate-large ears-small head syndrome,0.000001,C1867023,19
+Short stature-craniofacial anomalies-genital hypoplasia syndrome,0.000001,C1867443,28
+Postaxial tetramelic oligodactyly,0.000001,C1867924,4
+Crossed polysyndactyly,0.000001,C1867999,11
+Polydactyly-myopia syndrome,0.000001,C1868117,5
+Orofaciodigital syndrome type 5,0.000001,C1868118,27
+Robin sequence-oligodactyly syndrome,0.000001,C1868309,10
+Piebald trait-neurologic defects syndrome,0.000001,C1868311,14
+Phocomelia-ectrodactyly-deafness-sinus arrhythmia syndrome,0.000001,C1868390,21
+Hereditary sensory and autonomic neuropathy type 2,0.000001,C0270914,15
+Zebra body myopathy,0.000001,C0270969,22
+Congenital dyserythropoietic anemia type III,0.000001,C0271934,16
+Dehydrated hereditary stomatocytosis,0.000001,C0272051,21
+Ebola hemorrhagic fever,0.000001,C0282687,25
+Pancreatoblastoma,0.000001,C0334489,9
+Ascher syndrome,0.000001,C0339085,12
+Gorlin-Chaudhry-Moss syndrome,0.000001,C0345382,28
+Spinal arteriovenous metameric syndrome,0.000001,C0346068,20
+Bazex-Dupré-Christol syndrome,0.000001,C0346104,15
+Benign cephalic histiocytosis,0.000001,C0347403,4
+Branchio-oculo-facial syndrome,0.000001,C0376524,37
+Tietz syndrome,0.000001,C0391816,6
+Drug-induced autoimmune hemolytic anemia,0.000001,C0391817,11
+Madras motor neuron disease,0.000001,C0393551,17
+Autosomal recessive spastic paraplegia type 20,0.000001,C0393559,50
+Steroid-responsive encephalopathy associated with autoimmune thyroiditis,0.000001,C0393639,25
+Dysequilibrium syndrome,0.000001,C0394006,14
+Laryngeal abductor paralysis-intellectual disability syndrome,0.000001,C0396059,7
+Laryngeal abductor paralysis,0.000001,C0396059,2
+Leukocyte adhesion deficiency,0.000001,C0398738,45
+Leukocyte adhesion deficiency type II,0.000001,C0398739,54
+Nail-patella-like renal disease,0.000001,C0403548,6
+Senior-Loken syndrome,0.000001,C0403553,16
+Bazex syndrome,0.000001,C0406355,13
+Lichen planus pemphigoides,0.000001,C0406369,10
+Elastoderma,0.000001,C0406555,7
+Hereditary acrokeratotic poikiloderma,0.000001,C0406556,47
+Juvenile hyaline fibromatosis,0.000001,C0406578,16
+2q32q33 microdeletion syndrome,0.000001,C2676739,43
+ANE syndrome,0.000001,C2677535,25
+Dystonia 16,0.000001,C2677567,15
+Autosomal recessive spastic paraplegia type 39,0.000001,C2677586,9
+Autosomal recessive ataxia due to ubiquinone deficiency,0.000001,C2677589,24
+RFT1-CDG,0.000001,C2677590,21
+RIDDLE syndrome,0.000001,C2677792,41
+Episodic ataxia type 7,0.000001,C2677843,11
+X-linked spastic paraplegia type 34,0.000001,C2677897,8
+"X-linked intellectual disability, Najm type",0.000001,C2677903,27
+Syndactyly-telecanthus-anogenital and renal malformations syndrome,0.000001,C2678045,27
+Christianson syndrome,0.000001,C2678194,41
+Microtia-eye coloboma-imperforation of the nasolacrimal duct syndrome,0.000001,C2678482,4
+Temple-Baraitser syndrome,0.000001,C2678486,48
+SERKAL syndrome,0.000001,C2678492,15
+Waardenburg syndrome type 2,0.000001,C2700265,12
+Dermatosparaxis Ehlers-Danlos syndrome,0.000001,C2700425,36
+Omenn syndrome,0.000001,C2700553,28
+Otoonychoperoneal syndrome,0.000001,C2711794,13
+Gray platelet syndrome,0.000001,C2717750,8
+Odontochondrodysplasia,0.000001,C2745953,22
+Paraplegia-intellectual disability-hyperkeratosis syndrome,0.000001,C2745996,21
+Orofaciodigital syndrome type 6,0.000001,C2745997,51
+Free sialic acid storage disease,0.000001,C2931872,30
+Orofaciodigital syndrome type 2,0.000001,C2931889,46
+"Deafness with labyrinthine aplasia, microtia, and microdontia",0.000001,C2932664,23
+Alpha-sarcoglycan-related  limb-girdle muscular dystrophy R3,0.000001,C2936332,13
+Farber disease,0.000001,C2936785,67
+Spinocerebellar ataxia type 30,0.000001,C2936793,6
+Hypertrichosis lanuginosa congenita,0.000001,C2936812,7
+Autosomal recessive omodysplasia,0.000001,C2936816,24
+Focal facial dermal dysplasia type I,0.000001,C2936827,17
+N syndrome,0.000001,C2936859,11
+Autosomal recessive spastic paraplegia type 25,0.000001,C2936860,12
+Autosomal dominant spastic paraplegia type 36,0.000001,C2936879,20
+Autosomal dominant spastic paraplegia type 37,0.000001,C2936880,20
+"Oculocerebral hypopigmentation syndrome, Cross type",0.000001,C2936910,45
+Pyruvate dehydrogenase deficiency,0.000001,C2936911,35
+Melorheostosis with osteopoikilosis,0.000001,C3149695,7
+SRD5A3-CDG,0.000001,C3150191,34
+17q11.2 microduplication syndrome,0.000001,C3150928,16
+S-adenosylhomocysteine hydrolase deficiency,0.000001,C3151058,44
+Congenital bile acid synthesis defect type 3,0.000001,C3151147,10
+Schnitzler syndrome,0.000001,C0524988,21
+Adult-onset nemaline myopathy,0.000001,C0546123,28
+Childhood-onset nemaline myopathy,0.000001,C0546125,45
+X-linked lymphoproliferative disease,0.000001,C0549463,39
+Guanidinoacetate methyltransferase deficiency,0.000001,C0574080,22
+"3-phosphoglycerate dehydrogenase deficiency, infantile/juvenile form",0.000001,C0580190,44
+Alpha-thalassemia-myelodysplastic syndrome,0.000001,C0585216,12
+Costello syndrome,0.000001,C0587248,48
+Microphthalmia with limb anomalies,0.000001,C0599973,57
+"Spondyloepimetaphyseal dysplasia congenita, Strudwick type",0.000001,C0700635,23
+Focal myositis,0.000001,C0751357,7
+Pelviscapular dysplasia,0.000001,C1850040,24
+Parana hard skin syndrome,0.000001,C1850079,12
+Lethal osteosclerotic bone dysplasia,0.000001,C1850106,20
+Osteopenia-intellectual disability-sparse hair syndrome,0.000001,C1850140,22
+Bruck syndrome,0.000001,C1850168,14
+Congenital osteogenesis imperfecta-microcephaly-cataracts syndrome,0.000001,C1850184,21
+"Familial osteodysplasia, Anderson type",0.000001,C1850186,31
+Lethal omphalocele-cleft palate syndrome,0.000001,C1850317,8
+Oliver syndrome,0.000001,C1850320,25
+Severe oculo-renal-cerebellar syndrome,0.000001,C1850331,29
+Oculo-palato-cerebral syndrome,0.000001,C1850338,24
+Mutilating hereditary sensory neuropathy with spastic paraplegia,0.000001,C1850395,18
+Sialidosis type 1,0.000001,C1850510,42
+Nephrosis-deafness-urinary tract-digital malformations syndrome,0.000001,C1850552,9
+Nephropathy-deafness-hyperparathyroidism syndrome,0.000001,C1850553,8
+Atelosteogenesis type II,0.000001,C1850555,53
+Native American myopathy,0.000001,C1850625,34
+Nathalie syndrome,0.000001,C1850626,4
+Keipert syndrome,0.000001,C1850627,24
+Familial atrial myxoma,0.000001,C1850635,17
+Carey-Fineman-Ziter syndrome,0.000001,C1850746,36
+Gastrocutaneous syndrome,0.000001,C1850899,13
+Laurin-Sandrow syndrome,0.000001,C1851100,28
+Gingival fibromatosis-progressive deafness syndrome,0.000001,C1851112,4
+Extrasystoles-short stature-hyperpigmentation-microcephaly syndrome,0.000001,C1851412,13
+Exostoses-anetodermia-brachydactyly type E syndrome,0.000001,C1851428,5
+"Multiple epiphyseal dysplasia, Beighton type",0.000001,C1851536,34
+Self-improving dystrophic epidermolysis bullosa,0.000001,C1851573,26
+Neuhauser-Eichner-Opitz syndrome,0.000001,C1851708,15
+Lateral meningocele syndrome,0.000001,C1851710,41
+"Ectodermal dysplasia, trichoodontoonychial type",0.000001,C1851858,12
+Dyschondrosteosis-nephritis syndrome,0.000001,C1851986,15
+Dermoodontodysplasia,0.000001,C1852144,16
+Deafness-craniofacial syndrome,0.000001,C1852278,14
+Cutis gyrata-acanthosis nigricans-craniosynostosis syndrome,0.000001,C1852406,44
+Cryptomicrotia-brachydactyly-excess fingertip arch syndrome,0.000001,C1852454,7
+Craniofacial-deafness-hand syndrome,0.000001,C1852510,17
+Coxoauricular syndrome,0.000001,C1852513,9
+Familial benign copper deficiency,0.000001,C1852576,12
+Coloboma of macula-brachydactyly type B syndrome,0.000001,C1852752,9
+Schwartz-Jampel syndrome,0.000001,C0036391,112
+Sea-blue histiocytosis,0.000001,C0036489,14
+Somatostatinoma,0.000001,C0037661,33
+Tangier disease,0.000001,C0039292,21
+Short-limb skeletal dysplasia with severe combined immunodeficiency,0.000001,C2931087,18
+Osteopathia striata-pigmentary dermopathy-white forelock syndrome,0.000001,C2931096,7
+Delayed speech-facial asymmetry-strabismus-ear lobe creases syndrome,0.000001,C2931119,14
+Familial primary hypomagnesemia with hypercalciuria and nephrocalcinosis with severe ocular involvement,0.000001,C2931121,11
+Atherosclerosis-deafness-diabetes-epilepsy-nephropathy syndrome,0.000001,C2931125,23
+Microcephaly-cardiac defect-lung malsegmentation syndrome,0.000001,C2931129,23
+Qazi-Markouizos syndrome,0.000001,C2931142,23
+Radio-renal syndrome,0.000001,C2931146,24
+Microcephaly-brachydactyly-kyphoscoliosis syndrome,0.000001,C2931177,19
+Facial dysmorphism-anorexia-cachexia-eye and skin anomalies syndrome,0.000001,C2931183,21
+Hydrocephalus-costovertebral dysplasia-Sprengel anomaly syndrome,0.000001,C2931197,29
+Tetraamelia-multiple malformations syndrome,0.000001,C2931218,28
+Thakker-Donnai syndrome,0.000001,C2931219,25
+Microphthalmia-microtia-fetal akinesia syndrome,0.000001,C2931224,15
+Thomas syndrome,0.000001,C2931225,11
+Hepatic fibrosis-renal cysts-intellectual disability syndrome,0.000001,C2931226,29
+Thoracomelic dysplasia,0.000001,C2931227,18
+Ventricular extrasystoles with syncopal episodes-perodactyly-Robin sequence syndrome,0.000001,C2931232,19
+Disorder of sex development-intellectual disability syndrome,0.000001,C2931233,23
+Trichorhinophalangeal syndrome type 2,0.000001,C2931237,38
+Aniridia-intellectual disability syndrome,0.000001,C2931243,5
+Say-Barber-Miller syndrome,0.000001,C2931267,54
+Cataract-deafness-hypogonadism syndrome,0.000001,C2931269,6
+Radial hypoplasia-triphalangeal thumbs-hypospadias-maxillary diastema syndrome,0.000001,C2931274,6
+Autosomal dominant spastic paraplegia type 17,0.000001,C2931276,11
+COFS syndrome,0.000001,C2931277,33
+Lipodystrophy due to peptidic growth factors deficiency,0.000001,C2931279,28
+Alopecia-intellectual disability syndrome,0.000001,C2931280,24
+Male hypergonadotropic hypogonadism-intellectual disability-skeletal anomalies syndrome,0.000001,C2931285,19
+Mosaic variegated aneuploidy syndrome,0.000001,C2931286,64
+Spastic paraparesis-deafness syndrome,0.000001,C2931291,13
+White matter hypoplasia-corpus callosum agenesis-intellectual disability syndrome,0.000001,C2931292,17
+Pancreatic hypoplasia-diabetes-congenital heart disease syndrome,0.000001,C2931296,39
+Pectus excavatum-macrocephaly-dysplastic nails syndrome,0.000001,C2931302,15
+"Endosteal hyperostosis, Worth type",0.000001,C2931308,13
+Heart-hand syndrome type 2,0.000001,C2931323,25
+Ring chromosome 22 syndrome,0.000001,C2931325,33
+Paraneoplastic pemphigus,0.000001,C1112570,7
+Progeria-short stature-pigmented nevi syndrome,0.000001,C1261128,54
+Lhermitte-Duclos disease,0.000001,C1266181,18
+Linear atrophoderma of Moulin,0.000001,C1274753,4
+Carpenter syndrome,0.000001,C1275078,26
+Hereditary neurocutaneous malformation,0.000001,C1275084,4
+Ichthyosis-hepatosplenomegaly-cerebellar degeneration syndrome,0.000001,C1275088,8
+Reticular dysgenesis,0.000001,C1282908,20
+Hyperinsulinism due to short chain 3-hydroxylacyl-CoA dehydrogenase deficiency,0.000001,C1291230,34
+Transaldolase deficiency,0.000001,C1291329,18
+Hyaluronidase deficiency,0.000001,C1291490,2
+Glutathione synthetase deficiency,0.000001,C1291643,5
+Astley-Kendall dysplasia,0.000001,C1300228,4
+Genochondromatosis type 1,0.000001,C1300229,3
+SPONASTRIME dysplasia,0.000001,C1300260,72
+Brachydactyly type B,0.000001,C1300267,10
+Nicolaides-Baraitser syndrome,0.000001,C1303073,51
+Infantile digital fibromatosis,0.000001,C1318562,4
+Barber-Say syndrome,0.000001,C1319466,23
+Shprintzen-Goldberg syndrome,0.000001,C1321551,53
+IVIC syndrome,0.000001,C1327918,18
+Grant syndrome,0.000001,C1841835,25
+Multinodular goiter-cystic kidney-polydactyly syndrome,0.000001,C1841853,5
+GMS syndrome,0.000001,C1841854,13
+Glaucoma-sleep apnea syndrome,0.000001,C1842025,3
+Braddock syndrome,0.000001,C1842082,24
+"Spondyloepiphyseal dysplasia, Kimberley type",0.000001,C1842149,7
+Lelis syndrome,0.000001,C1842307,22
+Neutrophil immunodeficiency syndrome,0.000001,C1842398,4
+8q22.1 microdeletion syndrome,0.000001,C1842464,32
+Lipodystrophy-intellectual disability-deafness syndrome,0.000001,C1842465,13
+Kagami-Ogata syndrome due to paternal uniparental disomy of chromosome 14,0.000001,C1842466,119
+Rolandic epilepsy-paroxysmal exercise-induced dystonia-writer's cramp syndrome,0.000001,C1842531,8
+Paroxysmal exertion-induced dyskinesia,0.000001,C1842534,17
+Infantile-onset autosomal recessive nonprogressive cerebellar ataxia,0.000001,C1842676,18
+Diaphanospondylodysostosis,0.000001,C1842691,11
+Fetal Gaucher disease,0.000001,C1842704,24
+ALG2-CDG,0.000001,C1842836,24
+Autosomal dominant Charcot-Marie-Tooth disease type 2K,0.000001,C1842984,10
+Craniolenticulosutural dysplasia,0.000001,C1843042,34
+Acrocapitofemoral dysplasia,0.000001,C1843096,21
+Immunodeficiency due to interleukin-1 receptor-associated kinase-4 deficiency,0.000001,C1843256,5
+"Primary dystonia, DYT13 type",0.000001,C1843264,14
+Neonatal ichthyosis-sclerosing cholangitis syndrome,0.000001,C1843355,15
+Autosomal recessive spastic paraplegia type 24,0.000001,C1843569,6
+Spinocerebellar ataxia type 18,0.000001,C1843884,17
+Spinocerebellar ataxia type 21,0.000001,C1843891,15
+Hydrocephaly-cerebellar agenesis syndrome,0.000001,C1844005,5
+Lethal intrauterine growth restriction-cortical malformation-congenital contractures syndrome,0.000001,C1844016,24
+Hirschsprung disease-type D brachydactyly syndrome,0.000001,C1844017,6
+X-linked corneal dermoid,0.000001,C1844671,4
+Deafness-hypogonadism syndrome,0.000001,C1844680,18
+Otopalatodigital syndrome type 2,0.000001,C1844696,55
+Xq21 microdeletion syndrome,0.000001,C1844836,38
+Abruzzo-Erickson syndrome,0.000001,C1844862,24
+X-linked Charcot-Marie-Tooth disease type 3,0.000001,C1844865,27
+X-linked Charcot-Marie-Tooth disease type 2,0.000001,C1844873,24
+Catel-Manzke syndrome,0.000001,C1844887,25
+X-linked mandibulofacial dysostosis,0.000001,C1844918,24
+X-linked spinocerebellar ataxia type 4,0.000001,C1844933,7
+Infantile-onset X-linked spinal muscular atrophy,0.000001,C1844934,35
+X-linked spinocerebellar ataxia type 3,0.000001,C1844936,6
+X-linked sideroblastic anemia and spinocerebellar ataxia,0.000001,C1845028,11
+Albinism-deafness syndrome,0.000001,C1845068,7
+Ocular albinism with late-onset sensorineural deafness,0.000001,C1845069,6
+Hyperekplexia-epilepsy syndrome,0.000001,C1845102,9
+Hartsfield syndrome,0.000001,C1845146,17
+KDM5C-related syndromic X-linked intellectual disability,0.000001,C1845243,24
+Oculotrichoanal syndrome,0.000001,C1855425,10
+Macrosomia-microphthalmia-cleft palate syndrome,0.000001,C1855467,11
+Dahlberg-Borer-Newcomer syndrome,0.000001,C1855477,17
+Leukomelanoderma-infantilism-intellectual disability-hypodontia-hypotrichosis syndrome,0.000001,C1855504,16
+Absence deformity of leg-cataract syndrome,0.000001,C1855523,9
+Lambert syndrome,0.000001,C1855551,16
+Lethal Kniest-like dysplasia,0.000001,C1855605,27
+Keutel syndrome,0.000001,C1855607,24
+"Oculocerebrofacial syndrome, Kaufman type",0.000001,C1855663,43
+Joubert syndrome with oculorenal defect,0.000001,C1855675,37
+Baraitser-Winter cerebrofrontofacial syndrome,0.000001,C1855722,61
+Vici syndrome,0.000001,C1855772,35
+Ichthyosis-intellectual disability-dwarfism-renal impairment syndrome,0.000001,C1855787,9
+Ichthyosis-alopecia-eclabion-ectropion-intellectual disability syndrome,0.000001,C1855788,22
+Self-improving collodion baby,0.000001,C1855789,2
+Bamforth-Lazarus syndrome,0.000001,C1855794,8
+Hypomandibular faciocranial dysostosis,0.000001,C1855848,27
+Hypergonadotropic hypogonadism-cataract syndrome,0.000001,C1855859,13
+Glycogen storage disease due to hepatic glycogen synthase deficiency,0.000001,C1855861,14
+Hypertelorism-hypospadias-polysyndactyly syndrome,0.000001,C1855904,34
+Hyperphosphatasia-intellectual disability syndrome,0.000001,C1855923,59
+Hydrocephaly-tall stature-joint laxity syndrome,0.000001,C1856051,15
+Growth delay-hydrocephaly-lung hypoplasia syndrome,0.000001,C1856052,17
+Methylcobalamin deficiency type cblE,0.000001,C1856057,49
+Holzgreve syndrome,0.000001,C1856095,21
+Hepatic veno-occlusive disease-immunodeficiency syndrome,0.000001,C1856128,30
+Deafness-enamel hypoplasia-nail defects syndrome,0.000001,C1856186,32
+Hallux varus-preaxial polysyndactyly syndrome,0.000001,C1856197,2
+Hall-Riggs syndrome,0.000001,C1856198,29
+XY type gonadal dysgenesis-associated anomalies syndrome,0.000001,C1856272,26
+Ghosal hematodiaphyseal dysplasia,0.000001,C1856465,13
+Genitopalatocardiac syndrome,0.000001,C1856466,25
+Glutamate-cysteine ligase deficiency,0.000001,C1856603,15
+Fibulo-ulnar hypoplasia-renal anomalies syndrome,0.000001,C1856727,22
+Gingival fibromatosis-facial dysmorphism syndrome,0.000001,C1856761,14
+Autosomal recessive faciodigitogenital syndrome,0.000001,C1856871,34
+Lethal faciocardiomelic dysplasia,0.000001,C1856891,15
+Congenital lethal erythroderma,0.000001,C1856898,9
+VIPoma,0.000001,C0086768,39
+Inhalational anthrax,0.000001,C0155866,12
+Ring chromosome 6 syndrome,0.000001,C2931604,11
+Spastic paraplegia-facial-cutaneous lesions syndrome,0.000001,C2931617,9
+Ring chromosome 7 syndrome,0.000001,C2931622,57
+Ring chromosome 8 syndrome,0.000001,C2931633,14
+"Blepharophimosis-intellectual disability syndrome, Ohdo type",0.000001,C2931643,25
+Foveal hypoplasia-presenile cataract syndrome,0.000001,C2931644,7
+"Oculocerebral hypopigmentation syndrome, Preus type",0.000001,C2931646,26
+CHST3-related skeletal dysplasia,0.000001,C2931649,25
+"Progeroid syndrome, Petty type",0.000001,C2931653,28
+Deafness-genital anomalies-metacarpal and metatarsal synostosis syndrome,0.000001,C2931654,28
+Preaxial polydactyly-colobomata-intellectual disability syndrome,0.000001,C2931655,9
+Spastic paraplegia-nephritis-deafness syndrome,0.000001,C2931667,12
+"ABeta amyloidosis, Dutch type",0.000001,C2931672,10
+Cervical hypertrichosis-peripheral neuropathy syndrome,0.000001,C2931676,5
+"Camptodactyly syndrome, Guadalajara type 1",0.000001,C2931679,47
+"Camptodactyly syndrome, Guadalajara type 2",0.000001,C2931680,13
+Camptodactyly-taurinuria syndrome,0.000001,C2931681,4
+Hypogonadism-mitral valve prolapse-intellectual disability syndrome,0.000001,C2931685,15
+Mosaic trisomy 15,0.000001,C2931707,6
+Symbrachydactyly of hands and feet,0.000001,C2931719,8
+Frontofacionasal dysplasia,0.000001,C2931720,31
+Hypogonadotropic hypogonadism-retinitis pigmentosa syndrome,0.000001,C2931722,20
+Ring chromosome 10 syndrome,0.000001,C2931727,24
+Hydrocephaly-low insertion umbilicus syndrome,0.000001,C2931734,10
+Hernández-Aguirre Negrete syndrome,0.000001,C2931736,10
+Contractures-ectodermal dysplasia-cleft lip/palate syndrome,0.000001,C2931745,8
+Cleft lip/palate-intestinal malrotation-cardiopathy syndrome,0.000001,C2931750,15
+Meacham syndrome,0.000001,C2931752,24
+Acrocallosal syndrome,0.000001,C2931760,18
+"Acrofacial dysostosis, Catania type",0.000001,C2931762,35
+Muscular atrophy-ataxia-retinitis pigmentosa-diabetes mellitus syndrome,0.000001,C2931765,4
+Radioulnar synostosis-developmental delay-hypotonia syndrome,0.000001,C2931776,20
+Enamel-renal syndrome,0.000001,C2931783,14
+Cleft lip-retinopathy syndrome,0.000001,C2931789,4
+Acrodysplasia scoliosis,0.000001,C2931790,4
+Trisomy 18p,0.000001,C2931811,28
+2q24 microdeletion syndrome,0.000001,C2931816,28
+Palmoplantar keratoderma-spastic paralysis syndrome,0.000001,C2931828,12
+Retinal degeneration-nanophthalmos-glaucoma syndrome,0.000001,C2931831,7
+Abetalipoproteinemia,0.000001,C0000744,61
+Babesiosis,0.000001,C0004576,31
+Bernard-Soulier syndrome,0.000001,C0005129,20
+Botulism,0.000001,C0006057,18
+Cholera,0.000001,C0008354,31
+"Spondyloepimetaphyseal dysplasia, matrilin-3 type",0.000001,C1837481,11
+Spinocerebellar ataxia type 25,0.000001,C1837518,22
+AICA-ribosiduria,0.000001,C1837530,10
+Spinocerebellar ataxia type 20,0.000001,C1837541,16
+Intellectual disability-brachydactyly-Pierre Robin syndrome,0.000001,C1837564,42
+Ichthyosis-prematurity syndrome,0.000001,C1837610,5
+Burn-McKeown syndrome,0.000001,C1837822,11
+Ulnar/fibula ray defect-brachydactyly syndrome,0.000001,C1837830,12
+Mitochondrial myopathy and sideroblastic anemia,0.000001,C1838103,19
+Lethal hemolytic anemia-genital anomalies syndrome,0.000001,C1838120,20
+Acrocardiofacial syndrome,0.000001,C1838121,37
+Arterial dissection-lentiginosis syndrome,0.000001,C1838122,4
+Aphalangy-syndactyly-microcephaly syndrome,0.000001,C1838161,14
+Mesomelia-synostoses syndrome,0.000001,C1838162,41
+CODAS syndrome,0.000001,C1838180,33
+Autosomal dominant spastic paraplegia type 6,0.000001,C1838192,13
+Infantile osteopetrosis with neuroaxonal dysplasia,0.000001,C1838258,13
+Toriello-Lacassie-Droste syndrome,0.000001,C1838329,36
+Oculomaxillofacial dysostosis,0.000001,C1838348,21
+Pachygyria-intellectual disability-epilepsy syndrome,0.000001,C1838491,4
+Pterygium colli-intellectual disability-digital anomalies syndrome,0.000001,C1838562,14
+Atrioventricular defect-blepharophimosis-radial and anal defect syndrome,0.000001,C1838606,22
+Familial developmental dysphasia,0.000001,C1838630,3
+Chondrodysplasia-disorder of sex development syndrome,0.000001,C1838654,22
+Eiken syndrome,0.000001,C1838779,23
+Spondylocamptodactyly syndrome,0.000001,C1838781,3
+Ulnar hypoplasia-split foot syndrome,0.000001,C1839123,4
+Trigonocephaly-short stature-developmental delay syndrome,0.000001,C1839125,23
+Spastic paraplegia type 2,0.000001,C1839264,17
+Craniodigital-intellectual disability syndrome,0.000001,C1839311,14
+"X-linked intellectual disability, Schimke type",0.000001,C1839320,26
+SCARF syndrome,0.000001,C1839321,32
+Absent radius-anogenital anomalies syndrome,0.000001,C1839410,8
+TARP syndrome,0.000001,C1839463,54
+X-linked Charcot-Marie-Tooth disease type 5,0.000001,C1839566,18
+Early-onset X-linked optic atrophy,0.000001,C1839576,17
+X-linked intellectual disability-dysmorphism-cerebral atrophy syndrome,0.000001,C1839730,22
+"X-linked intellectual disability, Miles-Carpenter type",0.000001,C1839735,9
+Wilson-Turner syndrome,0.000001,C1839736,28
+X-linked complicated corpus callosum dysgenesis,0.000001,C1839909,7
+Keratosis follicularis-dwarfism-cerebral atrophy syndrome,0.000001,C1839910,6
+Ichthyosis follicularis-alopecia-photophobia syndrome,0.000001,C1839988,76
+Ichthyosis hystrix of Curth-Macklin,0.000001,C1840296,8
+Müllerian duct anomalies-limb anomalies syndrome,0.000001,C1840335,14
+SPECC1L-related hypertelorism syndrome,0.000001,C1840378,39
+Hyperkeratosis-hyperpigmentation syndrome,0.000001,C1840428,5
+"Hip dysplasia, Beukes type",0.000001,C1840572,11
+Bencze syndrome,0.000001,C1841640,8
+Heart-hand syndrome type 3,0.000001,C1841657,6
+Emery-Nelson syndrome,0.000001,C1841693,12
+Hypertrichosis cubiti,0.000001,C1841696,28
+Spinocerebellar ataxia type 34,0.000001,C2930921,16
+Cranio-osteoarthropathy,0.000001,C2930922,14
+Short stature-webbed neck-heart disease syndrome,0.000001,C2930950,7
+"Hidrotic ectodermal dysplasia, Halal type",0.000001,C2930953,18
+Microcephaly-cleft palate-abnormal retinal pigmentation syndrome,0.000001,C2930954,12
+Digital extensor muscle aplasia-polyneuropathy,0.000001,C2930955,8
+Lower limb malformation-hypospadias syndrome,0.000001,C2930962,12
+"Acromesomelic dysplasia, Hunter-Thompson type",0.000001,C2930970,18
+Hajdu-Cheney syndrome,0.000001,C2930971,86
+Richieri Costa-da Silva syndrome,0.000001,C2930978,36
+ALG6-CDG,0.000001,C2930997,33
+ALG12-CDG,0.000001,C2931001,84
+ALG8-CDG,0.000001,C2931002,47
+DPAGT1-CDG,0.000001,C2931004,65
+ALG1-CDG,0.000001,C2931005,32
+ALG9-CDG,0.000001,C2931006,83
+STT3B-CDG,0.000001,C2931007,17
+MGAT2-CDG,0.000001,C2931008,55
+B4GALT1-CDG,0.000001,C2931009,34
+COG7-CDG,0.000001,C2931010,33
+COG1-CDG,0.000001,C2931011,42
+Moebius syndrome-axonal neuropathy-hypogonadotropic hypogonadism syndrome,0.000001,C2931024,14
+Choroidal atrophy-alopecia syndrome,0.000001,C2931026,10
+Hereditary pulmonary alveolar proteinosis,0.000001,C2931035,11
+Hawkinsinuria,0.000001,C2931042,9
+Heart defect-tongue hamartoma-polysyndactyly syndrome,0.000001,C2931046,6
+FATCO syndrome,0.000001,C2931047,10
+Greenberg dysplasia,0.000001,C2931048,18
+Camptodactyly-joint contractures-facial skeletal defects syndrome,0.000001,C2931051,22
+Nephrogenic diabetes insipidus-intracranial calcification-facial dysmorphism syndrome,0.000001,C2931070,15
+Epidermolysis bullosa simplex with muscular dystrophy,0.000001,C2931072,20
+Lowe-Kohn-Cohen syndrome,0.000001,C2931080,5
+Triple A syndrome,0.000001,C2931084,22
+Tetrasomy X,0.000001,C0265496,17
+Isolated arrhinia,0.000001,C0265740,12
+Keratoderma hereditarium mutilans,0.000001,C0265964,17
+Knuckle pads-leukonychia-sensorineural deafness-palmoplantar hyperkeratosis syndrome,0.000001,C0266004,5
+Björnstad syndrome,0.000001,C0266006,5
+Neonatal hemochromatosis,0.000001,C0268059,11
+Hemochromatosis type 2,0.000001,C0268060,15
+Purine nucleoside phosphorylase deficiency,0.000001,C0268125,27
+Adenylosuccinate lyase deficiency,0.000001,C0268126,17
+Hereditary orotic aciduria,0.000001,C0268130,16
+Primary hyperoxaluria type 2,0.000001,C0268165,6
+Neutral lipid storage disease with ichthyosis,0.000001,C0268238,31
+Pancreatic colipase deficiency,0.000001,C0268241,7
+Gaucher disease type 2,0.000001,C0268250,15
+Gaucher disease type 3,0.000001,C0268251,33
+"GM2 gangliosidosis, AB variant",0.000001,C0268275,23
+"46,XY disorder of sex development due to isolated 17,20-lyase deficiency",0.000001,C0268285,34
+Cholestasis-lymphedema syndrome,0.000001,C0268314,20
+Hepatoerythropoietic porphyria,0.000001,C0268324,31
+X-linked Ehlers-Danlos syndrome,0.000001,C0268341,10
+Autosomal recessive spastic paraplegia type 23,0.000001,C0796019,14
+Lowry-MacLean syndrome,0.000001,C0796020,51
+Lowry-Wood syndrome,0.000001,C0796021,21
+Prominent glabella-microcephaly-hypogenitalism syndrome,0.000001,C0796024,31
+Lethal ataxia with deafness and optic atrophy,0.000001,C0796028,28
+Cataract-intellectual disability-hypogonadism syndrome,0.000001,C0796037,30
+McDonough syndrome,0.000001,C0796038,27
+Skeletal dysplasia-epilepsy-short stature syndrome,0.000001,C0796046,15
+Beta-mercaptolactate cysteine disulfiduria,0.000001,C0796055,24
+Microcephaly-deafness-intellectual disability syndrome,0.000001,C0796062,15
+Microcephaly-cervical spine fusion anomalies syndrome,0.000001,C0796066,26
+Feingold syndrome,0.000001,C0796068,21
+Microphthalmia with linear skin defects syndrome,0.000001,C0796070,78
+Mohr-Tranebjaerg syndrome,0.000001,C0796074,41
+"Intellectual disability, Buenos-Aires type",0.000001,C0796080,30
+Myhre syndrome,0.000001,C0796081,46
+Dilated cardiomyopathy-hypergonadotropic hypogonadism syndrome,0.000001,C0796083,7
+Neurofaciodigitorenal syndrome,0.000001,C0796088,30
+Juberg-Hayward syndrome,0.000001,C0796099,26
+W syndrome,0.000001,C0796110,24
+Perlman syndrome,0.000001,C0796113,38
+Intellectual disability-cataracts-calcified pinnae-myopathy syndrome,0.000001,C0796121,33
+Cataract-ataxia-deafness syndrome,0.000001,C0796123,13
+Pseudoprogeria syndrome,0.000001,C0796125,21
+Ramon syndrome,0.000001,C0796133,17
+3C syndrome,0.000001,C0796137,64
+"X-linked intellectual disability, Snyder type",0.000001,C0796160,65
+Congenital heart defect-round face-developmental delay syndrome,0.000001,C0796162,12
+Spondyloperipheral dysplasia-short ulna syndrome,0.000001,C0796173,22
+Pelvis-shoulder dysplasia,0.000001,C1868508,40
+"Pseudoleprechaunism syndrome, Patterson type",0.000001,C1868546,26
+Char syndrome,0.000001,C1868570,28
+Benign paroxysmal tonic upgaze of childhood with ataxia,0.000001,C1868576,3
+Coxopodopatellar syndrome,0.000001,C1868581,5
+Perry syndrome,0.000001,C1868594,11
+Nasopalpebral lipoma-coloboma syndrome,0.000001,C1868660,26
+Griscelli syndrome type 2,0.000001,C1868679,19
+Rapid-onset dystonia-parkinsonism,0.000001,C1868681,20
+Ear-patella-short stature syndrome,0.000001,C1868684,49
+B4GALT7-related spondylodysplastic Ehlers-Danlos syndrome,0.000001,C1869122,37
+Paris-Trousseau thrombocytopenia,0.000001,C1956093,2
+Mevalonic aciduria,0.000001,C1959626,17
+Aromatase deficiency,0.000001,C1960539,26
+Autosomal recessive spastic ataxia with leukoencephalopathy,0.000001,C1969645,16
+Autosomal recessive spastic paraplegia type 32,0.000001,C1970009,13
+COG8-CDG,0.000001,C1970021,24
+Autosomal dominant spastic ataxia type 1,0.000001,C1970107,26
+Leukoencephalopathy with brain stem and spinal cord involvement-high lactate syndrome,0.000001,C1970180,50
+Deafness-infertility syndrome,0.000001,C1970187,3
+"Phosphoserine aminotransferase deficiency, infantile/juvenile form",0.000001,C1970253,38
+Penile agenesis,0.000001,C1387005,28
+"Primary dystonia, DYT6 type",0.000001,C1414216,8
+Inhalational botulism,0.000001,C1443900,13
+Familial male-limited precocious puberty,0.000001,C1504412,11
+Ring chromosome 1 syndrome,0.000001,C1519099,13
+ACys amyloidosis,0.000001,C1527338,5
+Prolidase deficiency,0.000001,C1534653,39
+Autosomal dominant hypophosphatemic rickets,0.000001,C1704375,13
+Apolipoprotein A-I deficiency,0.000001,C1704429,9
+Hyperparathyroidism-jaw tumor syndrome,0.000001,C1704981,35
+Histiocytoid cardiomyopathy,0.000001,C1708371,44
+"Familial partial lipodystrophy, Köbberling type",0.000001,C1720859,12
+PPARG-related familial partial lipodystrophy,0.000001,C1720861,37
+Multiple sulfatase deficiency,0.000001,C1720864,30
+Angel-shaped phalango-epiphyseal dysplasia,0.000001,C1739384,11
+Focal facial dermal dysplasia type II,0.000001,C1744559,12
+Neutral lipid storage myopathy,0.000001,C1853136,36
+Autosomal recessive frontotemporal pachygyria,0.000001,C1853215,11
+Spinocerebellar ataxia type 23,0.000001,C1853250,10
+Hereditary hypophosphatemic rickets with hypercalciuria,0.000001,C1853271,17
+Acral peeling skin syndrome,0.000001,C1853354,11
+Juvenile primary lateral sclerosis,0.000001,C1853396,15
+DEND syndrome,0.000001,C1853564,16
+Genitopatellar syndrome,0.000001,C1853566,38
+Neuroferritinopathy,0.000001,C1853578,39
+Hemochromatosis type 4,0.000001,C1853733,10
+MOGS-CDG,0.000001,C1853736,41
+Acropectoral syndrome,0.000001,C1853812,3
+Dimethylglycine dehydrogenase deficiency,0.000001,C1853892,4
+Spondylo-ocular syndrome,0.000001,C1853925,31
+Carvajal syndrome,0.000001,C1854063,4
+Cerebrooculonasal syndrome,0.000001,C1854108,27
+Radio-ulnar synostosis-amegakaryocytic thrombocytopenia syndrome,0.000001,C1854273,6
+Hypotrichosis simplex,0.000001,C1854310,6
+Spinocerebellar ataxia type 14,0.000001,C1854369,15
+Temtamy preaxial brachydactyly syndrome,0.000001,C1854466,46
+Autosomal dominant spastic paraplegia type 13,0.000001,C1854467,16
+Spinocerebellar ataxia type 13,0.000001,C1854488,30
+Autosomal recessive spastic paraplegia type 14,0.000001,C1854568,7
+Wiedemann-Steiner syndrome,0.000001,C1854630,57
+Intellectual disability-myopathy-short stature-endocrine defect syndrome,0.000001,C1854663,30
+Peripheral motor neuropathy-dysautonomia syndrome,0.000001,C1854961,7
+Isolated succinate-CoQ reductase deficiency,0.000001,C1855008,48
+Mitochondrial myopathy-lactic acidosis-deafness syndrome,0.000001,C1855033,9
+Microcephaly-cardiomyopathy syndrome,0.000001,C1855080,15
+"Microcephalic primordial dwarfism, Toriello type",0.000001,C1855089,18
+Metaphyseal dysostosis-intellectual disability-conductive deafness syndrome,0.000001,C1855175,27
+Brachydactyly-short stature-retinitis pigmentosa syndrome,0.000001,C1855188,44
+"Spondylometaphyseal dysplasia, Sedaghatian type",0.000001,C1855229,25
+Metaphyseal acroscyphodysplasia,0.000001,C1855243,24
+Intellectual disability-dysmorphism-hypogonadism-diabetes mellitus syndrome,0.000001,C1855303,21
+Frank-Ter Haar syndrome,0.000001,C1855305,33
+Autosomal recessive spastic paraplegia type 21,0.000001,C1855346,19
+Marfanoid habitus-autosomal recessive intellectual disability syndrome,0.000001,C1855347,43
+Microcephaly-glomerulonephritis-marfanoid habitus syndrome,0.000001,C1855348,11
+Brain-lung-thyroid syndrome,0.000001,C1970269,59
+SLC35A1-CDG,0.000001,C1970344,12
+Phosphoribosylpyrophosphate synthetase superactivity,0.000001,C1970827,13
+Leukoencephalopathy-spondyloepimetaphyseal dysplasia syndrome,0.000001,C1970840,21
+Glycogen storage disease due to phosphoglycerate kinase 1 deficiency,0.000001,C1970848,20
+PHACE syndrome,0.000001,C2242617,34
+Mutilating palmoplantar keratoderma with periorificial keratotic plaques,0.000001,C2609071,21
+HANAC syndrome,0.000001,C2673195,5
+Progressive myoclonic epilepsy type 3,0.000001,C2673257,21
+Junctional epidermolysis bullosa inversa,0.000001,C2673609,23
+Spondyloepiphyseal dysplasia-brachydactyly-speech disorder syndrome,0.000001,C2673649,39
+NPHP3-related Meckel-like syndrome,0.000001,C2673885,9
+Severe achondroplasia-developmental delay-acanthosis nigricans syndrome,0.000001,C2674173,14
+Distal monosomy 10q,0.000001,C2674937,91
+Episodic ataxia type 6,0.000001,C2675211,14
+15q11q13 microduplication syndrome,0.000001,C2675336,19
+Distal monosomy 15q,0.000001,C2675463,57
+Distal monosomy 6p,0.000001,C2675486,39
+Autosomal dominant spastic paraplegia type 42,0.000001,C2675528,17
+Autosomal dominant deafness-onychodystrophy syndrome,0.000001,C2675730,20
+2p15p16.1 microdeletion syndrome,0.000001,C2675875,77
+1q21.1 microduplication syndrome,0.000001,C2675891,25
+Craniofaciofrontodigital syndrome,0.000001,C2676032,68
+Blindness-scoliosis-arachnodactyly syndrome,0.000001,C2676234,11
+Hypomyelination-hypogonadotropic hypogonadism-hypodontia syndrome,0.000001,C2676243,4
+SLC39A13-related spondylodysplastic Ehlers-Danlos syndrome,0.000001,C2676510,20
+Autosomal dominant spastic paraplegia type 38,0.000001,C2676732,25
+Restrictive dermopathy,0.000001,C0406585,54
+Wiedemann-Rautenstrauch syndrome,0.000001,C0406586,125
+Wrinkly skin syndrome,0.000001,C0406587,60
+Encephalocraniocutaneous lipomatosis,0.000001,C0406612,55
+Absence of fingerprints-congenital milia syndrome,0.000001,C0406707,9
+GAPO syndrome,0.000001,C0406723,54
+Orofaciodigital syndrome type 3,0.000001,C0406726,28
+Orofaciodigital syndrome type 4,0.000001,C0406727,67
+CHAND syndrome,0.000001,C0406733,18
+Amelocerebrohypohidrotic syndrome,0.000001,C0406740,14
+Familial cutaneous collagenoma,0.000001,C0406817,7
+Metachondromatosis,0.000001,C0410530,7
+Craniodiaphyseal dysplasia,0.000001,C0410539,13
+Aniridia-cerebellar ataxia-intellectual disability syndrome,0.000001,C0431401,11
+Humero-radial synostosis,0.000001,C0431800,11
+Schneckenbecken dysplasia,0.000001,C0432194,26
+Boomerang dysplasia,0.000001,C0432201,21
+Pseudodiastrophic dysplasia,0.000001,C0432206,9
+"Spondyloepimetaphyseal dysplasia, Irapa type",0.000001,C0432213,26
+Wolcott-Rallison syndrome,0.000001,C0432217,39
+Opsismodysplasia,0.000001,C0432219,27
+"Spondylometaphyseal dysplasia, 'corner fracture' type",0.000001,C0432221,51
+Spondyloenchondrodysplasia,0.000001,C0432222,46
+"Metaphyseal chondrodysplasia, Spahr type",0.000001,C0432225,17
+Metaphyseal anadysplasia,0.000001,C0432226,9
+Langer mesomelic dysplasia,0.000001,C0432230,13
+Cranioectodermal dysplasia,0.000001,C0432235,30
+Desbuquois syndrome,0.000001,C0432242,29
+Spondyloepimetaphyseal dysplasia with joint laxity,0.000001,C0432243,35
+Osteoporosis-pseudoglioma syndrome,0.000001,C0432252,30
+Geroderma osteodysplastica,0.000001,C0432255,30
+Dysosteosclerosis,0.000001,C0432262,22
+"Dysostosis, Stanescu type",0.000001,C0432263,36
+Osteomesopyknosis,0.000001,C0432264,7
+Osteopathia striata-cranial sclerosis syndrome,0.000001,C0432268,45
+Lenz-Majewski hyperostotic dwarfism,0.000001,C0432269,58
+Hyperostosis corticalis generalisata,0.000001,C0432272,8
+Osteoglosphonic dysplasia,0.000001,C0432283,20
+Dermochondrocorneal dystrophy,0.000001,C0432288,7
+Mandibuloacral dysplasia,0.000001,C0432291,32
+Superficial epidermolytic ichthyosis,0.000001,C0432306,7
+PLEC-related intermediate epidermolysis bullosa simplex without extracutaneous involvement,0.000001,C0432317,10
+"Localized dystrophic epidermolysis bullosa, pretibial form",0.000001,C0432321,32
+Cutis laxa-Marfanoid syndrome,0.000001,C0432335,8
+Autosomal recessive cutis laxa type 1,0.000001,C0432336,42
+Autosomal recessive cutis laxa type 2,0.000001,C0432337,34
+Isotretinoin-like syndrome,0.000001,C0432364,30
+Aminopterin/methotrexate embryofetopathy,0.000001,C0432367,33
+Granulomatous slack skin,0.000001,C0457002,9
+Böök syndrome,0.000001,C0457014,10
+WHIM syndrome,0.000001,C0472817,30
+Autosomal dominant Robinow syndrome,0.000001,C0265205,79
+Weaver syndrome,0.000001,C0265210,42
+Marshall-Smith syndrome,0.000001,C0265211,29
+Neu-Laxova syndrome,0.000001,C0265218,63
+Freeman-Sheldon syndrome,0.000001,C0265224,31
+Marshall syndrome,0.000001,C0265235,42
+Wildervanck syndrome,0.000001,C0265239,11
+Mietens syndrome,0.000001,C0265249,33
+Summitt syndrome,0.000001,C1802405,20
+Carnitine palmitoyl transferase 1A deficiency,0.000001,C1829703,21
+"Multiple epiphyseal dysplasia, Lowry type",0.000001,C1832112,19
+Hypotrichosis with juvenile macular degeneration,0.000001,C1832162,15
+Autosomal agammaglobulinemia,0.000001,C1832241,29
+Oculoauriculofrontonasal syndrome,0.000001,C1832352,21
+"Rhizomelic dysplasia, Patterson-Lowry type",0.000001,C1832359,17
+Jung syndrome,0.000001,C1832362,17
+Cerebrofacioarticular syndrome,0.000001,C1832390,43
+Crisponi syndrome,0.000001,C1832409,23
+"Hidrotic ectodermal dysplasia, Christianson-Fourie type",0.000001,C1832411,10
+Holoprosencephaly-craniosynostosis syndrome,0.000001,C1832424,21
+Distal monosomy 10p,0.000001,C1832431,31
+Autosomal recessive amelia,0.000001,C1832432,13
+Deafness-epiphyseal dysplasia-short stature syndrome,0.000001,C1832438,19
+"Short stature, Brussels type",0.000001,C1832439,10
+Cerebellar ataxia-areflexia-pes cavus-optic atrophy-sensorineural hearing loss syndrome,0.000001,C1832466,13
+Odontomicronychial dysplasia,0.000001,C1832473,7
+Potocki-Shaffer syndrome,0.000001,C1832588,23
+"Craniosynostosis, Philadelphia type",0.000001,C1832590,3
+Osteoporosis-oculocutaneous hypopigmentation syndrome,0.000001,C1832592,12
+Alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome,0.000001,C1832593,3
+Familial isolated hypoparathyroidism,0.000001,C1832648,12
+Matthew-Wood syndrome,0.000001,C1832661,19
+Diaphragmatic defect-limb deficiency-skull defect syndrome,0.000001,C1832668,16
+Brachydactyly type A2,0.000001,C1832702,7
+Fallot complex-intellectual disability-growth delay syndrome,0.000001,C1832735,33
+ALG3-CDG,0.000001,C1832736,43
+Aplasia cutis-myopia syndrome,0.000001,C1832826,11
+Paroxysmal dystonic choreathetosis with episodic ataxia and spasticity,0.000001,C1832855,13
+Hereditary hyperferritinemia-cataract syndrome,0.000001,C1833213,2
+Progressive bifocal chorioretinal atrophy,0.000001,C1833321,7
+Anophthalmia plus syndrome,0.000001,C1833339,16
+Velo-facial-skeletal syndrome,0.000001,C1833380,18
+Satoyoshi syndrome,0.000001,C1833454,24
+"Carnitine palmitoyl transferase II deficiency, severe infantile form",0.000001,C1833511,27
+"Carnitine palmitoyl transferase II deficiency, neonatal form",0.000001,C1833518,41
+HEC syndrome,0.000001,C1833607,12
+Paroxysmal extreme pain disorder,0.000001,C1833661,2
+Inclusion body myopathy with Paget disease of bone and frontotemporal dementia,0.000001,C1833662,42
+Epiphyseal stippling-osteoclastic hyperplasia syndrome,0.000001,C1833676,10
+Otodental syndrome,0.000001,C1833693,25
+Dacryocystitis-osteopoikilosis syndrome,0.000001,C1833698,4
+OSLAM syndrome,0.000001,C1833792,7
+Orofaciodigital syndrome type 10,0.000001,C1833796,26
+Autosomal dominant optic atrophy and cataract,0.000001,C1833809,35
+Ophthalmoplegia-intellectual disability-lingua scrotalis syndrome,0.000001,C1833835,13
+Ophthalmomandibulomelic dysplasia,0.000001,C1833872,19
+Odontomatosis-aortae esophagus stenosis syndrome,0.000001,C1834013,6
+Spinal muscular atrophy-progressive myoclonic epilepsy syndrome,0.000001,C1834569,29
+X-linked intellectual disability-retinitis pigmentosa syndrome,0.000001,C0795873,2
+Allan-Herndon-Dudley syndrome,0.000001,C0795889,49
+Alopecia-contractures-dwarfism-intellectual disability syndrome,0.000001,C0795895,35
+Cleft palate-lateral synechia syndrome,0.000001,C0795898,8
+Uveal coloboma-cleft lip and palate-intellectual disability,0.000001,C0795902,17
+"Hypertrichotic osteochondrodysplasia, Cantu type",0.000001,C0795905,38
+X-linked Charcot-Marie-Tooth disease type 4,0.000001,C0795910,16
+Cataract-nephropathy-encephalopathy syndrome,0.000001,C0795914,6
+Alpha-thalassemia-intellectual disability syndrome linked to chromosome 16,0.000001,C0795917,32
+DOORS syndrome,0.000001,C0795927,87
+Edinburgh malformation syndrome,0.000001,C0795933,28
+Faciocardiorenal syndrome,0.000001,C0795936,14
+Pseudoaminopterin syndrome,0.000001,C0795939,59
+Filippi syndrome,0.000001,C0795940,41
+Aymé-Gripp syndrome,0.000001,C0795941,66
+Fountain syndrome,0.000001,C0795944,44
+Subaortic stenosis-short stature syndrome,0.000001,C0795947,26
+Galloway-Mowat syndrome,0.000001,C0795949,28
+XK aprosencephaly syndrome,0.000001,C0795952,11
+Chylomicron retention disease,0.000001,C0795956,20
+Gómez-López-Hernández syndrome,0.000001,C0795959,22
+"Severe X-linked intellectual disability, Gustavson type",0.000001,C0795965,33
+"Hereditary bullous dystrophy, macular type",0.000001,C0795974,21
+Intellectual disability-spasticity-ectrodactyly syndrome,0.000001,C0796001,9
+Johnson neuroectodermal syndrome,0.000001,C0796002,27
+Kapur-Toriello syndrome,0.000001,C0796005,22
+Peters plus syndrome,0.000001,C0796012,83
+Zimmermann-Laband syndrome,0.000001,C0796013,43
+Hennekam syndrome,0.000001,C0340834,51
+Microvillus inclusion disease,0.000001,C0341306,11
+Congenital pancreatic cyst,0.000001,C0341480,6
+AREDYLD syndrome,0.000001,C0342280,26
+Multiple synostoses syndrome,0.000001,C0342282,10
+Bangstad syndrome,0.000001,C0342284,20
+Woodhouse-Sakati syndrome,0.000001,C0342286,34
+Thiamine-responsive megaloblastic anemia syndrome,0.000001,C0342287,20
+Immune dysregulation-polyendocrinopathy-enteropathy-X-linked syndrome,0.000001,C0342288,52
+Pallister-Hall syndrome,0.000001,C0342418,93
+Dopamine beta-hydroxylase deficiency,0.000001,C0342687,28
+Transcobalamin deficiency,0.000001,C0342701,12
+Hereditary folate malabsorption,0.000001,C0342705,25
+3-methylglutaconic aciduria type 1,0.000001,C0342728,13
+3-hydroxyisobutyric aciduria,0.000001,C0342737,15
+Neurodegeneration due to 3-hydroxyisobutyryl-CoA hydrolase deficiency,0.000001,C0342738,31
+Pearson syndrome,0.000001,C0342784,66
+Carnitine-acylcarnitine translocase deficiency,0.000001,C0342791,29
+Fish-eye disease,0.000001,C0342895,8
+Systemic capillary leak syndrome,0.000001,C0343084,21
+Wells syndrome,0.000001,C0343101,9
+Flynn-Aird syndrome,0.000001,C0343108,30
+Naegeli-Franceschetti-Jadassohn syndrome,0.000001,C0343111,28
+Acromelic frontonasal dysplasia,0.000001,C0796182,34
+Urban-Rogers-Meyer syndrome,0.000001,C0796189,28
+Van den Bosch syndrome,0.000001,C0796192,11
+Early-onset parkinsonism-intellectual disability syndrome,0.000001,C0796195,9
+Blepharonasofacial malformation syndrome,0.000001,C0796197,28
+Intellectual disability-developmental delay-contractures syndrome,0.000001,C0796200,14
+Atkin-Flaitz syndrome,0.000001,C0796206,16
+Bohring-Opitz syndrome,0.000001,C0796232,63
+X-linked intellectual disability-Dandy-Walker malformation-basal ganglia disease-seizures syndrome,0.000001,C0796254,7
+X-linked intellectual disability-hypogonadism-ichthyosis-obesity-short stature syndrome,0.000001,C0796264,18
+Riboflavin transporter deficiency,0.000001,C0796274,35
+Acromegaloid facial appearance syndrome,0.000001,C0796280,26
+Cataract-hypertrichosis-intellectual disability syndrome,0.000001,C0796282,8
+Schimke immuno-osseous dysplasia,0.000001,C0877024,70
+Glycogen storage disease due to LAMP-2 deficiency,0.000001,C0878677,6
+SHORT syndrome,0.000001,C0878684,37
+Myoclonic epilepsy of infancy,0.000001,C0917800,21
+Frasier syndrome,0.000001,C0950122,16
+Occipital horn syndrome,0.000001,C1096660,69
+Isolated ectopia lentis,0.000001,C2746069,11
+"Spondyloepimetaphyseal dysplasia, aggrecan type",0.000001,C2748544,17
+EAST syndrome,0.000001,C2748572,25
+Microduplication Xp11.22p11.23 syndrome,0.000001,C2749022,12
+X-linked endothelial corneal dystrophy,0.000001,C2749049,7
+Autosomal recessive spastic paraplegia type 18,0.000001,C2749936,34
+Combined immunodeficiency with faciooculoskeletal anomalies,0.000001,C2750068,57
+Distal anoctaminopathy,0.000001,C2750076,12
+BNAR syndrome,0.000001,C2750433,7
+Cirrhosis-dystonia-polycythemia-hypermanganesemia syndrome,0.000001,C2750442,37
+17p13.3 microduplication syndrome,0.000001,C2750748,19
+Autosomal recessive spastic paraplegia type 44,0.000001,C2750784,16
+Congenital muscular dystrophy due to LMNA mutation,0.000001,C2750785,22
+Polymicrogyria with optic nerve hypoplasia,0.000001,C2750798,13
+Infantile dystonia-parkinsonism,0.000001,C2751067,20
+Congenital cataract-progressive muscular hypotonia-hearing loss-developmental delay syndrome,0.000001,C2751320,12
+RIN2 syndrome,0.000001,C2751321,27
+"46,XY gonadal dysgenesis-motor and sensory neuropathy syndrome",0.000001,C2751325,24
+3-hydroxy-3-methylglutaryl-CoA synthase deficiency,0.000001,C2751532,3
+19q13.11 microdeletion syndrome,0.000001,C2751651,41
+Adult-onset dystonia-parkinsonism,0.000001,C2751842,30
+DPM3-CDG,0.000001,C2752007,15
+Zechi-Ceide syndrome,0.000001,C2752047,32
+Ramos-Arroyo syndrome,0.000001,C2930866,44
+External auditory canal atresia-vertical talus-hypertelorism syndrome,0.000001,C2930867,6
+Pelvic dysplasia-arthrogryposis of lower limbs syndrome,0.000001,C2930869,10
+Mesomelic dwarfism-cleft palate-camptodactyly syndrome,0.000001,C2930871,17
+Trisomy 20p,0.000001,C2930888,71
+Biemond syndrome type 2,0.000001,C2930903,12
+Mosaic trisomy 9,0.000001,C2930908,61
+Marinesco-Sjögren syndrome,0.000001,C0024814,43
+Diffuse cutaneous mastocytosis,0.000001,C0024901,25
+Melnick-Needles syndrome,0.000001,C0025237,35
+Melorheostosis,0.000001,C0025239,17
+Isolated oxycephaly,0.000001,C0030044,9
+Juvenile temporal arteritis,0.000001,C0751547,8
+Mild Canavan disease,0.000001,C0751667,15
+"Pelizaeus-Merzbacher disease, transitional form",0.000001,C0751917,5
+Isaac syndrome,0.000001,C0751919,12
+Spinocerebellar ataxia type 5,0.000001,C0752123,4
+Trisomy 8q,0.000001,C0795829,30
+Tetrasomy 9p,0.000001,C0795832,78
+Kleefstra syndrome,0.000001,C0795833,67
+Kleefstra syndrome due to 9q34 microdeletion,0.000001,C0795833,56
+Ring chromosome 12 syndrome,0.000001,C0795843,26
+Plummer-Vinson syndrome,0.000001,C0032249,15
+Poliomyelitis,0.000001,C0032371,45
+Hutchinson-Gilford progeria syndrome,0.000001,C0033300,88
+Kimura disease,0.000001,C0033838,5
+Tricho-retino-dento-digital syndrome,0.000001,C1860605,9
+Upper limb mesomelic dysplasia,0.000001,C1860614,3
+Ulna metaphyseal dysplasia syndrome,0.000001,C1860615,15
+Triose phosphate-isomerase deficiency,0.000001,C1860808,7
+Trichodysplasia-xeroderma syndrome,0.000001,C1860822,10
+Tremor-nystagmus-duodenal ulcer syndrome,0.000001,C1860860,4
+Tetramelic monodactyly,0.000001,C1861233,2
+Blau syndrome,0.000001,C1861303,45
+Tarsal-carpal coalition syndrome,0.000001,C1861305,3
+Syndactyly type 5,0.000001,C1861348,8
+Syndactyly type 4,0.000001,C1861355,9
+Symphalangism with multiple anomalies of hands and feet,0.000001,C1861391,21
+Distal symphalangism,0.000001,C1861401,4
+Short stature-wormian bones-dextrocardia syndrome,0.000001,C1861448,25
+Stormorken-Sjaastad-Langslet syndrome,0.000001,C1861451,12
+Stiff skin syndrome,0.000001,C1861456,20
+Cleidorhizomelic syndrome,0.000001,C1861515,7
+Blepharo-cheilo-odontic syndrome,0.000001,C1861536,15
+Cataract-aberrant oral frenula-growth delay syndrome,0.000001,C1861835,10
+Camptobrachydactyly,0.000001,C1861963,9
+Hereditary painful callosities,0.000001,C1861964,2
+Brachymorphism-onychodysplasia-dysphalangism syndrome,0.000001,C1862082,38
+Sillence syndrome,0.000001,C1862092,26
+Fibular aplasia-ectrodactyly syndrome,0.000001,C1862100,4
+Brachydactyly-preaxial hallux varus syndrome,0.000001,C1862162,13
+Brachydactyly-arterial hypertension syndrome,0.000001,C1862170,5
+Cole-Carpenter syndrome,0.000001,C1862178,26
+Blepharoptosis-myopia-ectopia lentis syndrome,0.000001,C1862259,10
+Banki syndrome,0.000001,C1862319,4
+Auriculoosteodysplasia,0.000001,C1862381,10
+Spastic ataxia with congenital miosis,0.000001,C1862441,8
+Arthrogryposis-like hand anomaly-sensorineural deafness syndrome,0.000001,C1862471,5
+Aortic arch anomaly-facial dysmorphism-intellectual disability syndrome,0.000001,C1862682,23
+Cooks syndrome,0.000001,C1862841,8
+Anonychia with flexural pigmentation,0.000001,C1862844,11
+Aniridia-absent patella syndrome,0.000001,C1862868,8
+Amelo-onycho-hypohidrotic syndrome,0.000001,C1863006,15
+Alopecia-epilepsy-pyorrhea-intellectual disability syndrome,0.000001,C1863090,14
+Autosomal dominant palmoplantar keratoderma and congenital alopecia,0.000001,C1863093,21
+Hypoglossia-hypodactyly syndrome,0.000001,C1863203,26
+ADULT syndrome,0.000001,C1863204,24
+Acropectorovertebral dysplasia,0.000001,C1863307,12
+"Blepharophimosis-intellectual disability syndrome, SBBYS type",0.000001,C1863557,43
+Hereditary myopathy with early respiratory failure,0.000001,C1863599,23
+Autosomal dominant spastic paraplegia type 8,0.000001,C1863704,22
+Spondyloepimetaphyseal dysplasia with multiple dislocations,0.000001,C1863732,38
+Limb-mammary syndrome,0.000001,C1863753,29
+Arrhinia-choanal atresia-microphthalmia syndrome,0.000001,C1863878,12
+Radioulnar synostosis-microcephaly-scoliosis syndrome,0.000001,C1863881,19
+Megalencephaly-polymicrogyria-postaxial polydactyly-hydrocephalus syndrome,0.000001,C1863924,16
+Craniosynostosis-anal anomalies-porokeratosis syndrome,0.000001,C1864186,35
+"Acromesomelic dysplasia, Maroteaux type",0.000001,C1864356,18
+Mandibulofacial dysostosis-microcephaly syndrome,0.000001,C1864652,30
+Hypomyelination-congenital cataract syndrome,0.000001,C1864663,6
+Congenital neuronal ceroid lipofuscinosis,0.000001,C1864670,28
+Microphthalmia with brain and digit anomalies,0.000001,C1864689,23
+Finnish upper limb-onset distal myopathy,0.000001,C1864706,16
+Talo-patello-scaphoid osteolysis,0.000001,C1864784,6
+Lethal acantholytic erosive disorder,0.000001,C1864826,23
+Camptodactyly-tall stature-scoliosis-hearing loss syndrome,0.000001,C1864852,4
+CHIME syndrome,0.000001,C1848392,48
+Xeroderma pigmentosum variant,0.000001,C1848410,13
+"Intellectual disability, Wolff type",0.000001,C1848439,29
+White forelock with malformations,0.000001,C1848463,19
+"Methylmalonic acidemia with homocystinuria, type cblD",0.000001,C1848552,12
+Methylmalonic acidemia with homocystinuria type cblF,0.000001,C1848578,26
+Oculogastrointestinal muscular dystrophy,0.000001,C1848586,13
+Thyrocerebrorenal syndrome,0.000001,C1848813,11
+Upper limb defect-eye and ear abnormalities syndrome,0.000001,C1848816,12
+Thoracic dysplasia-hydrocephalus syndrome,0.000001,C1848864,13
+"Spondyloepiphyseal dysplasia tarda, Kohn type",0.000001,C1849053,11
+Spondylocostal dysostosis-anal atresia-genitourinary malformation syndrome,0.000001,C1849069,20
+Spastic ataxia-corneal dystrophy syndrome,0.000001,C1849085,12
+Spinocerebellar degeneration-corneal dystrophy syndrome,0.000001,C1849087,9
+Spinocerebellar ataxia-dysmorphism syndrome,0.000001,C1849088,26
+Autosomal recessive spinocerebellar ataxia-blindness-deafness syndrome,0.000001,C1849094,19
+Infantile-onset spinocerebellar ataxia,0.000001,C1849096,7
+Spastic tetraplegia-retinitis pigmentosa-intellectual disability syndrome,0.000001,C1849112,5
+Spastic paraplegia-glaucoma-intellectual disability syndrome,0.000001,C1849113,4
+Autosomal recessive spastic paraplegia type 15,0.000001,C1849128,37
+Ectodermal dysplasia-blindness syndrome,0.000001,C1849332,25
+Autosomal recessive Robinow syndrome,0.000001,C1849334,80
+"Rhizomelic syndrome, Urbach type",0.000001,C1849382,26
+Retinitis pigmentosa-intellectual disability-deafness-hypogonadism syndrome,0.000001,C1849401,27
+Knobloch syndrome,0.000001,C1849409,25
+Osteopetrosis with renal tubular acidosis,0.000001,C1849435,58
+Ulbright-Hodes syndrome,0.000001,C1849438,42
+Pyknoachondrogenesis,0.000001,C1849523,21
+Acrootoocular syndrome,0.000001,C1849661,41
+Peroxisomal acyl-CoA oxidase deficiency,0.000001,C1849678,29
+"46,XX disorder of sex development-skeletal anomalies syndrome",0.000001,C1849696,11
+Adult polyglucosan body disease,0.000001,C1849722,18
+Postaxial polydactyly-dental and vertebral anomalies syndrome,0.000001,C1849732,29
+Pili torti-developmental delay-neurological abnormalities syndrome,0.000001,C1849811,10
+PHAVER syndrome,0.000001,C1849928,26
+Pfeiffer-Palm-Teller syndrome,0.000001,C1849929,8
+Brittle cornea syndrome,0.000001,C0268344,34
+Autosomal dominant cutis laxa,0.000001,C0268350,57
+De Barsy syndrome,0.000001,C0268354,64
+Juvenile Paget disease,0.000001,C0268414,17
+Thyrotoxic periodic paralysis,0.000001,C0268446,42
+Dopa-responsive dystonia due to sepiapterin reductase deficiency,0.000001,C0268468,26
+Hydroxykynureninuria,0.000001,C0268474,17
+Tyrosinemia type 2,0.000001,C0268487,17
+Åland Islands eye disease,0.000001,C0268505,8
+Urocanic aciduria,0.000001,C0268514,11
+Hyperornithinemia-hyperammonemia-homocitrullinuria syndrome,0.000001,C0268540,39
+Hyperammonemia due to N-acetylglutamate synthase deficiency,0.000001,C0268543,41
+Juvenile nephropathic cystinosis,0.000001,C0268626,38
+Histidinuria-renal tubular defect syndrome,0.000001,C0268642,14
+Early myoclonic encephalopathy,0.000001,C0270855,17
+Ermine phenotype,0.000001,C1856899,16
+Epilepsy-telangiectasia syndrome,0.000001,C1856929,10
+Junctional epidermolysis bullosa with pyloric atresia,0.000001,C1856934,21
+Bonnemann-Meinecke-Reich syndrome,0.000001,C1856973,11
+Pontocerebellar hypoplasia type 4,0.000001,C1856974,14
+Cardiac-valvular Ehlers-Danlos syndrome,0.000001,C1857034,46
+Ectrodactyly-polydactyly syndrome,0.000001,C1857040,7
+EEM syndrome,0.000001,C1857041,16
+Hypohidrotic ectodermal dysplasia-hypothyroidism-ciliary dyskinesia syndrome,0.000001,C1857052,15
+Ectodermal dysplasia-sensorineural deafness syndrome,0.000001,C1857068,14
+Schöpf-Schulz-Passarge syndrome,0.000001,C1857069,12
+Progressive encephalopathy with leukodystrophy due to DECR deficiency,0.000001,C1857252,28
+Donnai-Barrow syndrome,0.000001,C1857277,28
+"Dermatoosteolysis, Kirghizian type",0.000001,C1857301,21
+Dermatoleukodystrophy,0.000001,C1857314,6
+Deafness-oligodontia syndrome,0.000001,C1857333,4
+Deafness-small bowel diverticulosis-neuropathy syndrome,0.000001,C1857338,16
+Deafness-vitiligo-achalasia syndrome,0.000001,C1857339,6
+Conductive deafness-ptosis-skeletal anomalies syndrome,0.000001,C1857340,16
+Dandy-Walker malformation-postaxial polydactyly syndrome,0.000001,C1857351,2
+Facial dysmorphism-macrocephaly-myopia-Dandy-Walker malformation syndrome,0.000001,C1857352,29
+Craniotelencephalic dysplasia,0.000001,C1857471,15
+Craniosynostosis-fibular aplasia syndrome,0.000001,C1857492,27
+Craniofacial dyssynostosis,0.000001,C1857511,29
+Temtamy syndrome,0.000001,C1857512,25
+Crane-Heise syndrome,0.000001,C1857532,20
+Cortical blindness-intellectual disability-polydactyly syndrome,0.000001,C1857568,14
+Corneal dystrophy-perceptive deafness syndrome,0.000001,C1857572,5
+Multiple pterygium-malignant hyperthermia syndrome,0.000001,C1857576,60
+Amaurosis-hypertrichosis syndrome,0.000001,C1857588,11
+Familial reactive perforating collagenosis,0.000001,C1857624,15
+Joubert syndrome with hepatic defect,0.000001,C1857662,48
+Yunis-Varon syndrome,0.000001,C1857663,86
+"Heart-hand syndrome, Slovenian type",0.000001,C1857829,7
+Obesity due to pro-opiomelanocortin deficiency,0.000001,C1857854,18
+Autosomal dominant spastic paraplegia type 29,0.000001,C1857855,14
+Brooke-Spiegler syndrome,0.000001,C1857941,17
+Wormian bone-multiple fractures-dentinogenesis imperfecta-skeletal dysplasia,0.000001,C1858032,13
+Autosomal dominant spastic paraplegia type 12,0.000001,C1858106,24
+Huntington disease-like 3,0.000001,C1858114,22
+Spinocerebellar ataxia type 11,0.000001,C1858351,11
+Pyogenic arthritis-pyoderma gangrenosum-acne syndrome,0.000001,C1858361,15
+Patent ductus arteriosus-bicuspid aortic valve-hand anomalies syndrome,0.000001,C1858420,8
+Spinocerebellar ataxia type 12,0.000001,C1858501,20
+"Blepharophimosis-intellectual disability syndrome, Verloes type",0.000001,C1858538,32
+Carney triad,0.000001,C1858592,21
+Autosomal dominant spastic paraplegia type 10,0.000001,C1858712,27
+Dracunculiasis,0.000001,C0013100,15
+Encephalitis lethargica,0.000001,C0014040,28
+Hereditary sensory and autonomic neuropathy type 5,0.000001,C0020075,11
+Lassa fever,0.000001,C0023092,23
+LCAT deficiency,0.000001,C0023195,12
+Locked-in syndrome,0.000001,C0023944,16
+Chilblain lupus,0.000001,C0024145,13
+Marburg hemorrhagic fever,0.000001,C0024788,61
+"Deafness-intellectual disability syndrome, Martin-Probst type",0.000001,C1845285,32
+X-linked intellectual disability-cerebellar hypoplasia syndrome,0.000001,C1845366,32
+Corpus callosum agenesis-intellectual disability-coloboma-micrognathia syndrome,0.000001,C1845446,24
+X-linked intellectual disability-cubitus valgus-dysmorphism syndrome,0.000001,C1845450,17
+HSD10 disease,0.000001,C1845517,36
+Thrombocytopenia with congenital dyserythropoietic anemia,0.000001,C1845837,7
+"X-linked intellectual disability, Cabezas type",0.000001,C1845861,49
+X-linked severe congenital neutropenia,0.000001,C1845987,3
+IMAGe syndrome,0.000001,C1846009,13
+Adrenomyodystrophy,0.000001,C1846044,16
+X-linked spastic paraplegia type 16,0.000001,C1846046,9
+"X-linked intellectual disability, Siderius type",0.000001,C1846055,12
+"X-linked intellectual disability, Abidi type",0.000001,C1846056,12
+"X-linked intellectual disability, Armfield type",0.000001,C1846057,37
+Roifman syndrome,0.000001,C1846059,38
+Hoyeraal-Hreidarsson syndrome,0.000001,C1846142,28
+Syndromic X-linked intellectual disability 7,0.000001,C1846170,15
+Alport syndrome-intellectual disability-midface hypoplasia-elliptocytosis syndrome,0.000001,C1846242,22
+Spinocerebellar ataxia type 19/22,0.000001,C1846367,19
+Lathosterolosis,0.000001,C1846421,45
+Autosomal recessive cerebellar ataxia-movement disorder syndrome,0.000001,C1846492,19
+Spinocerebellar ataxia with axonal neuropathy type 1,0.000001,C1846574,20
+Cloverleaf skull-multiple congenital anomalies syndrome,0.000001,C1846671,27
+Autosomal dominant spastic paraplegia type 19,0.000001,C1846685,22
+"Multiple epiphyseal dysplasia, Al-Gazali type",0.000001,C1846722,20
+Multiple epiphyseal dysplasia type 5,0.000001,C1846843,21
+CAMOS syndrome,0.000001,C1847114,15
+Carney-Stratakis syndrome,0.000001,C1847319,10
+Intellectual disability-obesity-prognathism-eye and skin anomalies syndrome,0.000001,C1847522,27
+Distal myopathy with anterior tibial onset,0.000001,C1847532,10
+Familial dyskinesia and facial myokymia,0.000001,C1847627,15
+Kufor-Rakeb syndrome,0.000001,C1847640,43
+Autosomal dominant Charcot-Marie-Tooth disease type 2F,0.000001,C1847823,12
+LIG4 syndrome,0.000001,C1847827,35
+Episodic ataxia type 3,0.000001,C1847839,9
+Episodic ataxia type 4,0.000001,C1847843,10
+Huntington disease-like 2,0.000001,C1847987,18
+Classical-like Ehlers-Danlos syndrome type 1,0.000001,C1848029,21
+Hypotonia-cystinuria syndrome,0.000001,C1848030,14
+X-linked intellectual disability with isolated growth hormone deficiency,0.000001,C1848068,12
+Female restricted epilepsy with intellectual disability,0.000001,C1848137,28
+X-linked immunoneurologic disorder,0.000001,C1848144,12
+Rotor syndrome,0.000001,C0220991,7
+Malignant atrophic papulosis,0.000001,C0221011,33
+Mu-heavy chain disease,0.000001,C0242310,12
+Myoclonus-cerebellar ataxia-deafness syndrome,0.000001,C1834579,10
+Autosomal dominant limb-girdle muscular dystrophy type 1A,0.000001,C1834659,24
+MOMO syndrome,0.000001,C1834759,43
+Microgastria-limb reduction defect syndrome,0.000001,C1834929,47
+Microcornea-glaucoma-absent frontal sinuses syndrome,0.000001,C1834935,10
+"Mesomelic dysplasia, Kantaputra type",0.000001,C1835009,15
+Delayed membranous cranial ossification,0.000001,C1835030,7
+Pai syndrome,0.000001,C1835087,16
+Hypo- and hypermelanotic cutaneous macules-retarded growth-intellectual disability syndrome,0.000001,C1835172,8
+Lymphedema-cerebral arteriovenous anomaly syndrome,0.000001,C1835272,2
+Leri pleonosteosis,0.000001,C1835450,23
+Hereditary hyperekplexia,0.000001,C1835614,21
+Keratosis palmaris et plantaris-clinodactyly syndrome,0.000001,C1835663,3
+Palmoplantar keratoderma-esophageal carcinoma syndrome,0.000001,C1835664,13
+Palmoplantar keratoderma-deafness syndrome,0.000001,C1835672,3
+Body skin hyperlaxity due to vitamin K-dependent coagulation factor deficiency,0.000001,C1835813,8
+Primary immunodeficiency syndrome due to LAMTOR2 deficiency,0.000001,C1835829,7
+Cardiomyopathy-hypotonia-lactic acidosis syndrome,0.000001,C1835845,11
+DK1-CDG,0.000001,C1835849,28
+Ichthyosis-hypotrichosis syndrome,0.000001,C1835851,2
+Autosomal spastic paraplegia type 30,0.000001,C1835896,15
+Neurological conditions associated with aminoacylase 1 deficiency,0.000001,C1835922,13
+Combined immunodeficiency due to partial RAG1 deficiency,0.000001,C1835931,10
+Spastic paraplegia-optic atrophy-neuropathy syndrome,0.000001,C1836010,20
+CEDNIK syndrome,0.000001,C1836033,33
+Goldberg-Shprintzen megacolon syndrome,0.000001,C1836123,23
+"Late-onset distal myopathy, Markesbery-Griggs type",0.000001,C1836155,19
+Mesoaxial synostotic syndactyly with phalangeal reduction,0.000001,C1836206,12
+Autosomal recessive spastic paraplegia type 28,0.000001,C1836295,13
+MEDNIK syndrome,0.000001,C1836330,8
+POMT1-related  limb-girdle muscular dystrophy R11,0.000001,C1836373,31
+Spinocerebellar ataxia type 27,0.000001,C1836383,20
+Spinocerebellar ataxia type 26,0.000001,C1836395,15
+Childhood-onset autosomal recessive slowly progressive spinocerebellar ataxia,0.000001,C1836474,21
+Alpha-N-acetylgalactosaminidase deficiency type 2,0.000001,C1836522,18
+Alpha-N-acetylgalactosaminidase deficiency,0.000001,C1836544,28
+Alpha-N-acetylgalactosaminidase deficiency type 1,0.000001,C1836544,30
+Alpha-N-acetylgalactosaminidase deficiency type 3,0.000001,C1836545,8
+Griscelli syndrome type 3,0.000001,C1836573,3
+Autosomal recessive spastic paraplegia type 26,0.000001,C1836632,20
+MPDU1-CDG,0.000001,C1836669,22
+Branchiogenic deafness syndrome,0.000001,C1836673,21
+Autosomal dominant striatal neurodegeneration,0.000001,C1836694,7
+Peripheral demyelinating neuropathy-central dysmyelinating leukodystrophy-Waardenburg syndrome-Hirschsprung disease,0.000001,C1836727,31
+Permanent neonatal diabetes mellitus-pancreatic and cerebellar agenesis syndrome,0.000001,C1836780,7
+"Spondylometaphyseal dysplasia, A4 type",0.000001,C1836862,8
+Autosomal recessive spastic paraplegia type 27,0.000001,C1836899,9
+Posterior column ataxia-retinitis pigmentosa syndrome,0.000001,C1836916,27
+Spondylometaphyseal dysplasia-cone-rod dystrophy syndrome,0.000001,C1837073,37
+Hereditary cryohydrocytosis with reduced stomatin,0.000001,C1837206,32
+Sudden infant death-dysgenesis of the testes syndrome,0.000001,C1837371,17
+DPM1-CDG,0.000001,C1837396,58
+Growth delay due to insulin-like growth factor type 1 deficiency,0.000001,C1837475,41
+"Autosomal dominant generalized epidermolysis bullosa simplex, severe form",0.000001,C0079295,44
+Proteus syndrome,0.000001,C0085261,101
+IRIDA syndrome,0.000001,C0085576,8
